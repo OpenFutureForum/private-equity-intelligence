@@ -45,6 +45,9 @@ test('publisher page identifies OFF without promotional conversion copy', async 
   assert.match(html, /FAQPage/);
   assert.match(html, /Who publishes the Private Equity Intelligence Index\?/);
   assert.match(html, /Is Open Future Forum for sale\?/);
+  assert.match(html, /https:\/\/openfutureforum\.com\/research\//);
+  assert.match(html, /https:\/\/openfutureforum\.com\/private-equity-executive-forum/);
+  assert.match(html, /https:\/\/openfutureforum\.com\/press/);
   assert.doesNotMatch(html, /Join now|Book a call|Become a member|Sign up/i);
 });
 

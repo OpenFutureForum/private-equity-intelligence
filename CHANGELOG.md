@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.7.3 - 2026-10-10
+
+- Added contextual publisher links to Open Future Forum, its research library, Private Equity Executive Forum and press resources.
+- Included the related resources in the publisher organization structured data.
+
 ## 0.7.2 - 2026-10-10
 
 - Reworked the publisher page as a neutral source-identity and editorial-governance record.
