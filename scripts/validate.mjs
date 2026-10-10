@@ -85,7 +85,8 @@ for (const person of people) {
 
 for (const market of markets) {
   assert(market.name && market.region && market.description, `markets/${market.id}: missing required display fields`);
-  assert(Number.isFinite(market.coordinates?.x) && Number.isFinite(market.coordinates?.y), `markets/${market.id}: invalid map coordinates`);
+  assert(Number.isFinite(market.coordinates?.longitude) && market.coordinates.longitude >= -180 && market.coordinates.longitude <= 180, `markets/${market.id}: invalid longitude`);
+  assert(Number.isFinite(market.coordinates?.latitude) && market.coordinates.latitude >= -90 && market.coordinates.latitude <= 90, `markets/${market.id}: invalid latitude`);
   assert(people.some((person) => person.market_id === market.id), `markets/${market.id}: no current professional profiles`);
 }
 

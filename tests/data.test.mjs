@@ -17,6 +17,21 @@ test('National Edition has meaningful depth', async () => {
   assert.ok(deals.reduce((n, d) => n + d.people_roles.length, 0) >= 20);
 });
 
+test('atlas counts reconcile to its market records', async () => {
+  const [people, firms, markets] = await Promise.all([load('people'), load('firms'), load('markets')]);
+  const atlasPeople = people.filter((person) => person.profile_scope.includes('us_atlas'));
+  const profileTotal = markets.reduce((total, market) => total + atlasPeople.filter((person) => person.market_id === market.id).length, 0);
+  const atlasFirms = firms.filter((firm) => firm.us_market_ids?.length);
+  const firmMarketAssociations = markets.reduce((total, market) => total + firms.filter((firm) => firm.us_market_ids?.includes(market.id)).length, 0);
+
+  assert.equal(profileTotal, atlasPeople.length);
+  assert.equal(atlasPeople.filter((person) => ['explicit_person_bio', 'explicit_office_filter'].includes(person.location_evidence)).length, 86);
+  assert.equal(atlasPeople.filter((person) => person.location_evidence === 'firm_office_association').length, 26);
+  assert.equal(atlasFirms.length, 18);
+  assert.equal(firmMarketAssociations, 22);
+  assert.equal(markets.every((market) => Number.isFinite(market.coordinates.longitude) && Number.isFinite(market.coordinates.latitude)), true);
+});
+
 test('every confirmed person relationship has explicit source attribution', async () => {
   const deals = await load('deals');
   for (const deal of deals) for (const role of deal.people_roles) {

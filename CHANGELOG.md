@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.2.3 (2026-10-10)
+
+- Replaced the distorted atlas illustration with a geographic map built from U.S. Census Bureau cartographic boundaries.
+- Positioned market markers from longitude and latitude rather than hand-tuned percentages.
+- Relabeled atlas figures as index coverage counts and documented how the profile and firm totals reconcile.
+- Added tests for atlas totals, geographic coordinates and the generated map.
+
 ## 0.2.2 (2026-10-10)
 
 - Rewrote the public-facing copy in direct, specific language.

@@ -1,6 +1,6 @@
 {
   "name": "private-equity-intelligence",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "private": true,
   "type": "module",
   "description": "Open-source intelligence on private-equity deals, people, firms and advisers from Open Future Forum.",
@@ -14,5 +14,10 @@
   },
   "engines": {
     "node": ">=22"
+  },
+  "devDependencies": {
+    "d3-geo": "^3.1.1",
+    "topojson-client": "^3.1.0",
+    "us-atlas": "^3.0.1"
   }
 }

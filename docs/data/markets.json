@@ -6,7 +6,9 @@
     "region": "West",
     "coordinates": {
       "x": 10,
-      "y": 48
+      "y": 48,
+      "longitude": -122.4194,
+      "latitude": 37.7749
     },
     "description": "Technology-oriented buyout, growth-equity and operating talent across San Francisco, Menlo Park and the broader Bay Area."
   },
@@ -17,7 +19,9 @@
     "region": "West",
     "coordinates": {
       "x": 14,
-      "y": 68
+      "y": 68,
+      "longitude": -118.2437,
+      "latitude": 34.0522
     },
     "description": "Large-cap, middle-market and operationally focused private equity centered in Los Angeles and Beverly Hills."
   },
@@ -28,7 +32,9 @@
     "region": "South",
     "coordinates": {
       "x": 45,
-      "y": 73
+      "y": 73,
+      "longitude": -97.7431,
+      "latitude": 30.2672
     },
     "description": "A growing technology and financial-services investment hub with expanding private-capital offices."
   },
@@ -39,7 +45,9 @@
     "region": "South",
     "coordinates": {
       "x": 43,
-      "y": 65
+      "y": 65,
+      "longitude": -97.3308,
+      "latitude": 32.7555
     },
     "description": "A major Texas base for diversified alternative investment platforms and private-market operations."
   },
@@ -50,7 +58,9 @@
     "region": "Midwest",
     "coordinates": {
       "x": 62,
-      "y": 42
+      "y": 42,
+      "longitude": -87.6298,
+      "latitude": 41.8781
     },
     "description": "A long-established center for middle-market buyouts, sector specialization and management-partnership strategies."
   },
@@ -61,7 +71,9 @@
     "region": "Midwest",
     "coordinates": {
       "x": 71,
-      "y": 39
+      "y": 39,
+      "longitude": -81.6944,
+      "latitude": 41.4993
     },
     "description": "A regional lower-middle-market hub with industrial, services and value-creation expertise."
   },
@@ -72,7 +84,9 @@
     "region": "Southeast",
     "coordinates": {
       "x": 78,
-      "y": 59
+      "y": 59,
+      "longitude": -80.8431,
+      "latitude": 35.2271
     },
     "description": "A Southeast private-capital and financial-services center with regional middle-market coverage."
   },
@@ -83,7 +97,9 @@
     "region": "Mid-Atlantic",
     "coordinates": {
       "x": 84,
-      "y": 48
+      "y": 48,
+      "longitude": -77.0369,
+      "latitude": 38.9072
     },
     "description": "A global private-equity center shaped by policy, government, defense, technology and regulated industries."
   },
@@ -94,7 +110,9 @@
     "region": "Northeast",
     "coordinates": {
       "x": 89,
-      "y": 36
+      "y": 36,
+      "longitude": -74.006,
+      "latitude": 40.7128
     },
     "description": "The largest U.S. concentration of diversified alternative managers, buyout firms and private-market advisers."
   },
@@ -105,7 +123,9 @@
     "region": "Northeast",
     "coordinates": {
       "x": 94,
-      "y": 29
+      "y": 29,
+      "longitude": -71.0589,
+      "latitude": 42.3601
     },
     "description": "A center for growth equity, technology, healthcare and long-tenured private-equity franchises."
   }

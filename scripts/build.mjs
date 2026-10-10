@@ -1,6 +1,8 @@
 import { mkdir, readFile, rm, writeFile, copyFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { geoAlbersUsa, geoPath } from 'd3-geo';
+import { feature, mesh } from 'topojson-client';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const out = path.join(root, 'docs');
@@ -11,6 +13,11 @@ const load = async (name) => JSON.parse(await readFile(path.join(root, 'data', `
 const [companies, firms, people, providers, deals, sources, framework, markets] = await Promise.all([
   load('companies'), load('firms'), load('people'), load('providers'), load('deals'), load('sources'), load('framework'), load('markets')
 ]);
+const usTopology = JSON.parse(await readFile(path.join(root, 'node_modules', 'us-atlas', 'states-albers-10m.json'), 'utf8'));
+const usMapPath = geoPath(null).digits(0);
+const usOutlinePath = usMapPath(feature(usTopology, usTopology.objects.nation));
+const usStateBordersPath = usMapPath(mesh(usTopology, usTopology.objects.states, (a, b) => a !== b));
+const usProjection = geoAlbersUsa().scale(1300).translate([487.5, 305]);
 
 const byId = (rows) => new Map(rows.map((row) => [row.id, row]));
 const companyMap = byId(companies);
@@ -77,7 +84,7 @@ function layout({ title, description, pagePath = '', eyebrow = '', body, schema 
   <a class="skip-link" href="#main">Skip to content</a>
   <header class="site-header"><div class="shell header-inner">${nav}</div></header>
   <main id="main">${eyebrow ? `<div class="shell page-kicker">${esc(eyebrow)}</div>` : ''}${body}</main>
-  <footer><div class="shell footer-grid"><div><div class="footer-title">Private Equity Intelligence Index</div><p>Public-record research from Open Future Forum.</p></div><div><a href="${base}atlas/">U.S. Atlas</a><a href="${base}methodology/">Methodology</a><a href="${base}sources/">Sources</a><a href="${base}corrections/">Corrections</a></div><div><a href="${base}publisher/">Publisher</a><a href="${base}privacy/">Privacy</a><a href="https://github.com/OpenFutureForum/private-equity-intelligence">GitHub ↗</a></div></div><div class="shell footer-floor"><span>National Edition · v0.2.2</span><span>Data verified through 10 October 2026</span></div></footer>
+  <footer><div class="shell footer-grid"><div><div class="footer-title">Private Equity Intelligence Index</div><p>Public-record research from Open Future Forum.</p></div><div><a href="${base}atlas/">U.S. Atlas</a><a href="${base}methodology/">Methodology</a><a href="${base}sources/">Sources</a><a href="${base}corrections/">Corrections</a></div><div><a href="${base}publisher/">Publisher</a><a href="${base}privacy/">Privacy</a><a href="https://github.com/OpenFutureForum/private-equity-intelligence">GitHub ↗</a></div></div><div class="shell footer-floor"><span>National Edition · v0.2.3</span><span>Data verified through 10 October 2026</span></div></footer>
   <script src="${base}assets/app.js" defer></script>
 </body></html>`;
 }
@@ -140,7 +147,7 @@ const homeBody = `
 <section class="metric-band"><div class="shell stats-grid">${stat(deals.length, 'transactions')}${stat(people.length, 'professional profiles')}${stat(providers.length, 'service providers')}${stat(markets.length, 'U.S. hubs')}</div></section>
 <section class="section shell">${sectionHead('Research focus', 'Transactions reveal who financed, advised and led the work.', 'Each connection begins with a public record. People and providers are included only when the cited source identifies their role.')}<div class="three-up"><article class="feature"><span>01</span><h3>Relationship Economy</h3><p>Executive networks, events and specialist information businesses earn revenue from access, trust and professional communities.</p><a href="${base}thesis/">Read the thesis →</a></article><article class="feature"><span>02</span><h3>Named Deal Teams</h3><p>A person receives deal credit only when a transaction source identifies or quotes them. Employment at the firm is not enough.</p><a href="${base}deals/">Trace the deals →</a></article><article class="feature"><span>03</span><h3>PE Services Ecosystem</h3><p>Public disclosures connect investment banks, law firms, lenders and diligence providers to specific engagements.</p><a href="${base}providers/">Map the providers →</a></article></div></section>
 <section class="section section-tint"><div class="shell">${sectionHead('Selected transactions', 'A focused transaction set', 'The current set covers B2B events, executive networks and private-markets information businesses.')}<div class="cards-grid">${deals.slice().sort((a,b) => b.announced_on.localeCompare(a.announced_on)).slice(0,6).map(dealCard).join('')}</div><div class="section-action"><a class="text-link" href="${base}deals/">View all ${deals.length} transactions →</a></div></div></section>
-<section class="section shell"><div class="split-callout"><div><p class="eyebrow">United States PE atlas</p><h2>Ten private-equity markets with explicit location evidence.</h2><p>Browse professionals and firms from the Bay Area and Los Angeles to Texas, Chicago, the East Coast and Boston. Each profile states whether the location comes from a personal biography, an office directory or a firm-office association.</p><a class="button button-dark" href="${base}atlas/">Open the national map</a></div><div class="confidence-stack"><div><b>10 U.S. hubs</b><span>Regional entry points across the country</span></div><div><b>${people.filter((p) => p.profile_scope.includes('us_atlas')).length} current professionals</b><span>Current roles supported by public records</span></div><div><b>${firms.filter((f) => f.us_market_ids?.length).length} mapped firms</b><span>Deal activity does not establish office location</span></div></div></div></section>
+<section class="section shell"><div class="split-callout"><div><p class="eyebrow">United States PE atlas</p><h2>Ten private-equity markets with explicit location evidence.</h2><p>Browse professionals and firms from the Bay Area and Los Angeles to Texas, Chicago, the East Coast and Boston. Each profile states whether the location comes from a personal biography, an office directory or a firm-office association.</p><a class="button button-dark" href="${base}atlas/">Open the national map</a></div><div class="confidence-stack"><div><b>10 covered markets</b><span>Regional entry points across the country</span></div><div><b>${people.filter((p) => p.profile_scope.includes('us_atlas')).length} profiles in index</b><span>Current roles supported by public records</span></div><div><b>${firms.filter((f) => f.us_market_ids?.length).length} firm records</b><span>Deal activity does not establish office location</span></div></div></div></section>
 <section class="section evidence-strip"><div class="shell"><p class="eyebrow">Evidence standard</p><h2>Every material claim links to a public source.</h2><div class="evidence-flow"><span>Public source</span><i>→</i><span>Canonical record</span><i>→</i><span>Validated relationship</span><i>→</i><span>Public page + download</span></div><div class="hero-actions"><a class="button button-primary" href="${base}sources/">Browse all sources</a><a class="button button-secondary" href="${base}data/">Download the data</a></div></div></section>`;
 
 await rm(out, { recursive: true, force: true });
@@ -192,12 +199,23 @@ for (const person of people) {
 const marketSummary = (market) => {
   const marketPeople = atlasPeople.filter((person) => person.market_id === market.id);
   const marketFirms = firms.filter((firm) => firm.us_market_ids?.includes(market.id));
-  return `<article class="market-card"><div><p class="card-label">${esc(market.region)}</p><h3>${internal('atlas',market.slug,market.name)}</h3><p>${esc(market.description)}</p></div><div class="market-counts"><span><b>${marketPeople.length}</b> people</span><span><b>${marketFirms.length}</b> firms</span></div></article>`;
+  return `<article class="market-card"><div><p class="card-label">${esc(market.region)}</p><h3>${internal('atlas',market.slug,market.name)}</h3><p>${esc(market.description)}</p></div><div class="market-counts"><span><b>${marketPeople.length}</b> profiles in index</span><span><b>${marketFirms.length}</b> firm records</span></div></article>`;
 };
-const mapDots = markets.map((market) => `<a class="market-dot" style="--x:${market.coordinates.x}%;--y:${market.coordinates.y}%" href="${base}atlas/${market.slug}/" aria-label="${esc(market.name)}: ${atlasPeople.filter((p) => p.market_id === market.id).length} people"><i></i><span>${esc(market.name)}</span></a>`).join('');
-const atlasBody = `${pageHero('United States private equity atlas','A national map of private-equity people and firms','Verified professional and firm records across ten U.S. markets. Coverage expands as official biographies and directories are reviewed.',`${stat(markets.length,'U.S. hubs')}${stat(atlasPeople.length,'current professionals')}`)}
-<section class="section shell"><div class="atlas-map" aria-label="Map of covered United States private-equity hubs"><svg viewBox="0 0 960 560" role="img" aria-label="Stylized outline of the continental United States"><path d="M91 109 185 91l66 22 84-14 76 18 84-8 62 25 73-7 59 30 79 7 72 42-22 43 25 37-26 22 4 45-38 20-31 51-47 22-24 64-55-13-33-58-57-19-38-41-91-21-69-50-82-25-53-44-55-11-31-43-45-16-9-52-30-48 21-35-12-41 27-41Z"/></svg>${mapDots}<div class="map-legend"><span></span> Verified market coverage</div></div>
-<div class="atlas-note"><b>Coverage rule</b><p>A market appears when an official biography or firm directory supports a person or office record. A transaction does not establish where someone works.</p></div>
+const mapDots = markets.map((market) => {
+  const projected = usProjection([market.coordinates.longitude, market.coordinates.latitude]);
+  const profileCount = atlasPeople.filter((person) => person.market_id === market.id).length;
+  const x = (projected[0] / 9.75).toFixed(2);
+  const y = (projected[1] / 6.1).toFixed(2);
+  return `<a class="market-dot market-${market.slug}" style="--x:${x}%;--y:${y}%" href="${base}atlas/${market.slug}/" aria-label="${esc(market.name)}: ${profileCount} profiles in this index"><i></i><span>${esc(market.name)}</span></a>`;
+}).join('');
+const atlasFirms = firms.filter((firm) => firm.us_market_ids?.length);
+const directLocationProfiles = atlasPeople.filter((person) => ['explicit_person_bio', 'explicit_office_filter'].includes(person.location_evidence)).length;
+const firmAssociationProfiles = atlasPeople.filter((person) => person.location_evidence === 'firm_office_association').length;
+const firmMarketAssociations = atlasFirms.reduce((total, firm) => total + firm.us_market_ids.length, 0);
+const atlasBody = `${pageHero('United States private equity atlas','A national map of private-equity people and firms','This page reports records in the index. The figures are coverage counts, not estimates of each market’s total private-equity workforce.',`${stat(markets.length,'covered markets')}${stat(atlasPeople.length,'profiles in index')}${stat(atlasFirms.length,'firm records')}`)}
+<section class="section shell"><div class="atlas-map" aria-label="Map of covered United States private-equity markets"><svg viewBox="0 0 975 610" role="img" aria-label="United States map based on Census Bureau cartographic boundaries"><path class="map-nation" d="${usOutlinePath}"/><path class="map-states" d="${usStateBordersPath}"/></svg>${mapDots}<div class="map-legend"><span></span> Market covered by this index</div></div>
+<p class="map-source">Map geometry: <a href="https://www.census.gov/geographies/mapping-files/time-series/geo/cartographic-boundary.html" target="_blank" rel="noreferrer">U.S. Census Bureau cartographic boundaries</a> via <a href="https://github.com/topojson/us-atlas" target="_blank" rel="noreferrer">us-atlas</a>.</p>
+<div class="atlas-note"><b>How to read the counts</b><p>The market cards total ${atlasPeople.length} profile records. ${directLocationProfiles} have person-level or official office-directory location evidence. ${firmAssociationProfiles} use a labeled firm-office association. The ${atlasFirms.length} unique firm records create ${firmMarketAssociations} market associations because some firms appear in more than one market.</p></div>
 <div class="market-grid">${markets.map(marketSummary).join('')}</div></section>`;
 await write('atlas/index.html', layout({title:'United States PE Atlas',description:'A cited map of private-equity professionals and firms across ten major U.S. hubs.',pagePath:'atlas/',body:atlasBody}));
 
@@ -205,15 +223,14 @@ for (const market of markets) {
   const marketPeople = atlasPeople.filter((person) => person.market_id === market.id);
   const marketFirms = firms.filter((firm) => firm.us_market_ids?.includes(market.id));
   const evidenceModes = [...new Set(marketPeople.map((person) => person.location_evidence))];
-  const body = `${pageHero(`${market.region} · U.S. PE atlas`,market.name,market.description,`${stat(marketPeople.length,'current professionals')}${stat(marketFirms.length,'mapped firms')}`)}
+  const body = `${pageHero(`${market.region} · U.S. PE atlas`,market.name,market.description,`${stat(marketPeople.length,'profiles in index')}${stat(marketFirms.length,'firm records')}`)}
   <section class="section shell"><div class="market-detail-intro"><div><p class="eyebrow">Market coverage</p><h2>Current profiles and firms with cited location evidence.</h2></div><p>This page combines current professional profiles with verified firm presence. Location evidence used here: ${evidenceModes.map(pretty).join(', ')}.</p></div>
-  <div class="content-block"><p class="eyebrow">Current professionals</p><div class="people-grid">${marketPeople.map(personCard).join('')}</div></div>
+  <div class="content-block"><p class="eyebrow">Profiles in this index</p><div class="people-grid">${marketPeople.map(personCard).join('')}</div></div>
   <div class="content-block"><p class="eyebrow">Firms represented in this hub</p><div class="cards-grid">${marketFirms.map(firmCard).join('')}</div></div>
   <div class="atlas-note"><b>What absence means</b><p>This release is selective. A missing person or firm has not been researched or verified yet.</p></div></section>`;
   await write(`atlas/${market.slug}/index.html`, layout({title:`${market.name} private equity`,description:`Cited private-equity people and firms in ${market.name}.`,pagePath:`atlas/${market.slug}/`,body}));
 }
 
-const atlasFirms = firms.filter((firm) => firm.us_market_ids?.length);
 const firmsBody = `${pageHero('Capital map', 'Firms', 'Investors and strategic acquirers represented in transaction research and the national U.S. market atlas.', `${stat(firms.length,'firms')}${stat(atlasFirms.length,'U.S. atlas firms')}`)}<section class="section shell">${controls('Search firm, strategy or U.S. market…')}<div class="cards-grid filter-results">${firms.map(firmCard).join('')}</div><div class="empty-state" hidden>No matching firms.</div></section>`;
 await write('firms/index.html', layout({title:'Firms',description:'Private-equity firms, alternative asset managers and strategic acquirers represented in the index.',pagePath:'firms/',body:firmsBody}));
 
