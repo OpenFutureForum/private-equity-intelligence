@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.4.1 (2026-10-10)
+
+- Rebuilt Research Depth as an editorial dashboard instead of a long audit table.
+- Added coverage bars for sources, providers, people, disclosed values and completion dates.
+- Added three focused research lanes for ownership histories, deal anatomy and relationship mapping.
+- Replaced the 91-row backlog dump with a ranked 15-record research agenda.
+- Reduced the featured section to the six best documented transactions.
+
 ## 0.4.0 (2026-10-10)
 
 - Added a public Research Depth dashboard with transparent completeness scores and a prioritized research queue.
