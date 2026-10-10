@@ -303,5 +303,65 @@
     "people_roles": [],
     "source_ids": ["src_emerald_sec_2017"],
     "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_emerald_apollo_2026",
+    "slug": "emerald-apollo-2026",
+    "title": "Apollo Funds agree to acquire Emerald",
+    "target_company_id": "company_emerald",
+    "announced_on": "2026-05-11",
+    "completed_on": null,
+    "status": "announced",
+    "transaction_type": "public_to_private",
+    "buyer_firm_ids": ["firm_apollo"],
+    "seller_firm_ids": ["firm_onex"],
+    "buyer_names": [],
+    "seller_names": ["Emerald public shareholders"],
+    "enterprise_value": {"amount":1500000000,"currency":"USD","display":"approximately $1.5 billion"},
+    "investment_thesis": "Apollo plans to combine Emerald with Questex into a North American B2B events platform spanning more than 160 events and complementary professional communities.",
+    "provider_roles": [
+      {"provider_id":"provider_goldman_sachs","role":"financial adviser","side":"seller","source_id":"src_apollo_emerald_questex_2026"},
+      {"provider_id":"provider_fried_frank","role":"legal counsel","side":"seller","source_id":"src_apollo_emerald_questex_2026"},
+      {"provider_id":"provider_rbc_capital_markets","role":"lead financial adviser","side":"buyer","source_id":"src_apollo_emerald_questex_2026"},
+      {"provider_id":"provider_ran_advisory","role":"lead financial adviser","side":"buyer","source_id":"src_apollo_emerald_questex_2026"},
+      {"provider_id":"provider_pjt","role":"financial adviser","side":"buyer","source_id":"src_apollo_emerald_questex_2026"},
+      {"provider_id":"provider_sidley","role":"legal counsel","side":"buyer","source_id":"src_apollo_emerald_questex_2026"}
+    ],
+    "people_roles": [
+      {"person_id":"person_shahid_bosan","label":"official_transaction_spokesperson","organization":"Apollo","attribution":"Named and quoted in Apollo's official transaction announcement.","source_id":"src_apollo_emerald_questex_2026"},
+      {"person_id":"person_kosty_gillis","label":"official_transaction_spokesperson","organization":"Onex","attribution":"Named and quoted as Emerald's chairman and an Onex representative in Apollo's official transaction announcement.","source_id":"src_apollo_emerald_questex_2026"},
+      {"person_id":"person_herve_sedky","label":"official_transaction_spokesperson","organization":"Emerald","attribution":"Named and quoted as Emerald's president and chief executive officer in Apollo's official transaction announcement.","source_id":"src_apollo_emerald_questex_2026"}
+    ],
+    "source_ids": ["src_apollo_emerald_questex_2026", "src_apollo_emerald_questex_leadership_2026"],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_questex_apollo_2026",
+    "slug": "questex-apollo-2026",
+    "title": "Apollo Funds agree to acquire Questex",
+    "target_company_id": "company_questex",
+    "announced_on": "2026-05-11",
+    "completed_on": null,
+    "status": "announced",
+    "transaction_type": "sponsor_acquisition",
+    "buyer_firm_ids": ["firm_apollo"],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Apollo plans to combine Questex with Emerald into a scaled North American B2B events platform with complementary live-event, media and professional-community assets.",
+    "provider_roles": [
+      {"provider_id":"provider_gibson_dunn","role":"legal counsel","side":"seller","source_id":"src_apollo_emerald_questex_2026"},
+      {"provider_id":"provider_rbc_capital_markets","role":"lead financial adviser","side":"buyer","source_id":"src_apollo_emerald_questex_2026"},
+      {"provider_id":"provider_ran_advisory","role":"lead financial adviser","side":"buyer","source_id":"src_apollo_emerald_questex_2026"},
+      {"provider_id":"provider_pjt","role":"financial adviser","side":"buyer","source_id":"src_apollo_emerald_questex_2026"},
+      {"provider_id":"provider_sidley","role":"legal counsel","side":"buyer","source_id":"src_apollo_emerald_questex_2026"}
+    ],
+    "people_roles": [
+      {"person_id":"person_shahid_bosan","label":"official_transaction_spokesperson","organization":"Apollo","attribution":"Named and quoted in Apollo's official transaction announcement.","source_id":"src_apollo_emerald_questex_2026"},
+      {"person_id":"person_paul_miller","label":"official_transaction_spokesperson","organization":"Questex","attribution":"Named and quoted as Questex chief executive officer in Apollo's official transaction announcement.","source_id":"src_apollo_emerald_questex_2026"}
+    ],
+    "source_ids": ["src_apollo_emerald_questex_2026", "src_apollo_emerald_questex_leadership_2026"],
+    "last_verified": "2026-10-10"
   }
 ]

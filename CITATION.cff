@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this project, please cite it using this metadata."
 title: "Private Equity Intelligence Index"
-version: 0.1.0
+version: 0.2.0
 date-released: 2026-10-10
 type: dataset
 authors:
@@ -20,4 +20,5 @@ keywords:
   - investment banking
   - operating partners
   - relationship economy
-  - San Francisco Bay Area
+  - United States private equity
+  - private-equity geography

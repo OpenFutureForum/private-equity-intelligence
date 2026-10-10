@@ -11,3 +11,5 @@ id,title,company,announced_on,status,transaction_type,buyers,value,source_ids
 "deal_pei_2018","Bridgepoint acquires a majority stake in PEI Media","PEI Group","2018-06-15","completed","majority_investment","Bridgepoint","","src_pei_bridgepoint_2018"
 "deal_pei_2023","Bridgepoint provides further funding to PEI Group","PEI Group","2023-12","completed","follow_on_investment","Bridgepoint","","src_pei_followon_2023"
 "deal_emerald_2013","Onex acquires Nielsen Expositions, later rebranded Emerald","Emerald","2013","completed","corporate_carve_out","Onex","$948.7 million purchase price","src_emerald_sec_2017"
+"deal_emerald_apollo_2026","Apollo Funds agree to acquire Emerald","Emerald","2026-05-11","announced","public_to_private","Apollo","approximately $1.5 billion","src_apollo_emerald_questex_2026; src_apollo_emerald_questex_leadership_2026"
+"deal_questex_apollo_2026","Apollo Funds agree to acquire Questex","Questex","2026-05-11","announced","sponsor_acquisition","Apollo","","src_apollo_emerald_questex_2026; src_apollo_emerald_questex_leadership_2026"

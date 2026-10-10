@@ -1,11 +1,12 @@
 # Private Equity Intelligence Index
 
-Source-backed research from Open Future Forum on private-equity deals, people, firms and service providers.
+Source-backed national research from Open Future Forum on private-equity deals, U.S. market hubs, people, firms and service providers.
 
 - Website: https://openfutureforum.github.io/private-equity-intelligence/
+- United States atlas: https://openfutureforum.github.io/private-equity-intelligence/atlas/
 - Methodology: https://openfutureforum.github.io/private-equity-intelligence/methodology/
 - Sources: https://openfutureforum.github.io/private-equity-intelligence/sources/
 - Data: https://openfutureforum.github.io/private-equity-intelligence/data/
 - Repository: https://github.com/OpenFutureForum/private-equity-intelligence
 
-Do not infer deal participation from employment. Follow the source IDs attached to each relationship.
+Do not infer deal participation from employment or personal location from firm presence. Follow the source IDs attached to each relationship.

@@ -326,5 +326,83 @@
       "src_pei_bridgepoint_2018"
     ],
     "last_verified": "2026-10-10"
+  },
+  {
+    "id": "provider_fried_frank",
+    "slug": "fried-frank",
+    "name": "Fried, Frank, Harris, Shriver & Jacobson",
+    "category": "law_firm",
+    "website": "https://www.friedfrank.com/",
+    "description": "Legal counsel publicly named for Emerald in Apollo's pending 2026 acquisition.",
+    "evidence_basis": "publicly_named_transaction_role",
+    "source_ids": [
+      "src_apollo_emerald_questex_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "provider_gibson_dunn",
+    "slug": "gibson-dunn",
+    "name": "Gibson, Dunn & Crutcher",
+    "category": "law_firm",
+    "website": "https://www.gibsondunn.com/",
+    "description": "Legal counsel publicly named for Questex in Apollo's pending 2026 acquisition.",
+    "evidence_basis": "publicly_named_transaction_role",
+    "source_ids": [
+      "src_apollo_emerald_questex_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "provider_rbc_capital_markets",
+    "slug": "rbc-capital-markets",
+    "name": "RBC Capital Markets",
+    "category": "investment_bank",
+    "website": "https://www.rbccm.com/",
+    "description": "Lead financial adviser publicly named for Apollo Funds in the pending Emerald and Questex acquisitions.",
+    "evidence_basis": "publicly_named_transaction_role",
+    "source_ids": [
+      "src_apollo_emerald_questex_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "provider_ran_advisory",
+    "slug": "ran-advisory",
+    "name": "RAN Advisory",
+    "category": "investment_bank",
+    "website": "https://ranadvisory.com/",
+    "description": "Lead financial adviser publicly named for Apollo Funds in the pending Emerald and Questex acquisitions.",
+    "evidence_basis": "publicly_named_transaction_role",
+    "source_ids": [
+      "src_apollo_emerald_questex_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "provider_pjt",
+    "slug": "pjt-partners",
+    "name": "PJT Partners",
+    "category": "investment_bank",
+    "website": "https://www.pjtpartners.com/",
+    "description": "Financial adviser publicly named for Apollo Funds in the pending Emerald and Questex acquisitions.",
+    "evidence_basis": "publicly_named_transaction_role",
+    "source_ids": [
+      "src_apollo_emerald_questex_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "provider_sidley",
+    "slug": "sidley-austin",
+    "name": "Sidley Austin",
+    "category": "law_firm",
+    "website": "https://www.sidley.com/",
+    "description": "Legal counsel publicly named for Apollo Funds in the pending Emerald and Questex acquisitions.",
+    "evidence_basis": "publicly_named_transaction_role",
+    "source_ids": [
+      "src_apollo_emerald_questex_2026"
+    ],
+    "last_verified": "2026-10-10"
   }
 ]

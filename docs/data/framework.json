@@ -1,8 +1,8 @@
 {
   "name": "Relationship-Economy Underwriting Framework",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "scoring_status": "framework_only",
-  "notice": "The Foundation Edition publishes questions and evidence prompts, not company scores.",
+  "notice": "The National Edition publishes questions and evidence prompts, not company scores.",
   "dimensions": [
     {
       "id": "relationship_dependency",

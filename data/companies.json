@@ -84,6 +84,18 @@
     "last_verified": "2026-10-10"
   },
   {
+    "id": "company_questex",
+    "slug": "questex",
+    "name": "Questex",
+    "company_type": "b2b_events_and_information_platform",
+    "headquarters": "United States",
+    "website": "https://questex.com/",
+    "description": "B2B events and information-services company serving focused professional and industry communities across live events, digital media and market intelligence.",
+    "relationship_archetypes": ["business events", "professional communities", "digital media", "market intelligence"],
+    "source_ids": ["src_apollo_emerald_questex_2026", "src_apollo_emerald_questex_leadership_2026"],
+    "last_verified": "2026-10-10"
+  },
+  {
     "id": "company_open_future_forum",
     "slug": "open-future-forum",
     "name": "Open Future Forum",

@@ -44,6 +44,12 @@
       "slug": "emerald"
     },
     {
+      "id": "company_questex",
+      "type": "company",
+      "name": "Questex",
+      "slug": "questex"
+    },
+    {
       "id": "company_open_future_forum",
       "type": "company",
       "name": "Open Future Forum",
@@ -138,6 +144,66 @@
       "type": "firm",
       "name": "Silver Lake",
       "slug": "silver-lake"
+    },
+    {
+      "id": "firm_kkr",
+      "type": "firm",
+      "name": "KKR",
+      "slug": "kkr"
+    },
+    {
+      "id": "firm_ta",
+      "type": "firm",
+      "name": "TA",
+      "slug": "ta"
+    },
+    {
+      "id": "firm_gtcr",
+      "type": "firm",
+      "name": "GTCR",
+      "slug": "gtcr"
+    },
+    {
+      "id": "firm_madison_dearborn",
+      "type": "firm",
+      "name": "Madison Dearborn Partners",
+      "slug": "madison-dearborn-partners"
+    },
+    {
+      "id": "firm_ares",
+      "type": "firm",
+      "name": "Ares Management",
+      "slug": "ares-management"
+    },
+    {
+      "id": "firm_platinum",
+      "type": "firm",
+      "name": "Platinum Equity",
+      "slug": "platinum-equity"
+    },
+    {
+      "id": "firm_tpg",
+      "type": "firm",
+      "name": "TPG",
+      "slug": "tpg"
+    },
+    {
+      "id": "firm_carlyle",
+      "type": "firm",
+      "name": "Carlyle",
+      "slug": "carlyle"
+    },
+    {
+      "id": "firm_blue_point",
+      "type": "firm",
+      "name": "Blue Point Capital Partners",
+      "slug": "blue-point-capital-partners"
+    },
+    {
+      "id": "firm_apollo",
+      "type": "firm",
+      "name": "Apollo",
+      "slug": "apollo"
     },
     {
       "id": "person_holden_spaht",
@@ -386,6 +452,180 @@
       "slug": "andre-kong"
     },
     {
+      "id": "person_brandon_brahm",
+      "type": "person",
+      "name": "Brandon Brahm",
+      "slug": "brandon-brahm"
+    },
+    {
+      "id": "person_chris_harrington",
+      "type": "person",
+      "name": "Chris Harrington",
+      "slug": "chris-harrington"
+    },
+    {
+      "id": "person_anushka_sunder",
+      "type": "person",
+      "name": "Anushka Sunder",
+      "slug": "anushka-sunder"
+    },
+    {
+      "id": "person_eli_nagler",
+      "type": "person",
+      "name": "Eli Nagler",
+      "slug": "eli-nagler"
+    },
+    {
+      "id": "person_seth_meisel",
+      "type": "person",
+      "name": "Seth Meisel",
+      "slug": "seth-meisel"
+    },
+    {
+      "id": "person_harry_taylor",
+      "type": "person",
+      "name": "Harry D. Taylor",
+      "slug": "harry-taylor"
+    },
+    {
+      "id": "person_mike_libert",
+      "type": "person",
+      "name": "Mike Libert",
+      "slug": "mike-libert"
+    },
+    {
+      "id": "person_ethan_liebermann",
+      "type": "person",
+      "name": "Ethan K. Liebermann",
+      "slug": "ethan-liebermann"
+    },
+    {
+      "id": "person_luke_marker",
+      "type": "person",
+      "name": "Luke Marker",
+      "slug": "luke-marker"
+    },
+    {
+      "id": "person_vahe_dombalagian",
+      "type": "person",
+      "name": "Vahe A. Dombalagian",
+      "slug": "vahe-dombalagian"
+    },
+    {
+      "id": "person_kevin_cox",
+      "type": "person",
+      "name": "Kevin Cox",
+      "slug": "kevin-cox"
+    },
+    {
+      "id": "person_shakun_khanna",
+      "type": "person",
+      "name": "Shakun Khanna",
+      "slug": "shakun-khanna"
+    },
+    {
+      "id": "person_johnny_lopez",
+      "type": "person",
+      "name": "Johnny Lopez",
+      "slug": "johnny-lopez"
+    },
+    {
+      "id": "person_mark_barnhill",
+      "type": "person",
+      "name": "Mark Barnhill",
+      "slug": "mark-barnhill"
+    },
+    {
+      "id": "person_roy_burns",
+      "type": "person",
+      "name": "Roy Burns",
+      "slug": "roy-burns"
+    },
+    {
+      "id": "person_steve_willmann",
+      "type": "person",
+      "name": "Steve Willmann",
+      "slug": "steve-willmann"
+    },
+    {
+      "id": "person_ayanna_clunis",
+      "type": "person",
+      "name": "Ayanna Clunis",
+      "slug": "ayanna-clunis"
+    },
+    {
+      "id": "person_vipul_amin",
+      "type": "person",
+      "name": "Vipul Amin",
+      "slug": "vipul-amin"
+    },
+    {
+      "id": "person_jeremy_anderson",
+      "type": "person",
+      "name": "Jeremy W. Anderson",
+      "slug": "jeremy-anderson"
+    },
+    {
+      "id": "person_chioma_achebe",
+      "type": "person",
+      "name": "Chioma Achebe",
+      "slug": "chioma-achebe"
+    },
+    {
+      "id": "person_brian_bernasek",
+      "type": "person",
+      "name": "Brian A. Bernasek",
+      "slug": "brian-bernasek"
+    },
+    {
+      "id": "person_chip_chaikin",
+      "type": "person",
+      "name": "Chip Chaikin",
+      "slug": "chip-chaikin"
+    },
+    {
+      "id": "person_john_lemay",
+      "type": "person",
+      "name": "John LeMay",
+      "slug": "john-lemay"
+    },
+    {
+      "id": "person_brian_castleberry",
+      "type": "person",
+      "name": "Brian Castleberry",
+      "slug": "brian-castleberry"
+    },
+    {
+      "id": "person_juli_marley",
+      "type": "person",
+      "name": "Juli Marley",
+      "slug": "juli-marley"
+    },
+    {
+      "id": "person_shahid_bosan",
+      "type": "person",
+      "name": "Shahid Bosan",
+      "slug": "shahid-bosan"
+    },
+    {
+      "id": "person_kosty_gillis",
+      "type": "person",
+      "name": "Kosty Gillis",
+      "slug": "kosty-gillis"
+    },
+    {
+      "id": "person_herve_sedky",
+      "type": "person",
+      "name": "Hervé Sedky",
+      "slug": "herve-sedky"
+    },
+    {
+      "id": "person_paul_miller",
+      "type": "person",
+      "name": "Paul Miller",
+      "slug": "paul-miller"
+    },
+    {
       "id": "provider_baird",
       "type": "provider",
       "name": "Baird",
@@ -536,6 +776,102 @@
       "slug": "amr-international"
     },
     {
+      "id": "provider_fried_frank",
+      "type": "provider",
+      "name": "Fried, Frank, Harris, Shriver & Jacobson",
+      "slug": "fried-frank"
+    },
+    {
+      "id": "provider_gibson_dunn",
+      "type": "provider",
+      "name": "Gibson, Dunn & Crutcher",
+      "slug": "gibson-dunn"
+    },
+    {
+      "id": "provider_rbc_capital_markets",
+      "type": "provider",
+      "name": "RBC Capital Markets",
+      "slug": "rbc-capital-markets"
+    },
+    {
+      "id": "provider_ran_advisory",
+      "type": "provider",
+      "name": "RAN Advisory",
+      "slug": "ran-advisory"
+    },
+    {
+      "id": "provider_pjt",
+      "type": "provider",
+      "name": "PJT Partners",
+      "slug": "pjt-partners"
+    },
+    {
+      "id": "provider_sidley",
+      "type": "provider",
+      "name": "Sidley Austin",
+      "slug": "sidley-austin"
+    },
+    {
+      "id": "market_bay_area",
+      "type": "market",
+      "name": "San Francisco Bay Area",
+      "slug": "san-francisco-bay-area"
+    },
+    {
+      "id": "market_los_angeles",
+      "type": "market",
+      "name": "Los Angeles",
+      "slug": "los-angeles"
+    },
+    {
+      "id": "market_austin",
+      "type": "market",
+      "name": "Austin",
+      "slug": "austin"
+    },
+    {
+      "id": "market_fort_worth",
+      "type": "market",
+      "name": "Fort Worth",
+      "slug": "fort-worth"
+    },
+    {
+      "id": "market_chicago",
+      "type": "market",
+      "name": "Chicago",
+      "slug": "chicago"
+    },
+    {
+      "id": "market_cleveland",
+      "type": "market",
+      "name": "Cleveland",
+      "slug": "cleveland"
+    },
+    {
+      "id": "market_charlotte",
+      "type": "market",
+      "name": "Charlotte",
+      "slug": "charlotte"
+    },
+    {
+      "id": "market_washington_dc",
+      "type": "market",
+      "name": "Washington, DC",
+      "slug": "washington-dc"
+    },
+    {
+      "id": "market_new_york",
+      "type": "market",
+      "name": "New York",
+      "slug": "new-york"
+    },
+    {
+      "id": "market_boston",
+      "type": "market",
+      "name": "Boston",
+      "slug": "boston"
+    },
+    {
       "id": "deal_world50_mscp_2020",
       "type": "deal",
       "name": "Morgan Stanley Capital Partners invests in World 50",
@@ -606,6 +942,18 @@
       "type": "deal",
       "name": "Onex acquires Nielsen Expositions, later rebranded Emerald",
       "slug": "nielsen-expositions-onex-2013"
+    },
+    {
+      "id": "deal_emerald_apollo_2026",
+      "type": "deal",
+      "name": "Apollo Funds agree to acquire Emerald",
+      "slug": "emerald-apollo-2026"
+    },
+    {
+      "id": "deal_questex_apollo_2026",
+      "type": "deal",
+      "name": "Apollo Funds agree to acquire Questex",
+      "slug": "questex-apollo-2026"
     }
   ],
   "edges": [
@@ -1363,6 +1711,823 @@
       "type": "buyer",
       "source_ids": [
         "src_emerald_sec_2017"
+      ]
+    },
+    {
+      "from": "deal_emerald_apollo_2026",
+      "to": "company_emerald",
+      "type": "targets",
+      "source_ids": [
+        "src_apollo_emerald_questex_2026",
+        "src_apollo_emerald_questex_leadership_2026"
+      ]
+    },
+    {
+      "from": "firm_apollo",
+      "to": "deal_emerald_apollo_2026",
+      "type": "buyer",
+      "source_ids": [
+        "src_apollo_emerald_questex_2026",
+        "src_apollo_emerald_questex_leadership_2026"
+      ]
+    },
+    {
+      "from": "firm_onex",
+      "to": "deal_emerald_apollo_2026",
+      "type": "seller",
+      "source_ids": [
+        "src_apollo_emerald_questex_2026",
+        "src_apollo_emerald_questex_leadership_2026"
+      ]
+    },
+    {
+      "from": "provider_goldman_sachs",
+      "to": "deal_emerald_apollo_2026",
+      "type": "provider",
+      "role": "financial adviser",
+      "side": "seller",
+      "source_ids": [
+        "src_apollo_emerald_questex_2026"
+      ]
+    },
+    {
+      "from": "provider_fried_frank",
+      "to": "deal_emerald_apollo_2026",
+      "type": "provider",
+      "role": "legal counsel",
+      "side": "seller",
+      "source_ids": [
+        "src_apollo_emerald_questex_2026"
+      ]
+    },
+    {
+      "from": "provider_rbc_capital_markets",
+      "to": "deal_emerald_apollo_2026",
+      "type": "provider",
+      "role": "lead financial adviser",
+      "side": "buyer",
+      "source_ids": [
+        "src_apollo_emerald_questex_2026"
+      ]
+    },
+    {
+      "from": "provider_ran_advisory",
+      "to": "deal_emerald_apollo_2026",
+      "type": "provider",
+      "role": "lead financial adviser",
+      "side": "buyer",
+      "source_ids": [
+        "src_apollo_emerald_questex_2026"
+      ]
+    },
+    {
+      "from": "provider_pjt",
+      "to": "deal_emerald_apollo_2026",
+      "type": "provider",
+      "role": "financial adviser",
+      "side": "buyer",
+      "source_ids": [
+        "src_apollo_emerald_questex_2026"
+      ]
+    },
+    {
+      "from": "provider_sidley",
+      "to": "deal_emerald_apollo_2026",
+      "type": "provider",
+      "role": "legal counsel",
+      "side": "buyer",
+      "source_ids": [
+        "src_apollo_emerald_questex_2026"
+      ]
+    },
+    {
+      "from": "person_shahid_bosan",
+      "to": "deal_emerald_apollo_2026",
+      "type": "official_transaction_spokesperson",
+      "organization": "Apollo",
+      "source_ids": [
+        "src_apollo_emerald_questex_2026"
+      ]
+    },
+    {
+      "from": "person_kosty_gillis",
+      "to": "deal_emerald_apollo_2026",
+      "type": "official_transaction_spokesperson",
+      "organization": "Onex",
+      "source_ids": [
+        "src_apollo_emerald_questex_2026"
+      ]
+    },
+    {
+      "from": "person_herve_sedky",
+      "to": "deal_emerald_apollo_2026",
+      "type": "official_transaction_spokesperson",
+      "organization": "Emerald",
+      "source_ids": [
+        "src_apollo_emerald_questex_2026"
+      ]
+    },
+    {
+      "from": "deal_questex_apollo_2026",
+      "to": "company_questex",
+      "type": "targets",
+      "source_ids": [
+        "src_apollo_emerald_questex_2026",
+        "src_apollo_emerald_questex_leadership_2026"
+      ]
+    },
+    {
+      "from": "firm_apollo",
+      "to": "deal_questex_apollo_2026",
+      "type": "buyer",
+      "source_ids": [
+        "src_apollo_emerald_questex_2026",
+        "src_apollo_emerald_questex_leadership_2026"
+      ]
+    },
+    {
+      "from": "provider_gibson_dunn",
+      "to": "deal_questex_apollo_2026",
+      "type": "provider",
+      "role": "legal counsel",
+      "side": "seller",
+      "source_ids": [
+        "src_apollo_emerald_questex_2026"
+      ]
+    },
+    {
+      "from": "provider_rbc_capital_markets",
+      "to": "deal_questex_apollo_2026",
+      "type": "provider",
+      "role": "lead financial adviser",
+      "side": "buyer",
+      "source_ids": [
+        "src_apollo_emerald_questex_2026"
+      ]
+    },
+    {
+      "from": "provider_ran_advisory",
+      "to": "deal_questex_apollo_2026",
+      "type": "provider",
+      "role": "lead financial adviser",
+      "side": "buyer",
+      "source_ids": [
+        "src_apollo_emerald_questex_2026"
+      ]
+    },
+    {
+      "from": "provider_pjt",
+      "to": "deal_questex_apollo_2026",
+      "type": "provider",
+      "role": "financial adviser",
+      "side": "buyer",
+      "source_ids": [
+        "src_apollo_emerald_questex_2026"
+      ]
+    },
+    {
+      "from": "provider_sidley",
+      "to": "deal_questex_apollo_2026",
+      "type": "provider",
+      "role": "legal counsel",
+      "side": "buyer",
+      "source_ids": [
+        "src_apollo_emerald_questex_2026"
+      ]
+    },
+    {
+      "from": "person_shahid_bosan",
+      "to": "deal_questex_apollo_2026",
+      "type": "official_transaction_spokesperson",
+      "organization": "Apollo",
+      "source_ids": [
+        "src_apollo_emerald_questex_2026"
+      ]
+    },
+    {
+      "from": "person_paul_miller",
+      "to": "deal_questex_apollo_2026",
+      "type": "official_transaction_spokesperson",
+      "organization": "Questex",
+      "source_ids": [
+        "src_apollo_emerald_questex_2026"
+      ]
+    },
+    {
+      "from": "person_holden_spaht",
+      "to": "market_bay_area",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_thoma_holden"
+      ]
+    },
+    {
+      "from": "person_seth_boro",
+      "to": "market_bay_area",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_thoma_seth"
+      ]
+    },
+    {
+      "from": "person_david_tunnell",
+      "to": "market_bay_area",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_hf_team"
+      ]
+    },
+    {
+      "from": "person_jacob_best",
+      "to": "market_bay_area",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_hf_team"
+      ]
+    },
+    {
+      "from": "person_matt_eisen",
+      "to": "market_bay_area",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_hf_team"
+      ]
+    },
+    {
+      "from": "person_sri_srinivasan",
+      "to": "market_bay_area",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_hf_team"
+      ]
+    },
+    {
+      "from": "person_josh_gold",
+      "to": "market_bay_area",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_hf_team"
+      ]
+    },
+    {
+      "from": "person_arrie_park",
+      "to": "market_bay_area",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_hf_team"
+      ]
+    },
+    {
+      "from": "person_hollie_haynes",
+      "to": "market_bay_area",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_luminate_team"
+      ]
+    },
+    {
+      "from": "person_andrew_baldwin",
+      "to": "market_bay_area",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_luminate_team"
+      ]
+    },
+    {
+      "from": "person_lucy_li",
+      "to": "market_bay_area",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_luminate_team"
+      ]
+    },
+    {
+      "from": "person_kate_scott",
+      "to": "market_bay_area",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_luminate_team"
+      ]
+    },
+    {
+      "from": "person_chris_adams",
+      "to": "market_bay_area",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_office_filter",
+      "source_ids": [
+        "src_francisco_sf_team"
+      ]
+    },
+    {
+      "from": "person_justin_chen",
+      "to": "market_bay_area",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_office_filter",
+      "source_ids": [
+        "src_francisco_sf_team"
+      ]
+    },
+    {
+      "from": "person_peter_christodoulo",
+      "to": "market_bay_area",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_office_filter",
+      "source_ids": [
+        "src_francisco_sf_team"
+      ]
+    },
+    {
+      "from": "person_evan_daar",
+      "to": "market_bay_area",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_office_filter",
+      "source_ids": [
+        "src_francisco_sf_team"
+      ]
+    },
+    {
+      "from": "person_ashley_evans",
+      "to": "market_bay_area",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_office_filter",
+      "source_ids": [
+        "src_francisco_sf_team"
+      ]
+    },
+    {
+      "from": "person_andrew_kowal",
+      "to": "market_bay_area",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_office_filter",
+      "source_ids": [
+        "src_francisco_sf_team"
+      ]
+    },
+    {
+      "from": "person_karl_shum",
+      "to": "market_bay_area",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_office_filter",
+      "source_ids": [
+        "src_francisco_sf_team"
+      ]
+    },
+    {
+      "from": "person_christine_wang",
+      "to": "market_bay_area",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_office_filter",
+      "source_ids": [
+        "src_francisco_sf_team"
+      ]
+    },
+    {
+      "from": "person_graham_weaver",
+      "to": "market_bay_area",
+      "type": "located_in_market",
+      "evidence_mode": "firm_office_association",
+      "source_ids": [
+        "src_alpine_bayarea_2026",
+        "src_alpine_leadership_2024"
+      ]
+    },
+    {
+      "from": "person_brandon_brahm",
+      "to": "market_new_york",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_kkr_brandon_brahm"
+      ]
+    },
+    {
+      "from": "person_chris_harrington",
+      "to": "market_new_york",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_kkr_chris_harrington"
+      ]
+    },
+    {
+      "from": "person_anushka_sunder",
+      "to": "market_new_york",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_blackstone_anushka_sunder"
+      ]
+    },
+    {
+      "from": "person_eli_nagler",
+      "to": "market_new_york",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_blackstone_eli_nagler"
+      ]
+    },
+    {
+      "from": "person_seth_meisel",
+      "to": "market_new_york",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_blackstone_seth_meisel"
+      ]
+    },
+    {
+      "from": "person_harry_taylor",
+      "to": "market_boston",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_ta_harry_taylor"
+      ]
+    },
+    {
+      "from": "person_mike_libert",
+      "to": "market_boston",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_ta_mike_libert"
+      ]
+    },
+    {
+      "from": "person_ethan_liebermann",
+      "to": "market_boston",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_ta_ethan_liebermann"
+      ]
+    },
+    {
+      "from": "person_luke_marker",
+      "to": "market_chicago",
+      "type": "located_in_market",
+      "evidence_mode": "firm_office_association",
+      "source_ids": [
+        "src_gtcr_home",
+        "src_gtcr_luke_marker"
+      ]
+    },
+    {
+      "from": "person_vahe_dombalagian",
+      "to": "market_chicago",
+      "type": "located_in_market",
+      "evidence_mode": "firm_office_association",
+      "source_ids": [
+        "src_mdp_home",
+        "src_mdp_vahe_dombalagian"
+      ]
+    },
+    {
+      "from": "person_kevin_cox",
+      "to": "market_los_angeles",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_ares_kevin_cox"
+      ]
+    },
+    {
+      "from": "person_shakun_khanna",
+      "to": "market_los_angeles",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_ares_shakun_khanna"
+      ]
+    },
+    {
+      "from": "person_johnny_lopez",
+      "to": "market_los_angeles",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_platinum_johnny_lopez"
+      ]
+    },
+    {
+      "from": "person_mark_barnhill",
+      "to": "market_los_angeles",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_platinum_mark_barnhill"
+      ]
+    },
+    {
+      "from": "person_roy_burns",
+      "to": "market_austin",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_ta_roy_burns"
+      ]
+    },
+    {
+      "from": "person_steve_willmann",
+      "to": "market_fort_worth",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_tpg_tpop_team"
+      ]
+    },
+    {
+      "from": "person_ayanna_clunis",
+      "to": "market_fort_worth",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_tpg_tpop_team"
+      ]
+    },
+    {
+      "from": "person_vipul_amin",
+      "to": "market_washington_dc",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_carlyle_vipul_amin"
+      ]
+    },
+    {
+      "from": "person_jeremy_anderson",
+      "to": "market_washington_dc",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_carlyle_jeremy_anderson"
+      ]
+    },
+    {
+      "from": "person_chioma_achebe",
+      "to": "market_washington_dc",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_carlyle_chioma_achebe"
+      ]
+    },
+    {
+      "from": "person_brian_bernasek",
+      "to": "market_washington_dc",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_carlyle_brian_bernasek"
+      ]
+    },
+    {
+      "from": "person_chip_chaikin",
+      "to": "market_cleveland",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_office_filter",
+      "source_ids": [
+        "src_blue_point_team"
+      ]
+    },
+    {
+      "from": "person_john_lemay",
+      "to": "market_cleveland",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_office_filter",
+      "source_ids": [
+        "src_blue_point_team"
+      ]
+    },
+    {
+      "from": "person_brian_castleberry",
+      "to": "market_charlotte",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_office_filter",
+      "source_ids": [
+        "src_blue_point_team"
+      ]
+    },
+    {
+      "from": "person_juli_marley",
+      "to": "market_charlotte",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_office_filter",
+      "source_ids": [
+        "src_blue_point_team"
+      ]
+    },
+    {
+      "from": "firm_hf",
+      "to": "market_bay_area",
+      "type": "present_in_market",
+      "source_ids": [
+        "src_hf_contact",
+        "src_hf_team"
+      ]
+    },
+    {
+      "from": "firm_blackstone",
+      "to": "market_new_york",
+      "type": "present_in_market",
+      "source_ids": [
+        "src_clarion_blackstone_2017",
+        "src_blackstone_anushka_sunder",
+        "src_blackstone_eli_nagler",
+        "src_blackstone_seth_meisel"
+      ]
+    },
+    {
+      "from": "firm_thoma_bravo",
+      "to": "market_bay_area",
+      "type": "present_in_market",
+      "source_ids": [
+        "src_thoma_holden",
+        "src_thoma_seth",
+        "src_thoma_orlando"
+      ]
+    },
+    {
+      "from": "firm_francisco_partners",
+      "to": "market_bay_area",
+      "type": "present_in_market",
+      "source_ids": [
+        "src_francisco_sf_team"
+      ]
+    },
+    {
+      "from": "firm_luminate",
+      "to": "market_bay_area",
+      "type": "present_in_market",
+      "source_ids": [
+        "src_luminate_team"
+      ]
+    },
+    {
+      "from": "firm_alpine",
+      "to": "market_bay_area",
+      "type": "present_in_market",
+      "source_ids": [
+        "src_alpine_bayarea_2026",
+        "src_alpine_leadership_2024"
+      ]
+    },
+    {
+      "from": "firm_gi_partners",
+      "to": "market_bay_area",
+      "type": "present_in_market",
+      "source_ids": [
+        "src_gi_home"
+      ]
+    },
+    {
+      "from": "firm_silver_lake",
+      "to": "market_bay_area",
+      "type": "present_in_market",
+      "source_ids": [
+        "src_silverlake_people"
+      ]
+    },
+    {
+      "from": "firm_kkr",
+      "to": "market_new_york",
+      "type": "present_in_market",
+      "source_ids": [
+        "src_kkr_people",
+        "src_kkr_brandon_brahm",
+        "src_kkr_chris_harrington"
+      ]
+    },
+    {
+      "from": "firm_ta",
+      "to": "market_boston",
+      "type": "present_in_market",
+      "source_ids": [
+        "src_ta_about",
+        "src_ta_offices"
+      ]
+    },
+    {
+      "from": "firm_ta",
+      "to": "market_austin",
+      "type": "present_in_market",
+      "source_ids": [
+        "src_ta_about",
+        "src_ta_offices"
+      ]
+    },
+    {
+      "from": "firm_ta",
+      "to": "market_bay_area",
+      "type": "present_in_market",
+      "source_ids": [
+        "src_ta_about",
+        "src_ta_offices"
+      ]
+    },
+    {
+      "from": "firm_gtcr",
+      "to": "market_chicago",
+      "type": "present_in_market",
+      "source_ids": [
+        "src_gtcr_home",
+        "src_gtcr_luke_marker"
+      ]
+    },
+    {
+      "from": "firm_madison_dearborn",
+      "to": "market_chicago",
+      "type": "present_in_market",
+      "source_ids": [
+        "src_mdp_home",
+        "src_mdp_vahe_dombalagian"
+      ]
+    },
+    {
+      "from": "firm_ares",
+      "to": "market_los_angeles",
+      "type": "present_in_market",
+      "source_ids": [
+        "src_ares_kevin_cox",
+        "src_ares_shakun_khanna"
+      ]
+    },
+    {
+      "from": "firm_platinum",
+      "to": "market_los_angeles",
+      "type": "present_in_market",
+      "source_ids": [
+        "src_platinum_about",
+        "src_platinum_johnny_lopez",
+        "src_platinum_mark_barnhill"
+      ]
+    },
+    {
+      "from": "firm_tpg",
+      "to": "market_fort_worth",
+      "type": "present_in_market",
+      "source_ids": [
+        "src_tpg_tpop_team"
+      ]
+    },
+    {
+      "from": "firm_tpg",
+      "to": "market_bay_area",
+      "type": "present_in_market",
+      "source_ids": [
+        "src_tpg_tpop_team"
+      ]
+    },
+    {
+      "from": "firm_carlyle",
+      "to": "market_washington_dc",
+      "type": "present_in_market",
+      "source_ids": [
+        "src_carlyle_global_pe",
+        "src_carlyle_vipul_amin",
+        "src_carlyle_jeremy_anderson",
+        "src_carlyle_chioma_achebe",
+        "src_carlyle_brian_bernasek"
+      ]
+    },
+    {
+      "from": "firm_blue_point",
+      "to": "market_cleveland",
+      "type": "present_in_market",
+      "source_ids": [
+        "src_blue_point_about",
+        "src_blue_point_team"
+      ]
+    },
+    {
+      "from": "firm_blue_point",
+      "to": "market_charlotte",
+      "type": "present_in_market",
+      "source_ids": [
+        "src_blue_point_about",
+        "src_blue_point_team"
+      ]
+    },
+    {
+      "from": "firm_apollo",
+      "to": "market_new_york",
+      "type": "present_in_market",
+      "source_ids": [
+        "src_apollo_locations",
+        "src_apollo_emerald_questex_2026"
       ]
     }
   ]

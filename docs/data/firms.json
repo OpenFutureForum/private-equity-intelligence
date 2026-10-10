@@ -45,6 +45,9 @@
     "website": "https://hf.com/",
     "description": "Large-scale private-equity investor with a San Francisco office and information, content and business-services experience.",
     "bay_area_presence": "San Francisco office",
+    "us_market_ids": [
+      "market_bay_area"
+    ],
     "source_ids": [
       "src_hf_contact",
       "src_hf_team"
@@ -57,9 +60,15 @@
     "name": "Blackstone",
     "firm_type": "alternative_asset_manager",
     "website": "https://www.blackstone.com/",
-    "description": "Alternative asset manager and private-equity investor.",
+    "description": "Alternative asset manager and private-equity investor with senior private-equity professionals in New York.",
+    "us_market_ids": [
+      "market_new_york"
+    ],
     "source_ids": [
-      "src_clarion_blackstone_2017"
+      "src_clarion_blackstone_2017",
+      "src_blackstone_anushka_sunder",
+      "src_blackstone_eli_nagler",
+      "src_blackstone_seth_meisel"
     ],
     "last_verified": "2026-10-10"
   },
@@ -121,6 +130,9 @@
     "website": "https://www.thomabravo.com/",
     "description": "Software-focused private-equity firm with senior investment professionals based in San Francisco.",
     "bay_area_presence": "San Francisco professionals",
+    "us_market_ids": [
+      "market_bay_area"
+    ],
     "source_ids": [
       "src_thoma_holden",
       "src_thoma_seth",
@@ -136,6 +148,9 @@
     "website": "https://www.franciscopartners.com/",
     "description": "Technology-focused investment firm with a San Francisco office.",
     "bay_area_presence": "San Francisco office",
+    "us_market_ids": [
+      "market_bay_area"
+    ],
     "source_ids": [
       "src_francisco_sf_team"
     ],
@@ -149,6 +164,9 @@
     "website": "https://luminatecapital.com/",
     "description": "San Francisco-based private-equity firm focused on enterprise software.",
     "bay_area_presence": "San Francisco headquarters",
+    "us_market_ids": [
+      "market_bay_area"
+    ],
     "source_ids": [
       "src_luminate_team"
     ],
@@ -162,6 +180,9 @@
     "website": "https://alpineinvestors.com/",
     "description": "San Francisco-headquartered private-equity firm focused on software and services with a people-driven operating model.",
     "bay_area_presence": "San Francisco headquarters",
+    "us_market_ids": [
+      "market_bay_area"
+    ],
     "source_ids": [
       "src_alpine_bayarea_2026",
       "src_alpine_leadership_2024"
@@ -176,6 +197,9 @@
     "website": "https://www.gipartners.com/",
     "description": "Private alternatives investor with private equity, real estate and data-infrastructure strategies and a San Francisco office.",
     "bay_area_presence": "San Francisco office",
+    "us_market_ids": [
+      "market_bay_area"
+    ],
     "source_ids": [
       "src_gi_home"
     ],
@@ -189,8 +213,179 @@
     "website": "https://www.silverlake.com/",
     "description": "Technology investment firm with a substantial Silicon Valley presence.",
     "bay_area_presence": "Silicon Valley presence; person-level location not inferred",
+    "us_market_ids": [
+      "market_bay_area"
+    ],
     "source_ids": [
       "src_silverlake_people"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "firm_kkr",
+    "slug": "kkr",
+    "name": "KKR",
+    "firm_type": "alternative_asset_manager",
+    "website": "https://www.kkr.com/",
+    "description": "Global investment firm with a large New York private-equity platform spanning sector, middle-market and large-cap strategies.",
+    "us_market_ids": [
+      "market_new_york"
+    ],
+    "source_ids": [
+      "src_kkr_people",
+      "src_kkr_brandon_brahm",
+      "src_kkr_chris_harrington"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "firm_ta",
+    "slug": "ta",
+    "name": "TA",
+    "firm_type": "growth_private_equity",
+    "website": "https://www.ta.com/",
+    "description": "Growth private-equity firm investing in technology, healthcare, financial services, consumer and business services.",
+    "us_market_ids": [
+      "market_boston",
+      "market_austin",
+      "market_bay_area"
+    ],
+    "source_ids": [
+      "src_ta_about",
+      "src_ta_offices"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "firm_gtcr",
+    "slug": "gtcr",
+    "name": "GTCR",
+    "firm_type": "private_equity",
+    "website": "https://www.gtcr.com/",
+    "description": "Chicago-based private-equity firm known for its management-partnership approach across services, financial technology, healthcare and TMT.",
+    "us_market_ids": [
+      "market_chicago"
+    ],
+    "source_ids": [
+      "src_gtcr_home",
+      "src_gtcr_luke_marker"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "firm_madison_dearborn",
+    "slug": "madison-dearborn-partners",
+    "name": "Madison Dearborn Partners",
+    "firm_type": "private_equity",
+    "website": "https://www.mdcp.com/",
+    "description": "Single-office Chicago private-equity firm pursuing control buyouts and growth equity across sector teams.",
+    "us_market_ids": [
+      "market_chicago"
+    ],
+    "source_ids": [
+      "src_mdp_home",
+      "src_mdp_vahe_dombalagian"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "firm_ares",
+    "slug": "ares-management",
+    "name": "Ares Management",
+    "firm_type": "alternative_asset_manager",
+    "website": "https://www.aresmgmt.com/",
+    "description": "Global alternative investment manager with private-equity investment and value-creation professionals in Los Angeles.",
+    "us_market_ids": [
+      "market_los_angeles"
+    ],
+    "source_ids": [
+      "src_ares_kevin_cox",
+      "src_ares_shakun_khanna"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "firm_platinum",
+    "slug": "platinum-equity",
+    "name": "Platinum Equity",
+    "firm_type": "private_equity",
+    "website": "https://www.platinumequity.com/",
+    "description": "Los Angeles-headquartered buyout firm combining M&A execution with in-house operating capabilities.",
+    "us_market_ids": [
+      "market_los_angeles"
+    ],
+    "source_ids": [
+      "src_platinum_about",
+      "src_platinum_johnny_lopez",
+      "src_platinum_mark_barnhill"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "firm_tpg",
+    "slug": "tpg",
+    "name": "TPG",
+    "firm_type": "alternative_asset_manager",
+    "website": "https://www.tpg.com/",
+    "description": "Diversified alternative asset manager with roots in Fort Worth and San Francisco and strategies spanning private equity, growth, impact, credit and real estate.",
+    "us_market_ids": [
+      "market_fort_worth",
+      "market_bay_area"
+    ],
+    "source_ids": [
+      "src_tpg_tpop_team"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "firm_carlyle",
+    "slug": "carlyle",
+    "name": "Carlyle",
+    "firm_type": "alternative_asset_manager",
+    "website": "https://www.carlyle.com/",
+    "description": "Washington-headquartered global investment firm with a large corporate private-equity and real-assets platform.",
+    "us_market_ids": [
+      "market_washington_dc"
+    ],
+    "source_ids": [
+      "src_carlyle_global_pe",
+      "src_carlyle_vipul_amin",
+      "src_carlyle_jeremy_anderson",
+      "src_carlyle_chioma_achebe",
+      "src_carlyle_brian_bernasek"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "firm_blue_point",
+    "slug": "blue-point-capital-partners",
+    "name": "Blue Point Capital Partners",
+    "firm_type": "private_equity",
+    "website": "https://www.bluepointcapital.com/",
+    "description": "Lower-middle-market private-equity firm using regional presence and operational resources to partner with industrial, services and consumer businesses.",
+    "us_market_ids": [
+      "market_cleveland",
+      "market_charlotte"
+    ],
+    "source_ids": [
+      "src_blue_point_about",
+      "src_blue_point_team"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "firm_apollo",
+    "slug": "apollo",
+    "name": "Apollo",
+    "firm_type": "alternative_asset_manager",
+    "website": "https://www.apollo.com/",
+    "description": "New York-headquartered alternative asset manager investing across private equity, hybrid capital, credit and real assets.",
+    "us_market_ids": [
+      "market_new_york"
+    ],
+    "source_ids": [
+      "src_apollo_locations",
+      "src_apollo_emerald_questex_2026"
     ],
     "last_verified": "2026-10-10"
   }

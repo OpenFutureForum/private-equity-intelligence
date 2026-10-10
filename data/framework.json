@@ -1,8 +1,8 @@
 {
   "name": "Relationship-Economy Underwriting Framework",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "scoring_status": "framework_only",
-  "notice": "The Foundation Edition publishes questions and evidence prompts, not company scores.",
+  "notice": "The National Edition publishes questions and evidence prompts, not company scores.",
   "dimensions": [
     {"id":"relationship_dependency","name":"Relationship dependency","category":"durability","risk_direction":"higher_can_be_defensive","definition":"How much customer value depends on trusted human relationships rather than information access alone?","evidence_prompts":["Member renewal reasons","Share of interaction that is facilitated or curated","Evidence that trust improves outcomes"]},
     {"id":"access_scarcity","name":"Access scarcity","category":"durability","risk_direction":"higher_can_be_defensive","definition":"How difficult is it for a competitor or software product to reproduce access to the relevant people?","evidence_prompts":["Admission criteria","Seniority and density of participants","Time required to build the network"]},

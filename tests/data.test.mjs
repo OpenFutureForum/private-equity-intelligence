@@ -4,14 +4,17 @@ import { readFile } from 'node:fs/promises';
 
 const load = async (name, folder = 'data') => JSON.parse(await readFile(new URL(`../${folder}/${name}.json`, import.meta.url), 'utf8'));
 
-test('Foundation Edition has meaningful depth', async () => {
-  const [deals, people, providers, sources] = await Promise.all([load('deals'), load('people'), load('providers'), load('sources')]);
-  assert.ok(deals.length >= 10);
-  assert.ok(people.length >= 25);
-  assert.ok(providers.length >= 20);
-  assert.ok(sources.length >= 25);
-  assert.ok(deals.reduce((n, d) => n + d.provider_roles.length, 0) >= 25);
-  assert.ok(deals.reduce((n, d) => n + d.people_roles.length, 0) >= 15);
+test('National Edition has meaningful depth', async () => {
+  const [deals, people, providers, sources, markets] = await Promise.all([load('deals'), load('people'), load('providers'), load('sources'), load('markets')]);
+  assert.ok(deals.length >= 14);
+  assert.ok(people.length >= 70);
+  assert.ok(providers.length >= 31);
+  assert.ok(sources.length >= 60);
+  assert.equal(markets.length, 10);
+  assert.ok(people.filter((person) => person.profile_scope.includes('us_atlas')).length >= 45);
+  assert.equal(markets.every((market) => people.some((person) => person.market_id === market.id)), true);
+  assert.ok(deals.reduce((n, d) => n + d.provider_roles.length, 0) >= 35);
+  assert.ok(deals.reduce((n, d) => n + d.people_roles.length, 0) >= 20);
 });
 
 test('every confirmed person relationship has explicit source attribution', async () => {
@@ -32,7 +35,7 @@ test('Open Future Forum remains illustrative and has no transaction', async () =
 
 test('generated graph preserves source IDs on every edge', async () => {
   const graph = await load('knowledge-graph', 'docs/data');
-  assert.ok(graph.nodes.length >= 75);
-  assert.ok(graph.edges.length >= 50);
+  assert.ok(graph.nodes.length >= 145);
+  assert.ok(graph.edges.length >= 145);
   assert.equal(graph.edges.every((edge) => Array.isArray(edge.source_ids) && edge.source_ids.length > 0), true);
 });

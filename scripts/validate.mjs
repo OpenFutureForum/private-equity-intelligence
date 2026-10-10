@@ -4,8 +4,8 @@ import { fileURLToPath } from 'node:url';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const load = async (name) => JSON.parse(await readFile(path.join(root, 'data', `${name}.json`), 'utf8'));
-const [companies, firms, people, providers, deals, sources, framework] = await Promise.all([
-  load('companies'), load('firms'), load('people'), load('providers'), load('deals'), load('sources'), load('framework')
+const [companies, firms, people, providers, deals, sources, framework, markets] = await Promise.all([
+  load('companies'), load('firms'), load('people'), load('providers'), load('deals'), load('sources'), load('framework'), load('markets')
 ]);
 
 const errors = [];
@@ -17,16 +17,17 @@ const firmIds = index(firms);
 const peopleIds = index(people);
 const providerIds = index(providers);
 const sourceIds = index(sources);
+const marketIds = index(markets);
 const datePattern = /^\d{4}(?:-\d{2})?(?:-\d{2})?$/;
 
-for (const [name, rows] of Object.entries({ companies, firms, people, providers, deals, sources })) {
+for (const [name, rows] of Object.entries({ companies, firms, people, providers, deals, sources, markets })) {
   assert(Array.isArray(rows), `${name} must be an array`);
   const ids = rows.map((row) => row.id);
   const slugs = rows.filter((row) => row.slug).map((row) => row.slug);
   assert(ids.length === new Set(ids).size, `${name} contains duplicate IDs`);
   assert(slugs.length === new Set(slugs).size, `${name} contains duplicate slugs`);
   for (const row of rows) {
-    assert(row.id && row.id.startsWith(name === 'people' ? 'person_' : name === 'companies' ? 'company_' : name === 'providers' ? 'provider_' : name === 'firms' ? 'firm_' : name === 'deals' ? 'deal_' : 'src_'), `${name}: invalid ID ${row.id}`);
+    assert(row.id && row.id.startsWith(name === 'people' ? 'person_' : name === 'companies' ? 'company_' : name === 'providers' ? 'provider_' : name === 'firms' ? 'firm_' : name === 'deals' ? 'deal_' : name === 'markets' ? 'market_' : 'src_'), `${name}: invalid ID ${row.id}`);
     assert(row.name || row.title, `${name}/${row.id}: missing name or title`);
     if (row.last_verified) assert(datePattern.test(row.last_verified), `${name}/${row.id}: invalid last_verified`);
     for (const sourceId of row.source_ids ?? []) assert(sourceIds.has(sourceId), `${name}/${row.id}: unknown source ${sourceId}`);
@@ -68,15 +69,27 @@ for (const deal of deals) {
 const allowedLocationEvidence = new Set(['explicit_person_bio','explicit_office_filter','firm_office_association']);
 for (const person of people) {
   assert(Array.isArray(person.profile_scope) && person.profile_scope.length > 0, `people/${person.id}: missing profile scope`);
+  assert(person.profile_scope.every((scope) => ['us_atlas','transaction_attribution'].includes(scope)), `people/${person.id}: invalid profile scope`);
   if (person.current_firm_id) assert(firmIds.has(person.current_firm_id), `people/${person.id}: unknown current firm`);
-  if (person.profile_scope.includes('bay_area')) {
-    assert(person.location, `people/${person.id}: Bay Area profile needs a location statement`);
+  if (person.profile_scope.includes('us_atlas')) {
+    assert(person.market_id && marketIds.has(person.market_id), `people/${person.id}: U.S. atlas profile needs a valid market`);
+    assert(person.location, `people/${person.id}: U.S. atlas profile needs a location statement`);
     assert(allowedLocationEvidence.has(person.location_evidence), `people/${person.id}: invalid location evidence`);
-    assert(person.current_firm_id && person.current_title, `people/${person.id}: Bay Area profile needs a verified current role`);
+    assert(person.current_firm_id && person.current_title, `people/${person.id}: U.S. atlas profile needs a verified current role`);
   }
   if (person.profile_scope.includes('transaction_attribution')) {
     assert(deals.some((d) => d.people_roles.some((r) => r.person_id === person.id)), `people/${person.id}: transaction profile is not linked to a deal`);
   }
+}
+
+for (const market of markets) {
+  assert(market.name && market.region && market.description, `markets/${market.id}: missing required display fields`);
+  assert(Number.isFinite(market.coordinates?.x) && Number.isFinite(market.coordinates?.y), `markets/${market.id}: invalid map coordinates`);
+  assert(people.some((person) => person.market_id === market.id), `markets/${market.id}: no current professional profiles`);
+}
+
+for (const firm of firms) {
+  for (const marketId of firm.us_market_ids ?? []) assert(marketIds.has(marketId), `firms/${firm.id}: unknown U.S. market ${marketId}`);
 }
 
 for (const provider of providers) {
@@ -84,11 +97,11 @@ for (const provider of providers) {
   assert(deals.some((d) => d.provider_roles.some((r) => r.provider_id === provider.id)), `providers/${provider.id}: no documented engagement`);
 }
 
-assert(framework.scoring_status === 'framework_only', 'framework: scoring must remain disabled in Foundation Edition');
+assert(framework.scoring_status === 'framework_only', 'framework: scoring must remain disabled in National Edition');
 assert(Array.isArray(framework.dimensions) && framework.dimensions.length >= 10, 'framework: expected at least ten dimensions');
 assert(framework.dimensions.every((d) => d.definition && d.evidence_prompts?.length >= 3), 'framework: every dimension needs a definition and three evidence prompts');
 
-const raw = JSON.stringify({ companies, firms, people, providers, deals, sources, framework }).toLowerCase();
+const raw = JSON.stringify({ companies, firms, people, providers, deals, sources, framework, markets }).toLowerCase();
 for (const forbidden of ['personal_email','home_address','private_phone','date_of_birth','family_details','password']) {
   assert(!raw.includes(forbidden), `privacy: forbidden field or content ${forbidden}`);
 }
@@ -100,4 +113,4 @@ if (errors.length) {
   process.exit(1);
 }
 
-console.log(`Validated ${deals.length} deals, ${people.length} people, ${providers.length} providers, ${firms.length} firms and ${sources.length} sources.`);
+console.log(`Validated ${deals.length} deals, ${people.length} people, ${providers.length} providers, ${firms.length} firms, ${markets.length} U.S. markets and ${sources.length} sources.`);

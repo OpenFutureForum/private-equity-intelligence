@@ -1,0 +1,12 @@
+[
+  {"id":"market_bay_area","slug":"san-francisco-bay-area","name":"San Francisco Bay Area","region":"West","coordinates":{"x":10,"y":48},"description":"Technology-oriented buyout, growth-equity and operating talent across San Francisco, Menlo Park and the broader Bay Area."},
+  {"id":"market_los_angeles","slug":"los-angeles","name":"Los Angeles","region":"West","coordinates":{"x":14,"y":68},"description":"Large-cap, middle-market and operationally focused private equity centered in Los Angeles and Beverly Hills."},
+  {"id":"market_austin","slug":"austin","name":"Austin","region":"South","coordinates":{"x":45,"y":73},"description":"A growing technology and financial-services investment hub with expanding private-capital offices."},
+  {"id":"market_fort_worth","slug":"fort-worth","name":"Fort Worth","region":"South","coordinates":{"x":43,"y":65},"description":"A major Texas base for diversified alternative investment platforms and private-market operations."},
+  {"id":"market_chicago","slug":"chicago","name":"Chicago","region":"Midwest","coordinates":{"x":62,"y":42},"description":"A long-established center for middle-market buyouts, sector specialization and management-partnership strategies."},
+  {"id":"market_cleveland","slug":"cleveland","name":"Cleveland","region":"Midwest","coordinates":{"x":71,"y":39},"description":"A regional lower-middle-market hub with industrial, services and value-creation expertise."},
+  {"id":"market_charlotte","slug":"charlotte","name":"Charlotte","region":"Southeast","coordinates":{"x":78,"y":59},"description":"A Southeast private-capital and financial-services center with regional middle-market coverage."},
+  {"id":"market_washington_dc","slug":"washington-dc","name":"Washington, DC","region":"Mid-Atlantic","coordinates":{"x":84,"y":48},"description":"A global private-equity center shaped by policy, government, defense, technology and regulated industries."},
+  {"id":"market_new_york","slug":"new-york","name":"New York","region":"Northeast","coordinates":{"x":89,"y":36},"description":"The largest U.S. concentration of diversified alternative managers, buyout firms and private-market advisers."},
+  {"id":"market_boston","slug":"boston","name":"Boston","region":"Northeast","coordinates":{"x":94,"y":29},"description":"A center for growth equity, technology, healthcare and long-tenured private-equity franchises."}
+]

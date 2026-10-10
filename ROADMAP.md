@@ -1,10 +1,17 @@
 # Roadmap
 
-## 0.2 — Coverage expansion
+## 0.2 — National coverage foundation — completed
+
+- Launch a source-backed atlas across 10 major U.S. private-equity hubs.
+- Expand current professional and firm coverage beyond the San Francisco Bay Area.
+- Add transaction-level debt, legal and diligence relationships when publicly disclosed.
+- Add a visual national map, market pages and market data exports.
+
+## 0.3 — National depth
 
 - Reach 25 relationship-economy transactions.
-- Add transaction-level debt, legal and diligence relationships when publicly disclosed.
-- Expand Bay Area coverage beyond software-focused sponsors.
+- Add Atlanta, Miami, Minneapolis, Philadelphia, Denver and additional Texas coverage.
+- Deepen each existing market with sector, strategy and seniority coverage.
 - Add provider practice leaders only when official biographies establish PE responsibility.
 
 ## 0.5 — Intelligence layer

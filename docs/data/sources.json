@@ -405,5 +405,453 @@
       "PE community audience",
       "program description"
     ]
+  },
+  {
+    "id": "src_kkr_people",
+    "title": "Meet Our People",
+    "publisher": "KKR",
+    "url": "https://www.kkr.com/about/our-people",
+    "source_class": "official_professional_biography_directory",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "current professional titles",
+      "team classifications",
+      "office locations"
+    ]
+  },
+  {
+    "id": "src_kkr_brandon_brahm",
+    "title": "Brandon Brahm",
+    "publisher": "KKR",
+    "url": "https://www.kkr.com/about/our-people/brandon-brahm",
+    "source_class": "official_professional_biography",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "current title",
+      "private-equity responsibilities",
+      "New York location"
+    ]
+  },
+  {
+    "id": "src_kkr_chris_harrington",
+    "title": "Chris Harrington",
+    "publisher": "KKR",
+    "url": "https://www.kkr.com/about/our-people/chris-harrington",
+    "source_class": "official_professional_biography",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "current title",
+      "private-equity responsibilities",
+      "New York location"
+    ]
+  },
+  {
+    "id": "src_blackstone_anushka_sunder",
+    "title": "Anushka Sunder",
+    "publisher": "Blackstone",
+    "url": "https://www.blackstone.com/people/anushka-sunder/",
+    "source_class": "official_professional_biography",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "current title",
+      "healthcare private-equity responsibilities",
+      "New York location"
+    ]
+  },
+  {
+    "id": "src_blackstone_eli_nagler",
+    "title": "Eli Nagler",
+    "publisher": "Blackstone",
+    "url": "https://www.blackstone.com/people/eli-nagler/",
+    "source_class": "official_professional_biography",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "current title",
+      "private-equity responsibilities",
+      "New York location"
+    ]
+  },
+  {
+    "id": "src_blackstone_seth_meisel",
+    "title": "Seth Meisel",
+    "publisher": "Blackstone",
+    "url": "https://www.blackstone.com/people/seth-meisel/",
+    "source_class": "official_professional_biography",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "current title",
+      "industrials private-equity responsibilities",
+      "New York location"
+    ]
+  },
+  {
+    "id": "src_ta_about",
+    "title": "About TA",
+    "publisher": "TA",
+    "url": "https://www.ta.com/about/",
+    "source_class": "official_company_page",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "firm strategy",
+      "Boston founding",
+      "current platform description"
+    ]
+  },
+  {
+    "id": "src_ta_offices",
+    "title": "Global Offices",
+    "publisher": "TA",
+    "url": "https://www.ta.com/global-offices/",
+    "source_class": "official_company_page",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "Boston office",
+      "Menlo Park office",
+      "Austin office"
+    ]
+  },
+  {
+    "id": "src_ta_harry_taylor",
+    "title": "Harry D. Taylor",
+    "publisher": "TA",
+    "url": "https://www.ta.com/team/harry-d-taylor/",
+    "source_class": "official_professional_biography",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "current title",
+      "software investment responsibilities",
+      "Boston location"
+    ]
+  },
+  {
+    "id": "src_ta_mike_libert",
+    "title": "Mike Libert",
+    "publisher": "TA",
+    "url": "https://www.ta.com/team/mike-libert/",
+    "source_class": "official_professional_biography",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "current title",
+      "software investment responsibilities",
+      "Boston location"
+    ]
+  },
+  {
+    "id": "src_ta_ethan_liebermann",
+    "title": "Ethan K. Liebermann",
+    "publisher": "TA",
+    "url": "https://www.ta.com/team/ethan-k-liebermann/",
+    "source_class": "official_professional_biography",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "current title",
+      "healthcare investment responsibilities",
+      "Boston location"
+    ]
+  },
+  {
+    "id": "src_ta_roy_burns",
+    "title": "Roy Burns",
+    "publisher": "TA",
+    "url": "https://www.ta.com/team/roy-burns/",
+    "source_class": "official_professional_biography",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "current title",
+      "financial-services investment responsibilities",
+      "Austin location"
+    ]
+  },
+  {
+    "id": "src_gtcr_home",
+    "title": "GTCR",
+    "publisher": "GTCR",
+    "url": "https://www.gtcr.com/",
+    "source_class": "official_company_page",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "private-equity strategy",
+      "Chicago office",
+      "current leadership"
+    ]
+  },
+  {
+    "id": "src_gtcr_luke_marker",
+    "title": "Luke Marker",
+    "publisher": "GTCR",
+    "url": "https://www.gtcr.com/team/luke-marker/",
+    "source_class": "official_professional_biography",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "current title",
+      "investment responsibilities"
+    ]
+  },
+  {
+    "id": "src_mdp_home",
+    "title": "Madison Dearborn Partners",
+    "publisher": "Madison Dearborn Partners",
+    "url": "https://www.mdcp.com/",
+    "source_class": "official_company_page",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "private-equity strategy",
+      "single Chicago office",
+      "current firm description"
+    ]
+  },
+  {
+    "id": "src_mdp_vahe_dombalagian",
+    "title": "Vahe A. Dombalagian",
+    "publisher": "Madison Dearborn Partners",
+    "url": "https://www.mdcp.com/team/vahe-a-dombalagian",
+    "source_class": "official_professional_biography",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "current managing partner title",
+      "financial-services responsibilities"
+    ]
+  },
+  {
+    "id": "src_ares_kevin_cox",
+    "title": "Kevin Cox",
+    "publisher": "Ares Management",
+    "url": "https://www.aresmgmt.com/about-ares-management-corporation/our-team/kevin-cox?pid=146454",
+    "source_class": "official_professional_biography",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "current title",
+      "private-equity responsibilities",
+      "Los Angeles location"
+    ]
+  },
+  {
+    "id": "src_ares_shakun_khanna",
+    "title": "Shakun Khanna",
+    "publisher": "Ares Management",
+    "url": "https://www.aresmgmt.com/about-ares-management-corporation/our-team/shakun-khanna?pid=176628",
+    "source_class": "official_professional_biography",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "current title",
+      "private-equity value-creation responsibilities",
+      "Los Angeles location"
+    ]
+  },
+  {
+    "id": "src_platinum_about",
+    "title": "About Platinum Equity",
+    "publisher": "Platinum Equity",
+    "url": "https://www.platinumequity.com/about-us/",
+    "source_class": "official_company_page",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "firm strategy",
+      "Los Angeles headquarters",
+      "current leadership"
+    ]
+  },
+  {
+    "id": "src_platinum_johnny_lopez",
+    "title": "Johnny Lopez",
+    "publisher": "Platinum Equity",
+    "url": "https://www.platinumequity.com/people/johnny-lopez/",
+    "source_class": "official_professional_biography",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "current partner title",
+      "investment responsibilities",
+      "Los Angeles location"
+    ]
+  },
+  {
+    "id": "src_platinum_mark_barnhill",
+    "title": "Mark Barnhill",
+    "publisher": "Platinum Equity",
+    "url": "https://www.platinumequity.com/people/mark-barnhill/",
+    "source_class": "official_professional_biography",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "current partner title",
+      "investor-relations responsibilities",
+      "Los Angeles location"
+    ]
+  },
+  {
+    "id": "src_tpg_tpop_team",
+    "title": "TPG Private Equity Opportunities",
+    "publisher": "TPG",
+    "url": "https://tpop.tpg.com/",
+    "source_class": "official_company_page",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "Fort Worth location",
+      "current TPG titles",
+      "private-equity product responsibilities"
+    ]
+  },
+  {
+    "id": "src_carlyle_global_pe",
+    "title": "Global Private Equity",
+    "publisher": "Carlyle",
+    "url": "https://www.carlyle.com/our-firm/global-private-equity",
+    "source_class": "official_company_page",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "Washington headquarters",
+      "global private-equity strategy",
+      "current platform description"
+    ]
+  },
+  {
+    "id": "src_carlyle_vipul_amin",
+    "title": "Vipul Amin",
+    "publisher": "Carlyle",
+    "url": "https://www.carlyle.com/about-carlyle/team/vipul-amin",
+    "source_class": "official_professional_biography",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "current title",
+      "U.S. buyout responsibilities",
+      "Washington location"
+    ]
+  },
+  {
+    "id": "src_carlyle_jeremy_anderson",
+    "title": "Jeremy W. Anderson",
+    "publisher": "Carlyle",
+    "url": "https://www.carlyle.com/about-carlyle/team/jeremy-w-anderson",
+    "source_class": "official_professional_biography",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "current title",
+      "global private-equity finance responsibilities",
+      "Washington location"
+    ]
+  },
+  {
+    "id": "src_carlyle_chioma_achebe",
+    "title": "Chioma Achebe",
+    "publisher": "Carlyle",
+    "url": "https://www.carlyle.com/about-carlyle/team/chioma-achebe",
+    "source_class": "official_professional_biography",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "current title",
+      "portfolio value-creation responsibilities",
+      "Washington location"
+    ]
+  },
+  {
+    "id": "src_carlyle_brian_bernasek",
+    "title": "Carlyle Makes Leadership Announcement in Americas Corporate Private Equity",
+    "publisher": "Carlyle",
+    "url": "https://www.carlyle.com/media-room/news-release-archive/carlyle-makes-leadership-announcement-americas-corporate-private",
+    "source_class": "official_company_announcement",
+    "published_date": "2024-06-12",
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "Americas private-equity leadership",
+      "Brian Bernasek title",
+      "Washington location"
+    ]
+  },
+  {
+    "id": "src_blue_point_team",
+    "title": "Our Team",
+    "publisher": "Blue Point Capital Partners",
+    "url": "https://www.bluepointcapital.com/our-team",
+    "source_class": "official_professional_biography_directory",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "current professional titles",
+      "Cleveland locations",
+      "Charlotte locations"
+    ]
+  },
+  {
+    "id": "src_blue_point_about",
+    "title": "Who We Are",
+    "publisher": "Blue Point Capital Partners",
+    "url": "https://www.bluepointcapital.com/who-we-are",
+    "source_class": "official_company_page",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "lower-middle-market strategy",
+      "regional presence",
+      "current firm description"
+    ]
+  },
+  {
+    "id": "src_apollo_locations",
+    "title": "Our Locations",
+    "publisher": "Apollo",
+    "url": "https://www.apollo.com/institutional/aboutus/our-locations.html",
+    "source_class": "official_company_page",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "New York global headquarters",
+      "United States office network"
+    ]
+  },
+  {
+    "id": "src_apollo_emerald_questex_2026",
+    "title": "Apollo Funds to Acquire Emerald and Questex to Create Leading North American B2B Events Platform",
+    "publisher": "Apollo",
+    "url": "https://www.apollo.com/institutional/insights-news/pressreleases/2026/05/apollo-funds-to-acquire-emerald-and-questex-to-create-leading-north-american-b2b-events-platform-3291706",
+    "source_class": "official_transaction_announcement",
+    "published_date": "2026-05-11",
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "pending Emerald acquisition",
+      "pending Questex acquisition",
+      "Emerald enterprise value",
+      "combination thesis",
+      "named advisers",
+      "named transaction representatives"
+    ]
+  },
+  {
+    "id": "src_apollo_emerald_questex_leadership_2026",
+    "title": "Paul Miller to Lead Combined Emerald and Questex Business as Chief Executive Officer",
+    "publisher": "Apollo",
+    "url": "https://www.apollo.com/insights-news/pressreleases/2026/06/paul-miller-to-lead-combined-emerald-and-questex-business-as-chief-executive-officer-3316767",
+    "source_class": "official_company_announcement",
+    "published_date": "2026-06-24",
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "planned combined-company leadership",
+      "Paul Miller attribution",
+      "Shahid Bosan attribution"
+    ]
   }
 ]

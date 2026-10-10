@@ -4,8 +4,9 @@
     "slug": "holden-spaht",
     "name": "Holden Spaht",
     "profile_scope": [
-      "bay_area"
+      "us_atlas"
     ],
+    "market_id": "market_bay_area",
     "current_firm_id": "firm_thoma_bravo",
     "current_title": "Managing Partner",
     "location": "San Francisco, California, United States",
@@ -21,8 +22,9 @@
     "slug": "seth-boro",
     "name": "Seth Boro",
     "profile_scope": [
-      "bay_area"
+      "us_atlas"
     ],
+    "market_id": "market_bay_area",
     "current_firm_id": "firm_thoma_bravo",
     "current_title": "Managing Partner",
     "location": "San Francisco, California, United States",
@@ -38,8 +40,9 @@
     "slug": "david-tunnell",
     "name": "David Tunnell",
     "profile_scope": [
-      "bay_area"
+      "us_atlas"
     ],
+    "market_id": "market_bay_area",
     "current_firm_id": "firm_hf",
     "current_title": "Partner",
     "location": "San Francisco, California, United States",
@@ -55,8 +58,9 @@
     "slug": "jacob-best",
     "name": "Jacob Best",
     "profile_scope": [
-      "bay_area"
+      "us_atlas"
     ],
+    "market_id": "market_bay_area",
     "current_firm_id": "firm_hf",
     "current_title": "Partner",
     "location": "San Francisco, California, United States",
@@ -72,8 +76,9 @@
     "slug": "matt-eisen",
     "name": "Matt Eisen",
     "profile_scope": [
-      "bay_area"
+      "us_atlas"
     ],
+    "market_id": "market_bay_area",
     "current_firm_id": "firm_hf",
     "current_title": "Partner",
     "location": "San Francisco, California, United States",
@@ -89,8 +94,9 @@
     "slug": "sri-srinivasan",
     "name": "Sri Srinivasan",
     "profile_scope": [
-      "bay_area"
+      "us_atlas"
     ],
+    "market_id": "market_bay_area",
     "current_firm_id": "firm_hf",
     "current_title": "Chief AI Officer",
     "location": "San Francisco, California, United States",
@@ -106,8 +112,9 @@
     "slug": "josh-gold",
     "name": "Josh Gold",
     "profile_scope": [
-      "bay_area"
+      "us_atlas"
     ],
+    "market_id": "market_bay_area",
     "current_firm_id": "firm_hf",
     "current_title": "Senior Operating Executive",
     "location": "San Francisco, California, United States",
@@ -123,8 +130,9 @@
     "slug": "arrie-park",
     "name": "Arrie Park",
     "profile_scope": [
-      "bay_area"
+      "us_atlas"
     ],
+    "market_id": "market_bay_area",
     "current_firm_id": "firm_hf",
     "current_title": "Partner and Chief Legal Officer",
     "location": "San Francisco, California, United States",
@@ -140,8 +148,9 @@
     "slug": "hollie-haynes",
     "name": "Hollie Haynes",
     "profile_scope": [
-      "bay_area"
+      "us_atlas"
     ],
+    "market_id": "market_bay_area",
     "current_firm_id": "firm_luminate",
     "current_title": "Founder and Managing Partner",
     "location": "San Francisco, California, United States",
@@ -157,8 +166,9 @@
     "slug": "andrew-baldwin",
     "name": "Andrew Baldwin",
     "profile_scope": [
-      "bay_area"
+      "us_atlas"
     ],
+    "market_id": "market_bay_area",
     "current_firm_id": "firm_luminate",
     "current_title": "Partner",
     "location": "San Francisco, California, United States",
@@ -174,8 +184,9 @@
     "slug": "lucy-li",
     "name": "Lucy Li",
     "profile_scope": [
-      "bay_area"
+      "us_atlas"
     ],
+    "market_id": "market_bay_area",
     "current_firm_id": "firm_luminate",
     "current_title": "Partner",
     "location": "San Francisco, California, United States",
@@ -191,8 +202,9 @@
     "slug": "kate-scott",
     "name": "Kate Scott",
     "profile_scope": [
-      "bay_area"
+      "us_atlas"
     ],
+    "market_id": "market_bay_area",
     "current_firm_id": "firm_luminate",
     "current_title": "Partner and Chief Financial Officer",
     "location": "San Francisco, California, United States",
@@ -208,8 +220,9 @@
     "slug": "chris-adams",
     "name": "Chris Adams",
     "profile_scope": [
-      "bay_area"
+      "us_atlas"
     ],
+    "market_id": "market_bay_area",
     "current_firm_id": "firm_francisco_partners",
     "current_title": "Partner",
     "location": "San Francisco office",
@@ -225,8 +238,9 @@
     "slug": "justin-chen",
     "name": "Justin Chen",
     "profile_scope": [
-      "bay_area"
+      "us_atlas"
     ],
+    "market_id": "market_bay_area",
     "current_firm_id": "firm_francisco_partners",
     "current_title": "Partner",
     "location": "San Francisco office",
@@ -242,8 +256,9 @@
     "slug": "peter-christodoulo",
     "name": "Peter Christodoulo",
     "profile_scope": [
-      "bay_area"
+      "us_atlas"
     ],
+    "market_id": "market_bay_area",
     "current_firm_id": "firm_francisco_partners",
     "current_title": "Partner",
     "location": "San Francisco office",
@@ -259,8 +274,9 @@
     "slug": "evan-daar",
     "name": "Evan Daar",
     "profile_scope": [
-      "bay_area"
+      "us_atlas"
     ],
+    "market_id": "market_bay_area",
     "current_firm_id": "firm_francisco_partners",
     "current_title": "Partner",
     "location": "San Francisco office",
@@ -276,8 +292,9 @@
     "slug": "ashley-evans",
     "name": "Ashley Evans",
     "profile_scope": [
-      "bay_area"
+      "us_atlas"
     ],
+    "market_id": "market_bay_area",
     "current_firm_id": "firm_francisco_partners",
     "current_title": "Partner",
     "location": "San Francisco office",
@@ -293,8 +310,9 @@
     "slug": "andrew-kowal",
     "name": "Andrew Kowal",
     "profile_scope": [
-      "bay_area"
+      "us_atlas"
     ],
+    "market_id": "market_bay_area",
     "current_firm_id": "firm_francisco_partners",
     "current_title": "Partner",
     "location": "San Francisco office",
@@ -310,8 +328,9 @@
     "slug": "karl-shum",
     "name": "Karl Shum",
     "profile_scope": [
-      "bay_area"
+      "us_atlas"
     ],
+    "market_id": "market_bay_area",
     "current_firm_id": "firm_francisco_partners",
     "current_title": "Partner",
     "location": "San Francisco office",
@@ -327,8 +346,9 @@
     "slug": "christine-wang",
     "name": "Christine Wang",
     "profile_scope": [
-      "bay_area"
+      "us_atlas"
     ],
+    "market_id": "market_bay_area",
     "current_firm_id": "firm_francisco_partners",
     "current_title": "Partner",
     "location": "San Francisco office",
@@ -344,8 +364,9 @@
     "slug": "graham-weaver",
     "name": "Graham Weaver",
     "profile_scope": [
-      "bay_area"
+      "us_atlas"
     ],
+    "market_id": "market_bay_area",
     "current_firm_id": "firm_alpine",
     "current_title": "Founder and Chief Executive Officer",
     "location": "Associated with firm's San Francisco headquarters",
@@ -696,6 +717,528 @@
     "summary": "Named FTI Consulting professional on vendor financial due diligence for the 2026 Hyve sale.",
     "source_ids": [
       "src_hyve_fti_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_brandon_brahm",
+    "slug": "brandon-brahm",
+    "name": "Brandon Brahm",
+    "profile_scope": [
+      "us_atlas"
+    ],
+    "market_id": "market_new_york",
+    "current_firm_id": "firm_kkr",
+    "current_title": "Partner and Co-Head of KKR Ascendant",
+    "location": "New York, New York, United States",
+    "location_evidence": "explicit_person_bio",
+    "summary": "KKR partner and co-head of its Ascendant middle-market private-equity strategy, based in New York.",
+    "source_ids": [
+      "src_kkr_brandon_brahm"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_chris_harrington",
+    "slug": "chris-harrington",
+    "name": "Chris Harrington",
+    "profile_scope": [
+      "us_atlas"
+    ],
+    "market_id": "market_new_york",
+    "current_firm_id": "firm_kkr",
+    "current_title": "Partner",
+    "location": "New York, New York, United States",
+    "location_evidence": "explicit_person_bio",
+    "summary": "KKR partner leading the Financial Services industry team within Americas Private Equity, based in New York.",
+    "source_ids": [
+      "src_kkr_chris_harrington"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_anushka_sunder",
+    "slug": "anushka-sunder",
+    "name": "Anushka Sunder",
+    "profile_scope": [
+      "us_atlas"
+    ],
+    "market_id": "market_new_york",
+    "current_firm_id": "firm_blackstone",
+    "current_title": "Senior Managing Director and Head of Healthcare Private Equity North America",
+    "location": "New York, New York, United States",
+    "location_evidence": "explicit_person_bio",
+    "summary": "Blackstone senior managing director leading healthcare private equity in North America, based in New York.",
+    "source_ids": [
+      "src_blackstone_anushka_sunder"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_eli_nagler",
+    "slug": "eli-nagler",
+    "name": "Eli Nagler",
+    "profile_scope": [
+      "us_atlas"
+    ],
+    "market_id": "market_new_york",
+    "current_firm_id": "firm_blackstone",
+    "current_title": "Senior Managing Director",
+    "location": "New York, New York, United States",
+    "location_evidence": "explicit_person_bio",
+    "summary": "Blackstone private-equity investor leading technology and financial-services investments, based in New York.",
+    "source_ids": [
+      "src_blackstone_eli_nagler"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_seth_meisel",
+    "slug": "seth-meisel",
+    "name": "Seth Meisel",
+    "profile_scope": [
+      "us_atlas"
+    ],
+    "market_id": "market_new_york",
+    "current_firm_id": "firm_blackstone",
+    "current_title": "Senior Managing Director",
+    "location": "New York, New York, United States",
+    "location_evidence": "explicit_person_bio",
+    "summary": "Blackstone senior managing director heading private-equity transactions in the industrials sector, based in New York.",
+    "source_ids": [
+      "src_blackstone_seth_meisel"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_harry_taylor",
+    "slug": "harry-taylor",
+    "name": "Harry D. Taylor",
+    "profile_scope": [
+      "us_atlas"
+    ],
+    "market_id": "market_boston",
+    "current_firm_id": "firm_ta",
+    "current_title": "Managing Director",
+    "location": "Boston, Massachusetts, United States",
+    "location_evidence": "explicit_person_bio",
+    "summary": "TA managing director helping lead investments in enterprise software, based in Boston.",
+    "source_ids": [
+      "src_ta_harry_taylor"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_mike_libert",
+    "slug": "mike-libert",
+    "name": "Mike Libert",
+    "profile_scope": [
+      "us_atlas"
+    ],
+    "market_id": "market_boston",
+    "current_firm_id": "firm_ta",
+    "current_title": "Managing Director",
+    "location": "Boston, Massachusetts, United States",
+    "location_evidence": "explicit_person_bio",
+    "summary": "TA managing director focused on North American software investments, based in Boston.",
+    "source_ids": [
+      "src_ta_mike_libert"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_ethan_liebermann",
+    "slug": "ethan-liebermann",
+    "name": "Ethan K. Liebermann",
+    "profile_scope": [
+      "us_atlas"
+    ],
+    "market_id": "market_boston",
+    "current_firm_id": "firm_ta",
+    "current_title": "Managing Director and Head of North America Healthcare",
+    "location": "Boston, Massachusetts, United States",
+    "location_evidence": "explicit_person_bio",
+    "summary": "TA managing director leading the firm's North America healthcare group, based in Boston.",
+    "source_ids": [
+      "src_ta_ethan_liebermann"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_luke_marker",
+    "slug": "luke-marker",
+    "name": "Luke Marker",
+    "profile_scope": [
+      "us_atlas"
+    ],
+    "market_id": "market_chicago",
+    "current_firm_id": "firm_gtcr",
+    "current_title": "Managing Director",
+    "location": "Associated with firm's Chicago office",
+    "location_evidence": "firm_office_association",
+    "summary": "GTCR managing director; the reviewed sources establish GTCR's Chicago office but do not make a separate person-level location statement.",
+    "source_ids": [
+      "src_gtcr_home",
+      "src_gtcr_luke_marker"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_vahe_dombalagian",
+    "slug": "vahe-dombalagian",
+    "name": "Vahe A. Dombalagian",
+    "profile_scope": [
+      "us_atlas"
+    ],
+    "market_id": "market_chicago",
+    "current_firm_id": "firm_madison_dearborn",
+    "current_title": "Managing Partner and Co-Head of Financial Services",
+    "location": "Associated with firm's single Chicago office",
+    "location_evidence": "firm_office_association",
+    "summary": "Managing partner of Madison Dearborn; the firm identifies a single Chicago office, used here as an explicitly labeled association.",
+    "source_ids": [
+      "src_mdp_home",
+      "src_mdp_vahe_dombalagian"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_kevin_cox",
+    "slug": "kevin-cox",
+    "name": "Kevin Cox",
+    "profile_scope": [
+      "us_atlas"
+    ],
+    "market_id": "market_los_angeles",
+    "current_firm_id": "firm_ares",
+    "current_title": "Partner, Private Equity Group",
+    "location": "Los Angeles, California, United States",
+    "location_evidence": "explicit_person_bio",
+    "summary": "Ares partner in the Private Equity Group, based in Los Angeles.",
+    "source_ids": [
+      "src_ares_kevin_cox"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_shakun_khanna",
+    "slug": "shakun-khanna",
+    "name": "Shakun Khanna",
+    "profile_scope": [
+      "us_atlas"
+    ],
+    "market_id": "market_los_angeles",
+    "current_firm_id": "firm_ares",
+    "current_title": "Principal, Private Equity Group",
+    "location": "Los Angeles, California, United States",
+    "location_evidence": "explicit_person_bio",
+    "summary": "Ares private-equity value-creation professional based in Los Angeles.",
+    "source_ids": [
+      "src_ares_shakun_khanna"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_johnny_lopez",
+    "slug": "johnny-lopez",
+    "name": "Johnny Lopez",
+    "profile_scope": [
+      "us_atlas"
+    ],
+    "market_id": "market_los_angeles",
+    "current_firm_id": "firm_platinum",
+    "current_title": "Partner",
+    "location": "Los Angeles, California, United States",
+    "location_evidence": "explicit_person_bio",
+    "summary": "Founding Platinum Equity partner involved in business development and significant M&A activity, based in Los Angeles.",
+    "source_ids": [
+      "src_platinum_johnny_lopez"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_mark_barnhill",
+    "slug": "mark-barnhill",
+    "name": "Mark Barnhill",
+    "profile_scope": [
+      "us_atlas"
+    ],
+    "market_id": "market_los_angeles",
+    "current_firm_id": "firm_platinum",
+    "current_title": "Partner",
+    "location": "Los Angeles, California, United States",
+    "location_evidence": "explicit_person_bio",
+    "summary": "Platinum Equity partner responsible for capital raising, fund administration and investor relations, based in Los Angeles.",
+    "source_ids": [
+      "src_platinum_mark_barnhill"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_roy_burns",
+    "slug": "roy-burns",
+    "name": "Roy Burns",
+    "profile_scope": [
+      "us_atlas"
+    ],
+    "market_id": "market_austin",
+    "current_firm_id": "firm_ta",
+    "current_title": "Managing Director and Co-Head of North America Financial Services",
+    "location": "Austin, Texas, United States",
+    "location_evidence": "explicit_person_bio",
+    "summary": "TA managing director and co-head of North America financial-services investing, based in Austin.",
+    "source_ids": [
+      "src_ta_roy_burns"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_steve_willmann",
+    "slug": "steve-willmann",
+    "name": "Steve Willmann",
+    "profile_scope": [
+      "us_atlas"
+    ],
+    "market_id": "market_fort_worth",
+    "current_firm_id": "firm_tpg",
+    "current_title": "Partner and Treasurer",
+    "location": "Fort Worth, Texas, United States",
+    "location_evidence": "explicit_person_bio",
+    "summary": "TPG partner, treasurer and co-portfolio manager for TPG Private Equity Opportunities, based in Fort Worth.",
+    "source_ids": [
+      "src_tpg_tpop_team"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_ayanna_clunis",
+    "slug": "ayanna-clunis",
+    "name": "Ayanna Clunis",
+    "profile_scope": [
+      "us_atlas"
+    ],
+    "market_id": "market_fort_worth",
+    "current_firm_id": "firm_tpg",
+    "current_title": "Partner and Head of Operations",
+    "location": "Fort Worth, Texas, United States",
+    "location_evidence": "explicit_person_bio",
+    "summary": "TPG partner and head of operations serving as COO of TPG Private Equity Opportunities, based in Fort Worth.",
+    "source_ids": [
+      "src_tpg_tpop_team"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_vipul_amin",
+    "slug": "vipul-amin",
+    "name": "Vipul Amin",
+    "profile_scope": [
+      "us_atlas"
+    ],
+    "market_id": "market_washington_dc",
+    "current_firm_id": "firm_carlyle",
+    "current_title": "Managing Director, U.S. Buyout",
+    "location": "Washington, DC, United States",
+    "location_evidence": "explicit_person_bio",
+    "summary": "Carlyle managing director focused on U.S. buyouts, privatizations and strategic minority investments, based in Washington.",
+    "source_ids": [
+      "src_carlyle_vipul_amin"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_jeremy_anderson",
+    "slug": "jeremy-anderson",
+    "name": "Jeremy W. Anderson",
+    "profile_scope": [
+      "us_atlas"
+    ],
+    "market_id": "market_washington_dc",
+    "current_firm_id": "firm_carlyle",
+    "current_title": "Managing Director and Chief Financial Officer of Global Private Equity",
+    "location": "Washington, DC, United States",
+    "location_evidence": "explicit_person_bio",
+    "summary": "Carlyle managing director and finance leader for Global Private Equity, based in Washington.",
+    "source_ids": [
+      "src_carlyle_jeremy_anderson"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_chioma_achebe",
+    "slug": "chioma-achebe",
+    "name": "Chioma Achebe",
+    "profile_scope": [
+      "us_atlas"
+    ],
+    "market_id": "market_washington_dc",
+    "current_firm_id": "firm_carlyle",
+    "current_title": "Principal, Private Equity",
+    "location": "Washington, DC, United States",
+    "location_evidence": "explicit_person_bio",
+    "summary": "Carlyle private-equity principal leading portfolio value-creation initiatives, based in Washington.",
+    "source_ids": [
+      "src_carlyle_chioma_achebe"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_brian_bernasek",
+    "slug": "brian-bernasek",
+    "name": "Brian A. Bernasek",
+    "profile_scope": [
+      "us_atlas"
+    ],
+    "market_id": "market_washington_dc",
+    "current_firm_id": "firm_carlyle",
+    "current_title": "Partner and Co-Head of Americas Corporate Private Equity",
+    "location": "Washington, DC, United States",
+    "location_evidence": "explicit_person_bio",
+    "summary": "Carlyle partner and co-head of Americas Corporate Private Equity, based in Washington.",
+    "source_ids": [
+      "src_carlyle_brian_bernasek"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_chip_chaikin",
+    "slug": "chip-chaikin",
+    "name": "Chip Chaikin",
+    "profile_scope": [
+      "us_atlas"
+    ],
+    "market_id": "market_cleveland",
+    "current_firm_id": "firm_blue_point",
+    "current_title": "Partner",
+    "location": "Cleveland, Ohio, United States",
+    "location_evidence": "explicit_office_filter",
+    "summary": "Blue Point partner associated with the firm's Cleveland team and global supply-chain value-creation work.",
+    "source_ids": [
+      "src_blue_point_team"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_john_lemay",
+    "slug": "john-lemay",
+    "name": "John LeMay",
+    "profile_scope": [
+      "us_atlas"
+    ],
+    "market_id": "market_cleveland",
+    "current_firm_id": "firm_blue_point",
+    "current_title": "Partner",
+    "location": "Cleveland, Ohio, United States",
+    "location_evidence": "explicit_office_filter",
+    "summary": "Blue Point partner returned by the firm's Cleveland team directory.",
+    "source_ids": [
+      "src_blue_point_team"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_brian_castleberry",
+    "slug": "brian-castleberry",
+    "name": "Brian Castleberry",
+    "profile_scope": [
+      "us_atlas"
+    ],
+    "market_id": "market_charlotte",
+    "current_firm_id": "firm_blue_point",
+    "current_title": "Partner",
+    "location": "Charlotte, North Carolina, United States",
+    "location_evidence": "explicit_office_filter",
+    "summary": "Blue Point partner returned by the firm's Charlotte team directory.",
+    "source_ids": [
+      "src_blue_point_team"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_juli_marley",
+    "slug": "juli-marley",
+    "name": "Juli Marley",
+    "profile_scope": [
+      "us_atlas"
+    ],
+    "market_id": "market_charlotte",
+    "current_firm_id": "firm_blue_point",
+    "current_title": "Partner",
+    "location": "Charlotte, North Carolina, United States",
+    "location_evidence": "explicit_office_filter",
+    "summary": "Blue Point partner returned by the firm's Charlotte team directory.",
+    "source_ids": [
+      "src_blue_point_team"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_shahid_bosan",
+    "slug": "shahid-bosan",
+    "name": "Shahid Bosan",
+    "profile_scope": [
+      "transaction_attribution"
+    ],
+    "current_firm_id": null,
+    "current_title": null,
+    "location": null,
+    "location_evidence": null,
+    "summary": "Named and quoted Apollo representative in the pending 2026 Emerald and Questex acquisitions; no current profile facts are asserted beyond the transaction context.",
+    "source_ids": [
+      "src_apollo_emerald_questex_2026",
+      "src_apollo_emerald_questex_leadership_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_kosty_gillis",
+    "slug": "kosty-gillis",
+    "name": "Kosty Gillis",
+    "profile_scope": [
+      "transaction_attribution"
+    ],
+    "current_firm_id": null,
+    "current_title": null,
+    "location": null,
+    "location_evidence": null,
+    "summary": "Named and quoted Onex representative in the pending 2026 sale of Emerald; no current profile facts are asserted beyond the transaction context.",
+    "source_ids": [
+      "src_apollo_emerald_questex_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_herve_sedky",
+    "slug": "herve-sedky",
+    "name": "Hervé Sedky",
+    "profile_scope": [
+      "transaction_attribution"
+    ],
+    "current_firm_id": null,
+    "current_title": null,
+    "location": null,
+    "location_evidence": null,
+    "summary": "Named and quoted Emerald representative in the pending 2026 Apollo acquisition; no current profile facts are asserted beyond the transaction context.",
+    "source_ids": [
+      "src_apollo_emerald_questex_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_paul_miller",
+    "slug": "paul-miller",
+    "name": "Paul Miller",
+    "profile_scope": [
+      "transaction_attribution"
+    ],
+    "current_firm_id": null,
+    "current_title": null,
+    "location": null,
+    "location_evidence": null,
+    "summary": "Named Questex representative and announced future leader of the combined Emerald–Questex business; retained as transaction-specific historical attribution.",
+    "source_ids": [
+      "src_apollo_emerald_questex_2026",
+      "src_apollo_emerald_questex_leadership_2026"
     ],
     "last_verified": "2026-10-10"
   }

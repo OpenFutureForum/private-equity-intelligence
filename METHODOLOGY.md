@@ -4,9 +4,9 @@
 
 The Private Equity Intelligence Index maps public, professionally relevant evidence about private-equity transactions, firms, people and advisers. It is designed to answer who acquired a business, who was publicly identified with the work, which advisers were involved, and how the transaction fits a broader investment thesis.
 
-## Initial scope
+## Current scope
 
-The Foundation Edition emphasizes relationship-economy businesses: executive networks, professional communities, B2B events and private-markets information services. Open Future Forum is discussed only as an illustrative business archetype. Its inclusion does not imply that it is for sale, seeking investment or involved in a transaction.
+The National Edition combines two research layers: a transaction cohort emphasizing relationship-economy businesses, and a ten-market United States atlas of current private-equity professionals and firms. Open Future Forum is discussed only as an illustrative business archetype. Its inclusion does not imply that it is for sale, seeking investment or involved in a transaction.
 
 ## Evidence classes
 
@@ -34,9 +34,11 @@ People are connected to transactions only when a public source supports one of t
 
 Only the first three are displayed as confirmed transaction participation. Working at a firm when a transaction occurred is insufficient.
 
-## Bay Area inclusion
+## United States atlas inclusion
 
-A person enters the Bay Area atlas only when a source supports an explicit Bay Area location or when the record is clearly labeled `firm_office_association`. The latter means the firm has a verified Bay Area office and the person has a verified current role, but the source does not establish that the person personally works from that office.
+A person enters the U.S. atlas only when a source supports an explicit location, an official office-directory match, or a record clearly labeled `firm_office_association`. The latter means the firm has a verified office in the market and the person has a verified current role, but the source does not establish that the person personally works from that office.
+
+The current market layer covers the San Francisco Bay Area, Los Angeles, Austin, Fort Worth, Chicago, Cleveland, Charlotte, Washington, New York and Boston. These are curated entry points, not an exhaustive census of U.S. private equity. Missing people, firms and cities remain not-yet-verified.
 
 ## Relationship-economy framework
 
