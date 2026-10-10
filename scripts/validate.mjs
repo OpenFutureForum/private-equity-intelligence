@@ -71,7 +71,7 @@ for (const deal of deals) {
 const allowedLocationEvidence = new Set(['explicit_person_bio','explicit_office_filter','firm_office_association']);
 for (const person of people) {
   assert(Array.isArray(person.profile_scope) && person.profile_scope.length > 0, `people/${person.id}: missing profile scope`);
-  assert(person.profile_scope.every((scope) => ['us_atlas','transaction_attribution'].includes(scope)), `people/${person.id}: invalid profile scope`);
+  assert(person.profile_scope.every((scope) => ['us_atlas','transaction_attribution','ecosystem_directory'].includes(scope)), `people/${person.id}: invalid profile scope`);
   if (person.current_firm_id) assert(firmIds.has(person.current_firm_id), `people/${person.id}: unknown current firm`);
   if (person.profile_scope.includes('us_atlas')) {
     assert(person.market_id && marketIds.has(person.market_id), `people/${person.id}: U.S. atlas profile needs a valid market`);
@@ -82,6 +82,14 @@ for (const person of people) {
   }
   if (person.profile_scope.includes('transaction_attribution')) {
     assert(deals.some((d) => d.people_roles.some((r) => r.person_id === person.id)), `people/${person.id}: transaction profile is not linked to a deal`);
+  }
+  if (person.profile_scope.includes('ecosystem_directory')) {
+    assert(person.organization && person.current_title, `people/${person.id}: ecosystem profile needs a supplied organization and title`);
+    assert([1, 2, 3].includes(person.ecosystem_tier), `people/${person.id}: ecosystem profile needs a valid tier`);
+    assert(person.verification_status === 'user_supplied_unverified', `people/${person.id}: ecosystem profile must retain its verification label`);
+    assert(person.source_ids.includes('src_user_supplied_pe_ecosystem_2026'), `people/${person.id}: ecosystem profile needs its directory source`);
+    assert(!person.market_id && !person.location, `people/${person.id}: ecosystem profile must not infer a location`);
+    if (person.professional_profile_url) assert(/^https:\/\/www\.linkedin\.com\/in\/[a-z0-9_%.-]+$/i.test(person.professional_profile_url), `people/${person.id}: invalid professional profile URL`);
   }
 }
 
@@ -105,7 +113,7 @@ assert(framework.scoring_status === 'framework_only', 'framework: scoring must r
 assert(Array.isArray(framework.dimensions) && framework.dimensions.length >= 10, 'framework: expected at least ten dimensions');
 assert(framework.dimensions.every((d) => d.definition && d.evidence_prompts?.length >= 3), 'framework: every dimension needs a definition and three evidence prompts');
 
-assert(people.length === 500, `release target: expected exactly 500 people, found ${people.length}`);
+assert(people.length === 667, `release target: expected exactly 667 people, found ${people.length}`);
 assert(deals.length === 100, `release target: expected exactly 100 deals, found ${deals.length}`);
 assert(new Set(people.map((person) => person.name.trim().toLowerCase())).size === people.length, 'people contains duplicate names');
 assert(deals.filter((deal) => deal.evidence_tier === 'official_portfolio_record').length === 86, 'release target: expected 86 official portfolio records');

@@ -1122,5 +1122,22 @@
       "year of investment",
       "company description"
     ]
+  },
+  {
+    "id": "src_user_supplied_pe_ecosystem_2026",
+    "title": "User-supplied PE ecosystem professional directory",
+    "publisher": "Open Future Forum submission",
+    "url": "https://github.com/OpenFutureForum/private-equity-intelligence/blob/main/data/expansions/user-supplied-pe-ecosystem-2026.json",
+    "source_class": "user_supplied_professional_directory",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "supplied professional name",
+      "organization",
+      "title",
+      "directory tier",
+      "professional profile URL"
+    ],
+    "verification_note": "Imported from a user-supplied list. The publisher has not independently verified each entry."
   }
 ]

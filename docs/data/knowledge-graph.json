@@ -3722,6 +3722,1008 @@
       "slug": "kkr-brandon-donnenfeld"
     },
     {
+      "id": "person_ecosystem_amy_jafarpour",
+      "type": "person",
+      "name": "Amy Duong-Jafarpour",
+      "slug": "ecosystem-amy-jafarpour"
+    },
+    {
+      "id": "person_ecosystem_darren_smith_913b9347",
+      "type": "person",
+      "name": "Darren Smith",
+      "slug": "ecosystem-darren-smith-913b9347"
+    },
+    {
+      "id": "person_ecosystem_maralarsonrichard",
+      "type": "person",
+      "name": "Mara Larson-Richard",
+      "slug": "ecosystem-maralarsonrichard"
+    },
+    {
+      "id": "person_ecosystem_scottallengraham",
+      "type": "person",
+      "name": "Scott Graham",
+      "slug": "ecosystem-scottallengraham"
+    },
+    {
+      "id": "person_ecosystem_lev_parker_47234879",
+      "type": "person",
+      "name": "Lev Parker",
+      "slug": "ecosystem-lev-parker-47234879"
+    },
+    {
+      "id": "person_ecosystem_leslie_smith_6878105",
+      "type": "person",
+      "name": "Leslie Smith",
+      "slug": "ecosystem-leslie-smith-6878105"
+    },
+    {
+      "id": "person_ecosystem_deanbearman",
+      "type": "person",
+      "name": "Dean Bearman",
+      "slug": "ecosystem-deanbearman"
+    },
+    {
+      "id": "person_ecosystem_dylancpayne",
+      "type": "person",
+      "name": "Dylan",
+      "slug": "ecosystem-dylancpayne"
+    },
+    {
+      "id": "person_ecosystem_jon_reeves",
+      "type": "person",
+      "name": "Jon Reeves",
+      "slug": "ecosystem-jon-reeves"
+    },
+    {
+      "id": "person_ecosystem_laurentvincent",
+      "type": "person",
+      "name": "Lvincent",
+      "slug": "ecosystem-laurentvincent"
+    },
+    {
+      "id": "person_ecosystem_lisahaffey",
+      "type": "person",
+      "name": "Lisa Haffey",
+      "slug": "ecosystem-lisahaffey"
+    },
+    {
+      "id": "person_ecosystem_tracie_janoska_02aa573",
+      "type": "person",
+      "name": "Tracie Janoska",
+      "slug": "ecosystem-tracie-janoska-02aa573"
+    },
+    {
+      "id": "person_ecosystem_ethan_than",
+      "type": "person",
+      "name": "Ethan Than",
+      "slug": "ecosystem-ethan-than"
+    },
+    {
+      "id": "person_ecosystem_yosuke_kogure_421b304",
+      "type": "person",
+      "name": "Yosuke Kogure",
+      "slug": "ecosystem-yosuke-kogure-421b304"
+    },
+    {
+      "id": "person_ecosystem_akshaydeolikar",
+      "type": "person",
+      "name": "Akshay Deolikar",
+      "slug": "ecosystem-akshaydeolikar"
+    },
+    {
+      "id": "person_ecosystem_clintnyberg",
+      "type": "person",
+      "name": "Clint Nyberg CPA",
+      "slug": "ecosystem-clintnyberg"
+    },
+    {
+      "id": "person_ecosystem_tejaltshah",
+      "type": "person",
+      "name": "Tejal Shah",
+      "slug": "ecosystem-tejaltshah"
+    },
+    {
+      "id": "person_ecosystem_jason_johnson_velvet",
+      "type": "person",
+      "name": "Jason Johnson",
+      "slug": "ecosystem-jason-johnson-velvet"
+    },
+    {
+      "id": "person_ecosystem_dmitri_anissimov",
+      "type": "person",
+      "name": "Dmitri Anissimov",
+      "slug": "ecosystem-dmitri-anissimov"
+    },
+    {
+      "id": "person_ecosystem_sirisha_kadamalakalva_7330ba2",
+      "type": "person",
+      "name": "Sirisha Kadamalakalva",
+      "slug": "ecosystem-sirisha-kadamalakalva-7330ba2"
+    },
+    {
+      "id": "person_ecosystem_min_kyu_park_434720142",
+      "type": "person",
+      "name": "Min Park",
+      "slug": "ecosystem-min-kyu-park-434720142"
+    },
+    {
+      "id": "person_ecosystem_bryan_dow",
+      "type": "person",
+      "name": "Bryan Dow",
+      "slug": "ecosystem-bryan-dow"
+    },
+    {
+      "id": "person_ecosystem_aden_pavkov",
+      "type": "person",
+      "name": "Aden Pavkov",
+      "slug": "ecosystem-aden-pavkov"
+    },
+    {
+      "id": "person_ecosystem_eugeneshenkar",
+      "type": "person",
+      "name": "Eugene Shenkar",
+      "slug": "ecosystem-eugeneshenkar"
+    },
+    {
+      "id": "person_ecosystem_gassen_mosbahi",
+      "type": "person",
+      "name": "Gassen Mosbahi",
+      "slug": "ecosystem-gassen-mosbahi"
+    },
+    {
+      "id": "person_ecosystem_alana_mag_cfa_caia_a20b9a9",
+      "type": "person",
+      "name": "Alana Mag",
+      "slug": "ecosystem-alana-mag-cfa-caia-a20b9a9"
+    },
+    {
+      "id": "person_ecosystem_lucas_collins_952b698",
+      "type": "person",
+      "name": "Lucas Collins",
+      "slug": "ecosystem-lucas-collins-952b698"
+    },
+    {
+      "id": "person_ecosystem_allen_bouch_37636911",
+      "type": "person",
+      "name": "Allen Bouch",
+      "slug": "ecosystem-allen-bouch-37636911"
+    },
+    {
+      "id": "person_ecosystem_glennhmorgan",
+      "type": "person",
+      "name": "Glenn Morgan",
+      "slug": "ecosystem-glennhmorgan"
+    },
+    {
+      "id": "person_ecosystem_srineethamaddineni",
+      "type": "person",
+      "name": "Srineetha Maddineni",
+      "slug": "ecosystem-srineethamaddineni"
+    },
+    {
+      "id": "person_ecosystem_visivakumar",
+      "type": "person",
+      "name": "Vikram Sivakumar",
+      "slug": "ecosystem-visivakumar"
+    },
+    {
+      "id": "person_ecosystem_kamranpervezkhan",
+      "type": "person",
+      "name": "Kamran Khan",
+      "slug": "ecosystem-kamranpervezkhan"
+    },
+    {
+      "id": "person_ecosystem_derekengen",
+      "type": "person",
+      "name": "Derek Engen",
+      "slug": "ecosystem-derekengen"
+    },
+    {
+      "id": "person_ecosystem_fawzymanaa",
+      "type": "person",
+      "name": "Fawzy Manaa",
+      "slug": "ecosystem-fawzymanaa"
+    },
+    {
+      "id": "person_ecosystem_mattapple",
+      "type": "person",
+      "name": "Matt Apple",
+      "slug": "ecosystem-mattapple"
+    },
+    {
+      "id": "person_ecosystem_veeduvv",
+      "type": "person",
+      "name": "Unnamed professional at EY",
+      "slug": "ecosystem-veeduvv"
+    },
+    {
+      "id": "person_ecosystem_ajr11",
+      "type": "person",
+      "name": "Ajinkya Ratnaparkhi",
+      "slug": "ecosystem-ajr11"
+    },
+    {
+      "id": "person_ecosystem_ovanhorne",
+      "type": "person",
+      "name": "Osei Horne",
+      "slug": "ecosystem-ovanhorne"
+    },
+    {
+      "id": "person_ecosystem_charleskingcpa",
+      "type": "person",
+      "name": "Charles King",
+      "slug": "ecosystem-charleskingcpa"
+    },
+    {
+      "id": "person_ecosystem_joshuapotter",
+      "type": "person",
+      "name": "Joshua Potter",
+      "slug": "ecosystem-joshuapotter"
+    },
+    {
+      "id": "person_ecosystem_shivatummala",
+      "type": "person",
+      "name": "Shiva Tummala",
+      "slug": "ecosystem-shivatummala"
+    },
+    {
+      "id": "person_ecosystem_juleslwalker",
+      "type": "person",
+      "name": "Jules Walker",
+      "slug": "ecosystem-juleslwalker"
+    },
+    {
+      "id": "person_ecosystem_jodie_yan_9a198815",
+      "type": "person",
+      "name": "Jodie Yan",
+      "slug": "ecosystem-jodie-yan-9a198815"
+    },
+    {
+      "id": "person_ecosystem_roger_roberts_4b263",
+      "type": "person",
+      "name": "Roger Roberts",
+      "slug": "ecosystem-roger-roberts-4b263"
+    },
+    {
+      "id": "person_ecosystem_stacynjohnson",
+      "type": "person",
+      "name": "Stacy Robnett",
+      "slug": "ecosystem-stacynjohnson"
+    },
+    {
+      "id": "person_ecosystem_alex_kaufman_62a4b1299",
+      "type": "person",
+      "name": "Alex Skaufman",
+      "slug": "ecosystem-alex-kaufman-62a4b1299"
+    },
+    {
+      "id": "person_ecosystem_stanlewandowski",
+      "type": "person",
+      "name": "Stan Lewandowski",
+      "slug": "ecosystem-stanlewandowski"
+    },
+    {
+      "id": "person_ecosystem_amol_deshpande_ms_mba",
+      "type": "person",
+      "name": "Amol Deshpande",
+      "slug": "ecosystem-amol-deshpande-ms-mba"
+    },
+    {
+      "id": "person_ecosystem_suneet_dua",
+      "type": "person",
+      "name": "Suneet Dua",
+      "slug": "ecosystem-suneet-dua"
+    },
+    {
+      "id": "person_ecosystem_balaji_ganesan_9123741",
+      "type": "person",
+      "name": "Balaji Ganesan",
+      "slug": "ecosystem-balaji-ganesan-9123741"
+    },
+    {
+      "id": "person_ecosystem_jagritirajulu",
+      "type": "person",
+      "name": "Jagriti Rajulu",
+      "slug": "ecosystem-jagritirajulu"
+    },
+    {
+      "id": "person_ecosystem_rajeev_verma_a9258bb7",
+      "type": "person",
+      "name": "Rajiv Verma",
+      "slug": "ecosystem-rajeev-verma-a9258bb7"
+    },
+    {
+      "id": "person_ecosystem_ricardovalenciana",
+      "type": "person",
+      "name": "Ricardo Valenciana",
+      "slug": "ecosystem-ricardovalenciana"
+    },
+    {
+      "id": "person_ecosystem_pauldrews",
+      "type": "person",
+      "name": "Paul Drews",
+      "slug": "ecosystem-pauldrews"
+    },
+    {
+      "id": "person_ecosystem_jim_ryan_jr",
+      "type": "person",
+      "name": "Jim Ryan",
+      "slug": "ecosystem-jim-ryan-jr"
+    },
+    {
+      "id": "person_ecosystem_craigjohnsoncj",
+      "type": "person",
+      "name": "Craig Johnson",
+      "slug": "ecosystem-craigjohnsoncj"
+    },
+    {
+      "id": "person_ecosystem_nader_ktait",
+      "type": "person",
+      "name": "Nader Ktait",
+      "slug": "ecosystem-nader-ktait"
+    },
+    {
+      "id": "person_ecosystem_krishna_swamy_t_825604377",
+      "type": "person",
+      "name": "Krish Swamy",
+      "slug": "ecosystem-krishna-swamy-t-825604377"
+    },
+    {
+      "id": "person_ecosystem_markvanderstraaten",
+      "type": "person",
+      "name": "Mark Van Der Straaten",
+      "slug": "ecosystem-markvanderstraaten"
+    },
+    {
+      "id": "person_ecosystem_adamjosephgoldman",
+      "type": "person",
+      "name": "Adam Goldman",
+      "slug": "ecosystem-adamjosephgoldman"
+    },
+    {
+      "id": "person_ecosystem_jamestobyne",
+      "type": "person",
+      "name": "James Tobyne",
+      "slug": "ecosystem-jamestobyne"
+    },
+    {
+      "id": "person_ecosystem_shaneocasal",
+      "type": "person",
+      "name": "Shane Ocasal",
+      "slug": "ecosystem-shaneocasal"
+    },
+    {
+      "id": "person_ecosystem_don_young_3509b96",
+      "type": "person",
+      "name": "Don Young",
+      "slug": "ecosystem-don-young-3509b96"
+    },
+    {
+      "id": "person_ecosystem_austingispanski",
+      "type": "person",
+      "name": "Austin Gispanski",
+      "slug": "ecosystem-austingispanski"
+    },
+    {
+      "id": "person_ecosystem_iamjoevasquez",
+      "type": "person",
+      "name": "Joseph Vasquez",
+      "slug": "ecosystem-iamjoevasquez"
+    },
+    {
+      "id": "person_ecosystem_tony_padilla_14476669",
+      "type": "person",
+      "name": "Tony Padilla",
+      "slug": "ecosystem-tony-padilla-14476669"
+    },
+    {
+      "id": "person_ecosystem_victor_huang_6419254",
+      "type": "person",
+      "name": "Victor Huang",
+      "slug": "ecosystem-victor-huang-6419254"
+    },
+    {
+      "id": "person_ecosystem_patelamarj",
+      "type": "person",
+      "name": "Amar Patel",
+      "slug": "ecosystem-patelamarj"
+    },
+    {
+      "id": "person_ecosystem_chris_holly_2a1771227",
+      "type": "person",
+      "name": "Cholly",
+      "slug": "ecosystem-chris-holly-2a1771227"
+    },
+    {
+      "id": "person_ecosystem_taylorrobson",
+      "type": "person",
+      "name": "Taylor Robson",
+      "slug": "ecosystem-taylorrobson"
+    },
+    {
+      "id": "person_ecosystem_matt_axel",
+      "type": "person",
+      "name": "Matt Axel",
+      "slug": "ecosystem-matt-axel"
+    },
+    {
+      "id": "person_ecosystem_chris_ertel",
+      "type": "person",
+      "name": "Chris Ertel",
+      "slug": "ecosystem-chris-ertel"
+    },
+    {
+      "id": "person_ecosystem_hiroko_fukui",
+      "type": "person",
+      "name": "Hiroko Fukui",
+      "slug": "ecosystem-hiroko-fukui"
+    },
+    {
+      "id": "person_ecosystem_john_mccallum_992419106",
+      "type": "person",
+      "name": "John McCallum",
+      "slug": "ecosystem-john-mccallum-992419106"
+    },
+    {
+      "id": "person_ecosystem_mikistjohn",
+      "type": "person",
+      "name": "Miki StJohn",
+      "slug": "ecosystem-mikistjohn"
+    },
+    {
+      "id": "person_ecosystem_prateek_thawani",
+      "type": "person",
+      "name": "Prateek Thawani",
+      "slug": "ecosystem-prateek-thawani"
+    },
+    {
+      "id": "person_ecosystem_chris_thompson_664258a6",
+      "type": "person",
+      "name": "Chris Thompson",
+      "slug": "ecosystem-chris-thompson-664258a6"
+    },
+    {
+      "id": "person_ecosystem_andy_wiesenthal_4331aa9",
+      "type": "person",
+      "name": "Andy Wiesenthal",
+      "slug": "ecosystem-andy-wiesenthal-4331aa9"
+    },
+    {
+      "id": "person_ecosystem_brian_king_85885010",
+      "type": "person",
+      "name": "Brianking",
+      "slug": "ecosystem-brian-king-85885010"
+    },
+    {
+      "id": "person_ecosystem_rebeccacarvatt",
+      "type": "person",
+      "name": "Rebecca Carvatt",
+      "slug": "ecosystem-rebeccacarvatt"
+    },
+    {
+      "id": "person_ecosystem_aatmidesai",
+      "type": "person",
+      "name": "Aatmi Desai",
+      "slug": "ecosystem-aatmidesai"
+    },
+    {
+      "id": "person_ecosystem_alexeygoder",
+      "type": "person",
+      "name": "Alexey Goder",
+      "slug": "ecosystem-alexeygoder"
+    },
+    {
+      "id": "person_ecosystem_rehmannasir",
+      "type": "person",
+      "name": "Abdul Rehman",
+      "slug": "ecosystem-rehmannasir"
+    },
+    {
+      "id": "person_ecosystem_zaheed_kajani_41863518",
+      "type": "person",
+      "name": "Zaheed Kajani",
+      "slug": "ecosystem-zaheed-kajani-41863518"
+    },
+    {
+      "id": "person_ecosystem_erik_min",
+      "type": "person",
+      "name": "Erik Min",
+      "slug": "ecosystem-erik-min"
+    },
+    {
+      "id": "person_ecosystem_padmapriya26",
+      "type": "person",
+      "name": "Priya Nagineni",
+      "slug": "ecosystem-padmapriya26"
+    },
+    {
+      "id": "person_ecosystem_will_black_startup_venture_capital_lawyer",
+      "type": "person",
+      "name": "Will Black",
+      "slug": "ecosystem-will-black-startup-venture-capital-lawyer"
+    },
+    {
+      "id": "person_ecosystem_andrew_albertson_9b47563b",
+      "type": "person",
+      "name": "Aalbertson",
+      "slug": "ecosystem-andrew-albertson-9b47563b"
+    },
+    {
+      "id": "person_ecosystem_natashahansonallen",
+      "type": "person",
+      "name": "Natasha Allen",
+      "slug": "ecosystem-natashahansonallen"
+    },
+    {
+      "id": "person_ecosystem_dane_patterson_6a159010",
+      "type": "person",
+      "name": "Dane Patterson",
+      "slug": "ecosystem-dane-patterson-6a159010"
+    },
+    {
+      "id": "person_ecosystem_jordanncoleman",
+      "type": "person",
+      "name": "Jordann Coleman",
+      "slug": "ecosystem-jordanncoleman"
+    },
+    {
+      "id": "person_ecosystem_debracosta",
+      "type": "person",
+      "name": "Debra Costa",
+      "slug": "ecosystem-debracosta"
+    },
+    {
+      "id": "person_ecosystem_kerry_dantzig_8a45135",
+      "type": "person",
+      "name": "Kerry Dantzig",
+      "slug": "ecosystem-kerry-dantzig-8a45135"
+    },
+    {
+      "id": "person_ecosystem_briandantzig",
+      "type": "person",
+      "name": "Brian Dantzig",
+      "slug": "ecosystem-briandantzig"
+    },
+    {
+      "id": "person_ecosystem_marc_paletta_875930108",
+      "type": "person",
+      "name": "Marc Paletta",
+      "slug": "ecosystem-marc-paletta-875930108"
+    },
+    {
+      "id": "person_ecosystem_donnellyjackie",
+      "type": "person",
+      "name": "Jackie Pitchford",
+      "slug": "ecosystem-donnellyjackie"
+    },
+    {
+      "id": "person_ecosystem_joseph_talmadge",
+      "type": "person",
+      "name": "Joseph Talmadge",
+      "slug": "ecosystem-joseph-talmadge"
+    },
+    {
+      "id": "person_ecosystem_johnvipiana",
+      "type": "person",
+      "name": "John Vipiana",
+      "slug": "ecosystem-johnvipiana"
+    },
+    {
+      "id": "person_ecosystem_brant_watson_725a452b3",
+      "type": "person",
+      "name": "Brant Watson",
+      "slug": "ecosystem-brant-watson-725a452b3"
+    },
+    {
+      "id": "person_ecosystem_justinandrew",
+      "type": "person",
+      "name": "Justin Williams",
+      "slug": "ecosystem-justinandrew"
+    },
+    {
+      "id": "person_ecosystem_john_cooper",
+      "type": "person",
+      "name": "John Cooper",
+      "slug": "ecosystem-john-cooper"
+    },
+    {
+      "id": "person_ecosystem_alexa_benavides_702a887",
+      "type": "person",
+      "name": "Alexa Benavides",
+      "slug": "ecosystem-alexa-benavides-702a887"
+    },
+    {
+      "id": "person_ecosystem_marioisaac",
+      "type": "person",
+      "name": "Mario Isaac",
+      "slug": "ecosystem-marioisaac"
+    },
+    {
+      "id": "person_ecosystem_peggymangot",
+      "type": "person",
+      "name": "Peggy Mangot",
+      "slug": "ecosystem-peggymangot"
+    },
+    {
+      "id": "person_ecosystem_luke_sikora_742a9b9",
+      "type": "person",
+      "name": "Luke Sikora",
+      "slug": "ecosystem-luke-sikora-742a9b9"
+    },
+    {
+      "id": "person_ecosystem_alexrob22",
+      "type": "person",
+      "name": "Alex Robinson",
+      "slug": "ecosystem-alexrob22"
+    },
+    {
+      "id": "person_ecosystem_brandonsedloff",
+      "type": "person",
+      "name": "Brandon Sedloff",
+      "slug": "ecosystem-brandonsedloff"
+    },
+    {
+      "id": "person_ecosystem_jacqueline",
+      "type": "person",
+      "name": "Jacqueline",
+      "slug": "ecosystem-jacqueline"
+    },
+    {
+      "id": "person_ecosystem_gracelchew",
+      "type": "person",
+      "name": "Grace Chew",
+      "slug": "ecosystem-gracelchew"
+    },
+    {
+      "id": "person_ecosystem_melissalynnking",
+      "type": "person",
+      "name": "Melissa King",
+      "slug": "ecosystem-melissalynnking"
+    },
+    {
+      "id": "person_ecosystem_john_gnuse",
+      "type": "person",
+      "name": "John Gnuse",
+      "slug": "ecosystem-john-gnuse"
+    },
+    {
+      "id": "person_ecosystem_templejulian",
+      "type": "person",
+      "name": "Julian Temple",
+      "slug": "ecosystem-templejulian"
+    },
+    {
+      "id": "person_ecosystem_angie_finelli_regan_62a160b",
+      "type": "person",
+      "name": "Angie Regan",
+      "slug": "ecosystem-angie-finelli-regan-62a160b"
+    },
+    {
+      "id": "person_ecosystem_barbara_andrzejewska_482838bb",
+      "type": "person",
+      "name": "Basia Andrzejewska",
+      "slug": "ecosystem-barbara-andrzejewska-482838bb"
+    },
+    {
+      "id": "person_ecosystem_sagayamarypriti",
+      "type": "person",
+      "name": "Priti Joseph",
+      "slug": "ecosystem-sagayamarypriti"
+    },
+    {
+      "id": "person_ecosystem_acwaaaeajwsbfbmyndvb7q1yvcyae3mftd88qdm",
+      "type": "person",
+      "name": "Gautam Lunawat",
+      "slug": "ecosystem-acwaaaeajwsbfbmyndvb7q1yvcyae3mftd88qdm"
+    },
+    {
+      "id": "person_ecosystem_eufern_pan",
+      "type": "person",
+      "name": "Eufern Pan",
+      "slug": "ecosystem-eufern-pan"
+    },
+    {
+      "id": "person_ecosystem_tanya_rodchenko",
+      "type": "person",
+      "name": "Tanya Rodchenko",
+      "slug": "ecosystem-tanya-rodchenko"
+    },
+    {
+      "id": "person_ecosystem_asuryanarayanan",
+      "type": "person",
+      "name": "Anupama Suryanarayanan",
+      "slug": "ecosystem-asuryanarayanan"
+    },
+    {
+      "id": "person_ecosystem_anthony_armstrong",
+      "type": "person",
+      "name": "Anthony Armstrong",
+      "slug": "ecosystem-anthony-armstrong"
+    },
+    {
+      "id": "person_ecosystem_johnlopez3",
+      "type": "person",
+      "name": "John Lopez",
+      "slug": "ecosystem-johnlopez3"
+    },
+    {
+      "id": "person_ecosystem_ashwin_pai",
+      "type": "person",
+      "name": "Ashwin Pai",
+      "slug": "ecosystem-ashwin-pai"
+    },
+    {
+      "id": "person_ecosystem_brigitte_herschensohn_66625412",
+      "type": "person",
+      "name": "Brigitte Herschensohn",
+      "slug": "ecosystem-brigitte-herschensohn-66625412"
+    },
+    {
+      "id": "person_ecosystem_victorsliang",
+      "type": "person",
+      "name": "Vliang",
+      "slug": "ecosystem-victorsliang"
+    },
+    {
+      "id": "person_ecosystem_george_pothoulakis_aab90263",
+      "type": "person",
+      "name": "George Pothoulakis",
+      "slug": "ecosystem-george-pothoulakis-aab90263"
+    },
+    {
+      "id": "person_ecosystem_sasha_jones",
+      "type": "person",
+      "name": "Sasha Jones",
+      "slug": "ecosystem-sasha-jones"
+    },
+    {
+      "id": "person_ecosystem_james_ulan_b8a08b5",
+      "type": "person",
+      "name": "James Ulan",
+      "slug": "ecosystem-james-ulan-b8a08b5"
+    },
+    {
+      "id": "person_ecosystem_ilan_weitzman",
+      "type": "person",
+      "name": "Ilan Weitzman",
+      "slug": "ecosystem-ilan-weitzman"
+    },
+    {
+      "id": "person_ecosystem_meera_banerjee",
+      "type": "person",
+      "name": "Meera Banerjee",
+      "slug": "ecosystem-meera-banerjee"
+    },
+    {
+      "id": "person_ecosystem_david_basten_67a53189",
+      "type": "person",
+      "name": "David Basten",
+      "slug": "ecosystem-david-basten-67a53189"
+    },
+    {
+      "id": "person_ecosystem_joebimmerle",
+      "type": "person",
+      "name": "Joe Bimmerle",
+      "slug": "ecosystem-joebimmerle"
+    },
+    {
+      "id": "person_ecosystem_mariapaokhuthbolin",
+      "type": "person",
+      "name": "Maria Bolin",
+      "slug": "ecosystem-mariapaokhuthbolin"
+    },
+    {
+      "id": "person_ecosystem_lacy_bruce",
+      "type": "person",
+      "name": "Lacy Bruce",
+      "slug": "ecosystem-lacy-bruce"
+    },
+    {
+      "id": "person_ecosystem_carey_carpenter_625160a",
+      "type": "person",
+      "name": "Carey Carpenter",
+      "slug": "ecosystem-carey-carpenter-625160a"
+    },
+    {
+      "id": "person_ecosystem_sakina_ibrahimova_49939815",
+      "type": "person",
+      "name": "Sakina Ibrahimova",
+      "slug": "ecosystem-sakina-ibrahimova-49939815"
+    },
+    {
+      "id": "person_ecosystem_deepaaiyer",
+      "type": "person",
+      "name": "Deepa Iyer",
+      "slug": "ecosystem-deepaaiyer"
+    },
+    {
+      "id": "person_ecosystem_jaelyn_kwan",
+      "type": "person",
+      "name": "Jaelyn Kwan",
+      "slug": "ecosystem-jaelyn-kwan"
+    },
+    {
+      "id": "person_ecosystem_zacharyleahan",
+      "type": "person",
+      "name": "Zach Leahan",
+      "slug": "ecosystem-zacharyleahan"
+    },
+    {
+      "id": "person_ecosystem_dorothy_lo_8631537",
+      "type": "person",
+      "name": "Dorothy Lo",
+      "slug": "ecosystem-dorothy-lo-8631537"
+    },
+    {
+      "id": "person_ecosystem_julie_mcdaniel",
+      "type": "person",
+      "name": "Julie McDaniel",
+      "slug": "ecosystem-julie-mcdaniel"
+    },
+    {
+      "id": "person_ecosystem_amanda_mcintyre",
+      "type": "person",
+      "name": "Amanda McIntyre",
+      "slug": "ecosystem-amanda-mcintyre"
+    },
+    {
+      "id": "person_ecosystem_iris_mejias",
+      "type": "person",
+      "name": "Iris Mejias",
+      "slug": "ecosystem-iris-mejias"
+    },
+    {
+      "id": "person_ecosystem_lou_michetti",
+      "type": "person",
+      "name": "Lou Michetti",
+      "slug": "ecosystem-lou-michetti"
+    },
+    {
+      "id": "person_ecosystem_danny_orsburn_43262426",
+      "type": "person",
+      "name": "Danny Orsburn",
+      "slug": "ecosystem-danny-orsburn-43262426"
+    },
+    {
+      "id": "person_ecosystem_meghan_smith",
+      "type": "person",
+      "name": "Meghan Smith",
+      "slug": "ecosystem-meghan-smith"
+    },
+    {
+      "id": "person_ecosystem_jerry_smythe",
+      "type": "person",
+      "name": "Jerry Smythe",
+      "slug": "ecosystem-jerry-smythe"
+    },
+    {
+      "id": "person_ecosystem_daniel_sorensen",
+      "type": "person",
+      "name": "Daniel Sorensen",
+      "slug": "ecosystem-daniel-sorensen"
+    },
+    {
+      "id": "person_ecosystem_eric_stein_a31467b",
+      "type": "person",
+      "name": "Eric Stein",
+      "slug": "ecosystem-eric-stein-a31467b"
+    },
+    {
+      "id": "person_ecosystem_kimberly_su_a400b1a3",
+      "type": "person",
+      "name": "Kimberly Su",
+      "slug": "ecosystem-kimberly-su-a400b1a3"
+    },
+    {
+      "id": "person_ecosystem_alenataylor",
+      "type": "person",
+      "name": "Alena Taylor",
+      "slug": "ecosystem-alenataylor"
+    },
+    {
+      "id": "person_ecosystem_kevin_trifilo_63435773",
+      "type": "person",
+      "name": "Kevin Trifilo",
+      "slug": "ecosystem-kevin-trifilo-63435773"
+    },
+    {
+      "id": "person_ecosystem_christina_bui_0922184",
+      "type": "person",
+      "name": "Christina Bui",
+      "slug": "ecosystem-christina-bui-0922184"
+    },
+    {
+      "id": "person_ecosystem_mperella2010",
+      "type": "person",
+      "name": "Michelle Perella",
+      "slug": "ecosystem-mperella2010"
+    },
+    {
+      "id": "person_ecosystem_amytupy",
+      "type": "person",
+      "name": "Amy Tupy",
+      "slug": "ecosystem-amytupy"
+    },
+    {
+      "id": "person_ecosystem_domitillacaputo",
+      "type": "person",
+      "name": "Domitilla Caputo",
+      "slug": "ecosystem-domitillacaputo"
+    },
+    {
+      "id": "person_ecosystem_kadlparvar",
+      "type": "person",
+      "name": "Kourosh Adlparvar",
+      "slug": "ecosystem-kadlparvar"
+    },
+    {
+      "id": "person_ecosystem_verashokina",
+      "type": "person",
+      "name": "Vera Shokina",
+      "slug": "ecosystem-verashokina"
+    },
+    {
+      "id": "person_ecosystem_kevin_scott_03b17",
+      "type": "person",
+      "name": "Kscott",
+      "slug": "ecosystem-kevin-scott-03b17"
+    },
+    {
+      "id": "person_ecosystem_alanakaselitz",
+      "type": "person",
+      "name": "Alana Kaselitz",
+      "slug": "ecosystem-alanakaselitz"
+    },
+    {
+      "id": "person_ecosystem_daniel_elefant_b520b34b",
+      "type": "person",
+      "name": "Delefant",
+      "slug": "ecosystem-daniel-elefant-b520b34b"
+    },
+    {
+      "id": "person_ecosystem_david_jasper_2925362",
+      "type": "person",
+      "name": "David Jasper",
+      "slug": "ecosystem-david-jasper-2925362"
+    },
+    {
+      "id": "person_ecosystem_tabrishami",
+      "type": "person",
+      "name": "Tiffany Abrishami",
+      "slug": "ecosystem-tabrishami"
+    },
+    {
+      "id": "person_ecosystem_basildarwish",
+      "type": "person",
+      "name": "Basil Darwish",
+      "slug": "ecosystem-basildarwish"
+    },
+    {
+      "id": "person_ecosystem_joseph_f_nelson_3641014",
+      "type": "person",
+      "name": "Joseph Nelson",
+      "slug": "ecosystem-joseph-f-nelson-3641014"
+    },
+    {
+      "id": "person_ecosystem_cthomasrichardson",
+      "type": "person",
+      "name": "Cthomas Richardson",
+      "slug": "ecosystem-cthomasrichardson"
+    },
+    {
+      "id": "person_ecosystem_erica_seeley10",
+      "type": "person",
+      "name": "Erica Seeley",
+      "slug": "ecosystem-erica-seeley10"
+    },
+    {
+      "id": "person_ecosystem_andrealeelinna",
+      "type": "person",
+      "name": "Andrea Linna",
+      "slug": "ecosystem-andrealeelinna"
+    },
+    {
       "id": "provider_baird",
       "type": "provider",
       "name": "Baird",

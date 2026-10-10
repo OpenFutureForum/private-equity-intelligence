@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.3.1 (2026-10-10)
+
+- Processed all 168 rows in a supplied PE ecosystem list and merged one duplicate into 167 unique professional profiles.
+- Added a dedicated `ecosystem_directory` scope with supplied organization, title, tier and professional profile link fields.
+- Excluded all personal contact addresses from the canonical data, public downloads and profile pages.
+- Labeled every imported ecosystem record as user supplied and not independently verified.
+- Kept ecosystem entries separate from U.S. atlas location evidence and transaction attribution.
+
 ## 0.3.0 (2026-10-10)
 
 - Expanded the index to exactly 500 professional profiles and 100 private-equity investment records.

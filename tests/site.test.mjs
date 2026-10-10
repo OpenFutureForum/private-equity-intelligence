@@ -36,16 +36,25 @@ test('atlas uses geographic map geometry and labels coverage counts', async () =
   assert.match(html, /18 unique firm records create 25 market associations/);
 });
 
-test('release pages expose the 500-person and 100-deal targets', async () => {
+test('release pages expose the expanded people directory and 100-deal target', async () => {
   const [home, deals, people] = await Promise.all([
     readFile(file('index.html'), 'utf8'),
     readFile(file('deals/index.html'), 'utf8'),
     readFile(file('people/index.html'), 'utf8')
   ]);
   assert.match(home, /<strong>100<\/strong><span>transactions<\/span>/);
-  assert.match(home, /<strong>500<\/strong><span>professional profiles<\/span>/);
+  assert.match(home, /<strong>667<\/strong><span>professional profiles<\/span>/);
   assert.match(deals, /86 official portfolio records/);
   assert.match(people, /<strong>476<\/strong><span>U\.S\. atlas<\/span>/);
+  assert.match(people, /<strong>167<\/strong><span>PE ecosystem<\/span>/);
+  assert.match(people, /user-supplied list/);
+});
+
+test('generated site does not publish address-like contact strings', async () => {
+  const peopleJson = await readFile(file('data/people.json'), 'utf8');
+  const peopleCsv = await readFile(file('data/people.csv'), 'utf8');
+  assert.doesNotMatch(`${peopleJson}\n${peopleCsv}`, /[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}/i);
+  assert.doesNotMatch(peopleCsv.split('\n')[0], /email/i);
 });
 
 test('generated copy contains no em dashes or en dashes', async () => {

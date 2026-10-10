@@ -10,14 +10,25 @@ const load = async (name, folder = 'data') => folder === 'data'
 test('National Edition has meaningful depth', async () => {
   const [deals, people, providers, sources, markets] = await Promise.all([load('deals'), load('people'), load('providers'), load('sources'), load('markets')]);
   assert.equal(deals.length, 100);
-  assert.equal(people.length, 500);
+  assert.equal(people.length, 667);
   assert.ok(providers.length >= 31);
   assert.ok(sources.length >= 80);
   assert.equal(markets.length, 10);
   assert.equal(people.filter((person) => person.profile_scope.includes('us_atlas')).length, 476);
+  assert.equal(people.filter((person) => person.profile_scope.includes('ecosystem_directory')).length, 167);
   assert.equal(markets.every((market) => people.some((person) => person.market_id === market.id)), true);
   assert.ok(deals.reduce((n, d) => n + d.provider_roles.length, 0) >= 35);
   assert.ok(deals.reduce((n, d) => n + d.people_roles.length, 0) >= 20);
+});
+
+test('user-supplied ecosystem profiles preserve their evidence boundary', async () => {
+  const people = await load('people');
+  const ecosystemPeople = people.filter((person) => person.profile_scope.includes('ecosystem_directory'));
+  assert.equal(ecosystemPeople.length, 167);
+  assert.equal(ecosystemPeople.every((person) => person.organization && person.current_title), true);
+  assert.equal(ecosystemPeople.every((person) => person.verification_status === 'user_supplied_unverified'), true);
+  assert.equal(ecosystemPeople.every((person) => !person.market_id && !person.location), true);
+  assert.equal(ecosystemPeople.filter((person) => person.professional_profile_url).length, 145);
 });
 
 test('atlas counts reconcile to its market records', async () => {
@@ -61,7 +72,7 @@ test('Open Future Forum remains illustrative and has no transaction', async () =
 
 test('generated graph preserves source IDs on every edge', async () => {
   const graph = await load('knowledge-graph', 'docs/data');
-  assert.ok(graph.nodes.length >= 740);
+  assert.ok(graph.nodes.length >= 907);
   assert.ok(graph.edges.length >= 775);
   assert.equal(graph.edges.every((edge) => Array.isArray(edge.source_ids) && edge.source_ids.length > 0), true);
 });

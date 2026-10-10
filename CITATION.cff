@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this project, please cite it using this metadata."
 title: "Private Equity Intelligence Index"
-version: 0.3.0
+version: 0.3.1
 date-released: 2026-10-10
 type: dataset
 authors:

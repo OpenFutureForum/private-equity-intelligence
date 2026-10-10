@@ -6,7 +6,7 @@ The Private Equity Intelligence Index maps public, professionally relevant evide
 
 ## Current scope
 
-The National Edition combines a transaction cohort and a ten-market United States atlas of current private-equity professionals and firms. Open Future Forum is discussed only as an illustrative business archetype. Its inclusion does not imply that it is for sale, seeking investment or involved in a transaction.
+The National Edition combines a transaction cohort, a ten-market United States atlas of current private-equity professionals and firms, and a user-supplied PE ecosystem directory. Open Future Forum is discussed only as an illustrative business archetype. Its inclusion does not imply that it is for sale, seeking investment or involved in a transaction.
 
 The transaction cohort has two evidence levels. `transaction_announcement` records use official announcements or regulatory documents. `official_portfolio_record` entries use an investor's official portfolio directory and establish only the investor, company, investment year and published classification. A portfolio record does not establish an announcement date, seller, price, adviser or individual deal-team member.
 
@@ -42,6 +42,10 @@ Only the first three are displayed as confirmed transaction participation. Worki
 A person enters the U.S. atlas only when a source supports an explicit location, an official office-directory match, or a record clearly labeled `firm_office_association`. The latter means the firm has a verified office in the market and the person has a verified current role, but the source does not establish that the person personally works from that office.
 
 The current market layer covers the San Francisco Bay Area, Los Angeles, Austin, Fort Worth, Chicago, Cleveland, Charlotte, Washington, New York and Boston. These are selected research markets, not a census of U.S. private equity. Missing people, firms and cities have not been verified.
+
+## User-supplied PE ecosystem directory
+
+The `ecosystem_directory` scope preserves the submitted professional name, organization, title, tier and professional profile link. Every entry is labeled `user_supplied_unverified`. The submitted list is not used to infer location, current employment, deal participation or endorsement. One duplicate among 168 submitted rows is merged, leaving 167 unique profiles. Personal contact addresses are not retained in the published data.
 
 ## Relationship-economy framework
 

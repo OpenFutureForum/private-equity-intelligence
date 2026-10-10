@@ -3,7 +3,7 @@
 Open-source intelligence on private-equity firms, dealmakers, transactions, portfolio operations, and the advisers and service providers supporting the private-capital ecosystem.
 
 **Publisher:** Open Future Forum  
-**Current release:** 0.3.0 National Edition
+**Current release:** 0.3.1 National Edition
 **Canonical website:** https://openfutureforum.github.io/private-equity-intelligence/
 
 ## What this project connects
@@ -19,7 +19,9 @@ The project is a public-source knowledge graph linking:
 
 The National Edition covers selected markets and transactions. Every person, market relationship and transaction attribution retains an explicit source trail.
 
-The current dataset contains 500 professional profiles and 100 private-equity investment records. Of the people records, 476 are current U.S. atlas profiles across 10 markets and 24 are separately labeled historical transaction participants.
+The current dataset contains 667 professional profiles and 100 private-equity investment records. Of the people records, 476 are current U.S. atlas profiles across 10 markets, 24 are separately labeled historical transaction participants and 167 are in a user-supplied PE ecosystem directory.
+
+The ecosystem directory accounts for all 168 submitted rows. One duplicate row was merged, producing 167 unique profiles. These entries preserve the supplied name, organization, title, tier and professional profile link. They are labeled as user supplied and have not been independently verified. No personal contact addresses are published.
 
 Atlas figures report records in this release, not the estimated size of a market. The 476 atlas records comprise 47 explicit person-location biographies, 403 official office-directory matches and 26 clearly labeled firm-office associations. A firm can appear in more than one market.
 
@@ -30,7 +32,7 @@ The 100 investment records use two evidence levels. Fourteen records are based o
 1. **Relationship Economy:** companies where trusted access, professional communities and in-person interaction contribute to value.
 2. **Deal Teams:** disclosed buyers, sellers, investors, advisers, lenders and named transaction professionals.
 3. **United States PE Atlas:** professionals and firms across the San Francisco Bay Area, Los Angeles, Austin, Fort Worth, Chicago, Cleveland, Charlotte, Washington, New York and Boston.
-4. **PE Services Ecosystem:** firms publicly documented on private-equity transactions.
+4. **PE Services Ecosystem:** firms publicly documented on transactions plus a clearly labeled directory of professionals who sell to or support private equity.
 
 ## Architecture
 
