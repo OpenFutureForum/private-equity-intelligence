@@ -16,7 +16,8 @@ test('deep research program contains exactly 50 records and preserves the thresh
   assert.equal(program.completion_threshold, 75);
   assert.equal(program.records.length, 50);
   assert.equal(new Set(program.records.map((record) => record.deal_id)).size, 50);
-  assert.ok(program.records.every((record) => ['complete','developing','selected_backlog'].includes(record.status)));
+  assert.ok(program.records.every((record) => record.status === 'complete'));
+  assert.ok(program.records.every((record) => record.score >= program.completion_threshold));
 });
 
 test('home page exposes core research lanes and metadata', async () => {

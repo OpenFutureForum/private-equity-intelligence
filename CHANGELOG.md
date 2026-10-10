@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.6.0 - 2026-10-10
+
+- Completed the first 50-record research cohort at the published 75-point threshold.
+- Replaced the single disclosure-heavy score with a record-type-aware completeness model.
+- Added a full cohort table with explicit public-disclosure gaps for every record.
+- Documented the completeness rubric and strengthened automated threshold checks.
+
 ## 0.5.1 (2026-10-10)
 
 - Established an explicit 50-record deep-research program without lowering the completion threshold.
