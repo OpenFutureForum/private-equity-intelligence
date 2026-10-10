@@ -34,6 +34,12 @@
     "seller_names": [],
     "enterprise_value": null,
     "investment_thesis": "Extended ownership of an executive-network platform to support further product, membership and acquisition-led growth.",
+    "research_insights": [
+      {"label":"Continuation structure","value":"MSCP sold World 50 into a single-asset GP-led continuation vehicle that remained under an MSCP affiliate, offering liquidity while extending sponsor ownership.","source_ids":["src_world50_continuation_2024"]},
+      {"label":"Investor group","value":"Pantheon led the continuation fund, with Blue Owl Strategic Equity and Lexington as co-leads and commitments from Norwest, Ares Management funds, AltamarCAM and Churchill.","source_ids":["src_world50_continuation_2024"]},
+      {"label":"Network scale","value":"World 50 said its member organizations represented more than $34 trillion of market capitalization and over 37 million employees across six continents.","source_ids":["src_world50_continuation_2024"]},
+      {"label":"Value-creation thesis","value":"MSCP described product and service expansion, continuous improvement of the member experience, organic growth and acquisitions as the main levers for the next ownership period.","source_ids":["src_world50_continuation_2024"]}
+    ],
     "provider_roles": [
       {"provider_id":"provider_baird","role":"lead transaction adviser","side":"company_and_sponsor","source_id":"src_world50_continuation_2024"},
       {"provider_id":"provider_harris_williams","role":"industry adviser","side":"company_and_sponsor","source_id":"src_world50_continuation_2024"},

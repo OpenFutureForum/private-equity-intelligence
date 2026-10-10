@@ -1,0 +1,307 @@
+{
+  "target": 50,
+  "completion_threshold": 75,
+  "selection_method": "All transaction-announcement records, followed by official portfolio records prioritized for software, data, information, professional services, healthcare services and recurring customer relationships.",
+  "records": [
+    {
+      "deal_id": "deal_world50_mscp_2020",
+      "company_id": "company_world50",
+      "score": 30,
+      "status": "selected_backlog"
+    },
+    {
+      "deal_id": "deal_world50_continuation_2024",
+      "company_id": "company_world50",
+      "score": 88,
+      "status": "complete"
+    },
+    {
+      "deal_id": "deal_hyve_2023",
+      "company_id": "company_hyve",
+      "score": 100,
+      "status": "complete"
+    },
+    {
+      "deal_id": "deal_hyve_hf_2026",
+      "company_id": "company_hyve",
+      "score": 80,
+      "status": "complete"
+    },
+    {
+      "deal_id": "deal_closerstill_2018",
+      "company_id": "company_closerstill",
+      "score": 60,
+      "status": "developing"
+    },
+    {
+      "deal_id": "deal_closerstill_2026",
+      "company_id": "company_closerstill",
+      "score": 52,
+      "status": "developing"
+    },
+    {
+      "deal_id": "deal_clarion_2017",
+      "company_id": "company_clarion",
+      "score": 42,
+      "status": "selected_backlog"
+    },
+    {
+      "deal_id": "deal_tarsus_2019",
+      "company_id": "company_tarsus",
+      "score": 84,
+      "status": "complete"
+    },
+    {
+      "deal_id": "deal_tarsus_2023",
+      "company_id": "company_tarsus",
+      "score": 84,
+      "status": "complete"
+    },
+    {
+      "deal_id": "deal_pei_2018",
+      "company_id": "company_pei",
+      "score": 54,
+      "status": "developing"
+    },
+    {
+      "deal_id": "deal_pei_2023",
+      "company_id": "company_pei",
+      "score": 52,
+      "status": "developing"
+    },
+    {
+      "deal_id": "deal_emerald_2013",
+      "company_id": "company_emerald",
+      "score": 68,
+      "status": "developing"
+    },
+    {
+      "deal_id": "deal_emerald_apollo_2026",
+      "company_id": "company_emerald",
+      "score": 88,
+      "status": "complete"
+    },
+    {
+      "deal_id": "deal_questex_apollo_2026",
+      "company_id": "company_questex",
+      "score": 76,
+      "status": "complete"
+    },
+    {
+      "deal_id": "deal_kkr_xoi_2025",
+      "company_id": "company_kkr_xoi",
+      "score": 15,
+      "status": "selected_backlog"
+    },
+    {
+      "deal_id": "deal_kkr_agiloft_2024",
+      "company_id": "company_kkr_agiloft",
+      "score": 15,
+      "status": "selected_backlog"
+    },
+    {
+      "deal_id": "deal_kkr_qventus_inc_2024",
+      "company_id": "company_kkr_qventus_inc",
+      "score": 15,
+      "status": "selected_backlog"
+    },
+    {
+      "deal_id": "deal_kkr_ness_digital_2022",
+      "company_id": "company_kkr_ness_digital",
+      "score": 15,
+      "status": "selected_backlog"
+    },
+    {
+      "deal_id": "deal_kkr_internet_brands_2014",
+      "company_id": "company_kkr_internet_brands",
+      "score": 15,
+      "status": "selected_backlog"
+    },
+    {
+      "deal_id": "deal_kkr_groundworks_2023",
+      "company_id": "company_kkr_groundworks",
+      "score": 15,
+      "status": "selected_backlog"
+    },
+    {
+      "deal_id": "deal_kkr_barracuda_networks_2022",
+      "company_id": "company_kkr_barracuda_networks",
+      "score": 15,
+      "status": "selected_backlog"
+    },
+    {
+      "deal_id": "deal_kkr_playon_sports_2022",
+      "company_id": "company_kkr_playon_sports",
+      "score": 15,
+      "status": "selected_backlog"
+    },
+    {
+      "deal_id": "deal_kkr_argenta_2021",
+      "company_id": "company_kkr_argenta",
+      "score": 15,
+      "status": "selected_backlog"
+    },
+    {
+      "deal_id": "deal_kkr_cloudera_2021",
+      "company_id": "company_kkr_cloudera",
+      "score": 15,
+      "status": "selected_backlog"
+    },
+    {
+      "deal_id": "deal_kkr_ensora_health_2021",
+      "company_id": "company_kkr_ensora_health",
+      "score": 15,
+      "status": "selected_backlog"
+    },
+    {
+      "deal_id": "deal_kkr_geode_health_2021",
+      "company_id": "company_kkr_geode_health",
+      "score": 15,
+      "status": "selected_backlog"
+    },
+    {
+      "deal_id": "deal_kkr_netspi_2021",
+      "company_id": "company_kkr_netspi",
+      "score": 15,
+      "status": "selected_backlog"
+    },
+    {
+      "deal_id": "deal_kkr_knowbe4_2019",
+      "company_id": "company_kkr_knowbe4",
+      "score": 15,
+      "status": "selected_backlog"
+    },
+    {
+      "deal_id": "deal_kkr_bmc_2018",
+      "company_id": "company_kkr_bmc",
+      "score": 15,
+      "status": "selected_backlog"
+    },
+    {
+      "deal_id": "deal_kkr_overdrive_2018",
+      "company_id": "company_kkr_overdrive",
+      "score": 15,
+      "status": "selected_backlog"
+    },
+    {
+      "deal_id": "deal_kkr_blue_sprig_2017",
+      "company_id": "company_kkr_blue_sprig",
+      "score": 15,
+      "status": "selected_backlog"
+    },
+    {
+      "deal_id": "deal_kkr_brightspring_health_services_2017",
+      "company_id": "company_kkr_brightspring_health_services",
+      "score": 15,
+      "status": "selected_backlog"
+    },
+    {
+      "deal_id": "deal_kkr_coder_technologies_2026",
+      "company_id": "company_kkr_coder_technologies",
+      "score": 15,
+      "status": "selected_backlog"
+    },
+    {
+      "deal_id": "deal_kkr_saviynt_2026",
+      "company_id": "company_kkr_saviynt",
+      "score": 15,
+      "status": "selected_backlog"
+    },
+    {
+      "deal_id": "deal_kkr_ghsmart_2025",
+      "company_id": "company_kkr_ghsmart",
+      "score": 15,
+      "status": "selected_backlog"
+    },
+    {
+      "deal_id": "deal_kkr_reliaquest_llc_2025",
+      "company_id": "company_kkr_reliaquest_llc",
+      "score": 15,
+      "status": "selected_backlog"
+    },
+    {
+      "deal_id": "deal_kkr_janney_montgomery_scott_2024",
+      "company_id": "company_kkr_janney_montgomery_scott",
+      "score": 15,
+      "status": "selected_backlog"
+    },
+    {
+      "deal_id": "deal_kkr_nasuni_2024",
+      "company_id": "company_kkr_nasuni",
+      "score": 15,
+      "status": "selected_backlog"
+    },
+    {
+      "deal_id": "deal_kkr_restaurant365_2023",
+      "company_id": "company_kkr_restaurant365",
+      "score": 15,
+      "status": "selected_backlog"
+    },
+    {
+      "deal_id": "deal_kkr_alchemer_2022",
+      "company_id": "company_kkr_alchemer",
+      "score": 15,
+      "status": "selected_backlog"
+    },
+    {
+      "deal_id": "deal_kkr_apex_analytix_2022",
+      "company_id": "company_kkr_apex_analytix",
+      "score": 15,
+      "status": "selected_backlog"
+    },
+    {
+      "deal_id": "deal_kkr_brightline_inc_2022",
+      "company_id": "company_kkr_brightline_inc",
+      "score": 15,
+      "status": "selected_backlog"
+    },
+    {
+      "deal_id": "deal_kkr_semperis_2022",
+      "company_id": "company_kkr_semperis",
+      "score": 15,
+      "status": "selected_backlog"
+    },
+    {
+      "deal_id": "deal_kkr_rainfocus_2021",
+      "company_id": "company_kkr_rainfocus",
+      "score": 15,
+      "status": "selected_backlog"
+    },
+    {
+      "deal_id": "deal_kkr_clarify_health_solutions_2018",
+      "company_id": "company_kkr_clarify_health_solutions",
+      "score": 15,
+      "status": "selected_backlog"
+    },
+    {
+      "deal_id": "deal_kkr_epic_games_2018",
+      "company_id": "company_kkr_epic_games",
+      "score": 15,
+      "status": "selected_backlog"
+    },
+    {
+      "deal_id": "deal_kkr_outsystems_2018",
+      "company_id": "company_kkr_outsystems",
+      "score": 15,
+      "status": "selected_backlog"
+    },
+    {
+      "deal_id": "deal_kkr_trilogy_medwaste_2017",
+      "company_id": "company_kkr_trilogy_medwaste",
+      "score": 15,
+      "status": "selected_backlog"
+    },
+    {
+      "deal_id": "deal_kkr_reserv_2026",
+      "company_id": "company_kkr_reserv",
+      "score": 15,
+      "status": "selected_backlog"
+    },
+    {
+      "deal_id": "deal_kkr_henry_schein_2025",
+      "company_id": "company_kkr_henry_schein",
+      "score": 15,
+      "status": "selected_backlog"
+    }
+  ]
+}

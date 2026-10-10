@@ -5,9 +5,18 @@ import { access, readFile, readdir } from 'node:fs/promises';
 const file = (name) => new URL(`../docs/${name}`, import.meta.url);
 
 test('essential pages and discovery files are generated', async () => {
-  for (const name of ['index.html','deals/index.html','atlas/index.html','atlas/new-york/index.html','people/index.html','providers/index.html','depth/index.html','methodology/index.html','data/markets.json','data/markets.csv','sitemap.xml','robots.txt','llms.txt','.nojekyll']) {
+  for (const name of ['index.html','deals/index.html','atlas/index.html','atlas/new-york/index.html','people/index.html','providers/index.html','depth/index.html','methodology/index.html','data/markets.json','data/markets.csv','data/research-program.json','sitemap.xml','robots.txt','llms.txt','.nojekyll']) {
     await assert.doesNotReject(access(file(name)));
   }
+});
+
+test('deep research program contains exactly 50 records and preserves the threshold', async () => {
+  const program = JSON.parse(await readFile(file('data/research-program.json'), 'utf8'));
+  assert.equal(program.target, 50);
+  assert.equal(program.completion_threshold, 75);
+  assert.equal(program.records.length, 50);
+  assert.equal(new Set(program.records.map((record) => record.deal_id)).size, 50);
+  assert.ok(program.records.every((record) => ['complete','developing','selected_backlog'].includes(record.status)));
 });
 
 test('home page exposes core research lanes and metadata', async () => {

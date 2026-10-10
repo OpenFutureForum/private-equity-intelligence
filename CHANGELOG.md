@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.5.1 (2026-10-10)
+
+- Established an explicit 50-record deep-research program without lowering the completion threshold.
+- Added a public progress tracker separating complete, developing and selected-backlog records.
+- Selected the program from all transaction-announcement records plus 36 relevant portfolio records.
+- Prioritized the next research table around records closest to the threshold.
+- Added a downloadable `research-program.json` file with record-level status and scores.
+
 ## 0.5.0 (2026-10-10)
 
 - Added structured, source-level underwriting signals to the Tarsus, PEI Group and Emerald transaction records.
