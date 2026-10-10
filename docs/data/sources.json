@@ -1,0 +1,409 @@
+[
+  {
+    "id": "src_world50_continuation_2024",
+    "title": "Morgan Stanley Capital Partners Completes Sale of World 50 to New Continuation Fund Investment Vehicle",
+    "publisher": "Morgan Stanley",
+    "url": "https://www.morganstanley.com/press-releases/morgan-stanley-capital-partners-completes-sale-of-world-50",
+    "source_class": "official_transaction_announcement",
+    "published_date": "2024-03-26",
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "World 50 business description",
+      "MSCP investment since 2020",
+      "2024 continuation transaction",
+      "named investors",
+      "named advisers",
+      "Adam Shaw transaction attribution"
+    ]
+  },
+  {
+    "id": "src_hyve_take_private_2023",
+    "title": "Providence and Searchlight Acquire Next-Generation Global Events Business Hyve",
+    "publisher": "Providence Equity Partners",
+    "url": "https://www.provequity.com/news/providence-and-searchlight-acquire-next-generation-global-events-business-hyve",
+    "source_class": "official_transaction_announcement",
+    "published_date": "2023-06-08",
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "Hyve acquisition completion",
+      "buyers",
+      "enterprise value",
+      "business description"
+    ]
+  },
+  {
+    "id": "src_hyve_fca_2023",
+    "title": "Hyve acquisition regulatory announcement",
+    "publisher": "UK Financial Conduct Authority National Storage Mechanism",
+    "url": "https://data.fca.org.uk/artefacts/NSM/RNS/4749438.html",
+    "source_class": "regulatory_transaction_document",
+    "published_date": "2023-05-03",
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "offer terms",
+      "buyer and seller advisers",
+      "named adviser professionals",
+      "debt financing"
+    ]
+  },
+  {
+    "id": "src_hyve_plural_2023",
+    "title": "Plural advises Providence and Searchlight on their acquisition of Hyve Group",
+    "publisher": "Plural Strategy",
+    "url": "https://www.pluralstrategy.com/work/providence-searchlight-acquisition-hyve-group/",
+    "source_class": "official_adviser_announcement",
+    "published_date": "2023-06-08",
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "commercial diligence role",
+      "Jonny Baynes attribution",
+      "Sam Feary attribution"
+    ]
+  },
+  {
+    "id": "src_hyve_willkie_2023",
+    "title": "Willkie Advises Searchlight Capital Partners on its Joint Offer for Hyve Group plc",
+    "publisher": "Willkie Farr & Gallagher",
+    "url": "https://www.willkie.com/news/2023/03/willkie-advises-searchlight-capital-partners-on-its-joint-offer-for-hyve-group%20plc",
+    "source_class": "official_adviser_announcement",
+    "published_date": "2023-03-31",
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "Searchlight legal adviser",
+      "named Willkie deal team"
+    ]
+  },
+  {
+    "id": "src_hyve_hf_2026",
+    "title": "Hyve to be acquired by Hellman & Friedman to accelerate next phase of growth",
+    "publisher": "Hellman & Friedman",
+    "url": "https://hf.com/hyve-to-be-acquired-by-hellman-friedman-to-accelerate-next-phase-of-growth/",
+    "source_class": "official_transaction_announcement",
+    "published_date": "2026-06-02",
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "pending acquisition",
+      "buyer and sellers",
+      "relationship-economy investment rationale"
+    ]
+  },
+  {
+    "id": "src_hyve_fti_2026",
+    "title": "FTI Consulting Advises Providence Equity Partners and Searchlight Capital Partners on Sale of Hyve Group",
+    "publisher": "FTI Consulting",
+    "url": "https://www.fticonsulting.com/about/newsroom/press-releases/fti-consulting-advises-providence-equity-partners-searchlight-capital-partners-sale-hyve-group",
+    "source_class": "official_adviser_announcement",
+    "published_date": "2026-06-15",
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "vendor financial due diligence role",
+      "named FTI deal team",
+      "Hyve operating metrics"
+    ]
+  },
+  {
+    "id": "src_hyve_hayfin_2026",
+    "title": "Hayfin supports Hellman & Friedman's acquisition of Hyve",
+    "publisher": "Hayfin",
+    "url": "https://www.hayfin.com/news-views/",
+    "source_class": "official_financing_announcement",
+    "published_date": "2026-06-03",
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "debt financing for H&F acquisition of Hyve"
+    ]
+  },
+  {
+    "id": "src_closerstill_providence_2018",
+    "title": "CloserStill Media Announces Growth Investment from Providence Equity Partners",
+    "publisher": "Providence Equity Partners",
+    "url": "https://www.provequity.com/news/closerstill-media-announces-growth-investment-providence-equity-partners",
+    "source_class": "official_transaction_announcement",
+    "published_date": "2018-12-20",
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "majority investment",
+      "sellers",
+      "named sponsor professional",
+      "buyer and seller advisers"
+    ]
+  },
+  {
+    "id": "src_closerstill_searchlight_2026",
+    "title": "Searchlight Capital Partners to invest in CloserStill Media alongside Providence Equity Partners",
+    "publisher": "CloserStill Media",
+    "url": "https://www.closerstillmedia.com/latest-news/searchlight-capital-partners-invest-closerstill-media-alongside-providence-equity-partners-support-next-phase-growth",
+    "source_class": "official_transaction_announcement",
+    "published_date": "2026-05-01",
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "Searchlight investment",
+      "co-control structure",
+      "business description",
+      "named sponsor professional"
+    ]
+  },
+  {
+    "id": "src_closerstill_hayfin_2026",
+    "title": "Hayfin supports Searchlight Capital Partners' investment in CloserStill Media",
+    "publisher": "Hayfin",
+    "url": "https://www.hayfin.com/category/news/",
+    "source_class": "official_financing_announcement",
+    "published_date": "2026-05-08",
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "debt financing for Searchlight investment in CloserStill"
+    ]
+  },
+  {
+    "id": "src_clarion_blackstone_2017",
+    "title": "Blackstone Acquires Clarion",
+    "publisher": "Blackstone",
+    "url": "https://www.blackstone.com/news/press/blackstone-acquires-clarion/",
+    "source_class": "official_transaction_announcement",
+    "published_date": "2017-07-24",
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "Clarion acquisition",
+      "buyer and seller",
+      "named sponsor professionals",
+      "business description"
+    ]
+  },
+  {
+    "id": "src_tarsus_2019",
+    "title": "Recommended cash acquisition of Tarsus Group plc",
+    "publisher": "London Stock Exchange Regulatory News",
+    "url": "https://www.lse.co.uk/rns/recommended-cash-acquisition-of-tarsus-group-plc-dpdv3j7hy59pptg.html",
+    "source_class": "regulatory_transaction_document",
+    "published_date": "2019-05-24",
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "Tarsus take-private",
+      "transaction value",
+      "financing",
+      "named buyer and seller advisers",
+      "named adviser professionals"
+    ]
+  },
+  {
+    "id": "src_tarsus_exit_2023",
+    "title": "Charterhouse Capital Partners agrees sale of Tarsus to Informa",
+    "publisher": "Charterhouse Capital Partners",
+    "url": "https://www.charterhouse.co.uk/news/charterhouse-capital-partners-agrees-sale-of-tarsus-to-informa-to-support-the-next-chapter-of-its-growth/",
+    "source_class": "official_transaction_announcement",
+    "published_date": "2023-03-09",
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "Tarsus sale",
+      "enterprise value",
+      "ownership period"
+    ]
+  },
+  {
+    "id": "src_pei_bridgepoint_2018",
+    "title": "Bridgepoint acquires majority stake in PEI Media",
+    "publisher": "Travers Smith",
+    "url": "https://www.traverssmith.com/knowledge/knowledge-container/bridgepoint-acquires-majority-stake-in-pei-media/",
+    "source_class": "official_adviser_announcement",
+    "published_date": "2018-06-15",
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "PEI Media majority acquisition",
+      "buyer legal adviser",
+      "corporate finance adviser",
+      "financial tax and commercial diligence providers"
+    ]
+  },
+  {
+    "id": "src_pei_followon_2023",
+    "title": "PEI Group agrees further funding from Bridgepoint for next stage of growth",
+    "publisher": "PEI Group",
+    "url": "https://www.pei.group/media/2023/12/PEI-Group-agrees-further-funding-from-Bridgepoint-for-next-stage-of-growth_compressed.pdf",
+    "source_class": "official_transaction_announcement",
+    "published_date": "2023-12-01",
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "Bridgepoint follow-on funding",
+      "continued ownership relationship"
+    ]
+  },
+  {
+    "id": "src_emerald_sec_2017",
+    "title": "Emerald Expositions Events registration statement",
+    "publisher": "U.S. Securities and Exchange Commission",
+    "url": "https://www.sec.gov/Archives/edgar/data/1579214/000156761917000559/s001483x7_s1.htm",
+    "source_class": "regulatory_filing",
+    "published_date": "2017-04-20",
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "2013 Onex acquisition",
+      "purchase price",
+      "company history"
+    ]
+  },
+  {
+    "id": "src_hf_team",
+    "title": "Meet the Hellman & Friedman team",
+    "publisher": "Hellman & Friedman",
+    "url": "https://hf.com/meet-the-hf-team/",
+    "source_class": "official_professional_biography_directory",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "current professional titles",
+      "San Francisco locations",
+      "sector and operating responsibilities"
+    ]
+  },
+  {
+    "id": "src_hf_contact",
+    "title": "Hellman & Friedman contact",
+    "publisher": "Hellman & Friedman",
+    "url": "https://hf.com/contact/",
+    "source_class": "official_company_page",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "San Francisco office"
+    ]
+  },
+  {
+    "id": "src_thoma_holden",
+    "title": "Holden Spaht",
+    "publisher": "Thoma Bravo",
+    "url": "https://www.thomabravo.com/team/holden-spaht",
+    "source_class": "official_professional_biography",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "current title",
+      "San Francisco location",
+      "strategy",
+      "documented transactions and boards"
+    ]
+  },
+  {
+    "id": "src_thoma_seth",
+    "title": "Seth Boro",
+    "publisher": "Thoma Bravo",
+    "url": "https://www.thomabravo.com/team/seth-boro",
+    "source_class": "official_professional_biography",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "current title",
+      "San Francisco location",
+      "strategy",
+      "documented transactions and boards"
+    ]
+  },
+  {
+    "id": "src_thoma_orlando",
+    "title": "Orlando Bravo",
+    "publisher": "Thoma Bravo",
+    "url": "https://www.thomabravo.com/team/orlando-bravo",
+    "source_class": "official_professional_biography",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "founder and managing partner title",
+      "firm strategy",
+      "transaction scale"
+    ]
+  },
+  {
+    "id": "src_francisco_sf_team",
+    "title": "Francisco Partners team — San Francisco office",
+    "publisher": "Francisco Partners",
+    "url": "https://www.franciscopartners.com/team?office=san-francisco",
+    "source_class": "official_professional_biography_directory",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "current titles",
+      "San Francisco office filter"
+    ]
+  },
+  {
+    "id": "src_luminate_team",
+    "title": "Luminate Capital Partners team",
+    "publisher": "Luminate Capital Partners",
+    "url": "https://luminatecapital.com/",
+    "source_class": "official_professional_biography_directory",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "current titles",
+      "San Francisco locations",
+      "software investment strategy"
+    ]
+  },
+  {
+    "id": "src_alpine_bayarea_2026",
+    "title": "Alpine Investors Named to Fortune's 2026 Best Workplaces in the Bay Area List",
+    "publisher": "Alpine Investors",
+    "url": "https://alpineinvestors.com/resource/fortune-best-workplaces-bay-area-2026/",
+    "source_class": "official_company_announcement",
+    "published_date": "2026-06-06",
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "San Francisco headquarters",
+      "Graham Weaver title",
+      "firm strategy",
+      "current firm metrics"
+    ]
+  },
+  {
+    "id": "src_alpine_leadership_2024",
+    "title": "Alpine Force for Good Report",
+    "publisher": "Alpine Investors",
+    "url": "https://alpineinvestors.com/wp-content/uploads/2024/04/alpine-force-for-good-2024.pdf",
+    "source_class": "official_company_report",
+    "published_date": "2024-04-01",
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "leadership titles"
+    ]
+  },
+  {
+    "id": "src_gi_home",
+    "title": "GI Partners",
+    "publisher": "GI Partners",
+    "url": "https://www.gipartners.com/",
+    "source_class": "official_company_page",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "San Francisco office",
+      "investment strategies",
+      "Rick Magnuson title"
+    ]
+  },
+  {
+    "id": "src_silverlake_people",
+    "title": "Silver Lake people",
+    "publisher": "Silver Lake",
+    "url": "https://www.silverlake.com/people/",
+    "source_class": "official_professional_biography_directory",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "current leadership titles"
+    ]
+  },
+  {
+    "id": "src_off_pe_community",
+    "title": "A Private Equity Community for Investors and Operators",
+    "publisher": "Open Future Forum",
+    "url": "https://openfutureforum.com/blog/private-equity-executive-community",
+    "source_class": "publisher_first_party",
+    "published_date": "2026-07-31",
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "Open Future Forum business archetype",
+      "PE community audience",
+      "program description"
+    ]
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "id": "person_holden_spaht",
+    "slug": "holden-spaht",
+    "name": "Holden Spaht",
+    "profile_scope": [
+      "bay_area"
+    ],
+    "current_firm_id": "firm_thoma_bravo",
+    "current_title": "Managing Partner",
+    "location": "San Francisco, California, United States",
+    "location_evidence": "explicit_person_bio",
+    "summary": "Senior software investor whose official biography identifies San Francisco as his location.",
+    "source_ids": [
+      "src_thoma_holden"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_seth_boro",
+    "slug": "seth-boro",
+    "name": "Seth Boro",
+    "profile_scope": [
+      "bay_area"
+    ],
+    "current_firm_id": "firm_thoma_bravo",
+    "current_title": "Managing Partner",
+    "location": "San Francisco, California, United States",
+    "location_evidence": "explicit_person_bio",
+    "summary": "Senior software investor whose official biography identifies San Francisco as his location.",
+    "source_ids": [
+      "src_thoma_seth"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_david_tunnell",
+    "slug": "david-tunnell",
+    "name": "David Tunnell",
+    "profile_scope": [
+      "bay_area"
+    ],
+    "current_firm_id": "firm_hf",
+    "current_title": "Partner",
+    "location": "San Francisco, California, United States",
+    "location_evidence": "explicit_person_bio",
+    "summary": "Hellman & Friedman partner listed in San Francisco by the firm's team directory.",
+    "source_ids": [
+      "src_hf_team"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_jacob_best",
+    "slug": "jacob-best",
+    "name": "Jacob Best",
+    "profile_scope": [
+      "bay_area"
+    ],
+    "current_firm_id": "firm_hf",
+    "current_title": "Partner",
+    "location": "San Francisco, California, United States",
+    "location_evidence": "explicit_person_bio",
+    "summary": "Hellman & Friedman partner listed in San Francisco by the firm's team directory.",
+    "source_ids": [
+      "src_hf_team"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_matt_eisen",
+    "slug": "matt-eisen",
+    "name": "Matt Eisen",
+    "profile_scope": [
+      "bay_area"
+    ],
+    "current_firm_id": "firm_hf",
+    "current_title": "Partner",
+    "location": "San Francisco, California, United States",
+    "location_evidence": "explicit_person_bio",
+    "summary": "Hellman & Friedman partner listed in San Francisco by the firm's team directory.",
+    "source_ids": [
+      "src_hf_team"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_sri_srinivasan",
+    "slug": "sri-srinivasan",
+    "name": "Sri Srinivasan",
+    "profile_scope": [
+      "bay_area"
+    ],
+    "current_firm_id": "firm_hf",
+    "current_title": "Chief AI Officer",
+    "location": "San Francisco, California, United States",
+    "location_evidence": "explicit_person_bio",
+    "summary": "Operating leader responsible for artificial-intelligence capabilities, listed in San Francisco.",
+    "source_ids": [
+      "src_hf_team"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_josh_gold",
+    "slug": "josh-gold",
+    "name": "Josh Gold",
+    "profile_scope": [
+      "bay_area"
+    ],
+    "current_firm_id": "firm_hf",
+    "current_title": "Senior Operating Executive",
+    "location": "San Francisco, California, United States",
+    "location_evidence": "explicit_person_bio",
+    "summary": "Portfolio-operations professional listed in San Francisco by the firm's team directory.",
+    "source_ids": [
+      "src_hf_team"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_arrie_park",
+    "slug": "arrie-park",
+    "name": "Arrie Park",
+    "profile_scope": [
+      "bay_area"
+    ],
+    "current_firm_id": "firm_hf",
+    "current_title": "Partner and Chief Legal Officer",
+    "location": "San Francisco, California, United States",
+    "location_evidence": "explicit_person_bio",
+    "summary": "Senior legal executive listed in San Francisco by the firm's team directory.",
+    "source_ids": [
+      "src_hf_team"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_hollie_haynes",
+    "slug": "hollie-haynes",
+    "name": "Hollie Haynes",
+    "profile_scope": [
+      "bay_area"
+    ],
+    "current_firm_id": "firm_luminate",
+    "current_title": "Founder and Managing Partner",
+    "location": "San Francisco, California, United States",
+    "location_evidence": "explicit_person_bio",
+    "summary": "Founder of a San Francisco enterprise-software private-equity firm.",
+    "source_ids": [
+      "src_luminate_team"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_andrew_baldwin",
+    "slug": "andrew-baldwin",
+    "name": "Andrew Baldwin",
+    "profile_scope": [
+      "bay_area"
+    ],
+    "current_firm_id": "firm_luminate",
+    "current_title": "Partner",
+    "location": "San Francisco, California, United States",
+    "location_evidence": "explicit_person_bio",
+    "summary": "Enterprise-software investment professional listed by Luminate.",
+    "source_ids": [
+      "src_luminate_team"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_lucy_li",
+    "slug": "lucy-li",
+    "name": "Lucy Li",
+    "profile_scope": [
+      "bay_area"
+    ],
+    "current_firm_id": "firm_luminate",
+    "current_title": "Partner",
+    "location": "San Francisco, California, United States",
+    "location_evidence": "explicit_person_bio",
+    "summary": "Enterprise-software investment professional listed by Luminate.",
+    "source_ids": [
+      "src_luminate_team"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_kate_scott",
+    "slug": "kate-scott",
+    "name": "Kate Scott",
+    "profile_scope": [
+      "bay_area"
+    ],
+    "current_firm_id": "firm_luminate",
+    "current_title": "Partner and Chief Financial Officer",
+    "location": "San Francisco, California, United States",
+    "location_evidence": "explicit_person_bio",
+    "summary": "Senior finance and firm-operations professional listed by Luminate.",
+    "source_ids": [
+      "src_luminate_team"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_chris_adams",
+    "slug": "chris-adams",
+    "name": "Chris Adams",
+    "profile_scope": [
+      "bay_area"
+    ],
+    "current_firm_id": "firm_francisco_partners",
+    "current_title": "Partner",
+    "location": "San Francisco office",
+    "location_evidence": "explicit_office_filter",
+    "summary": "Technology investment professional returned by Francisco Partners' San Francisco office directory.",
+    "source_ids": [
+      "src_francisco_sf_team"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_justin_chen",
+    "slug": "justin-chen",
+    "name": "Justin Chen",
+    "profile_scope": [
+      "bay_area"
+    ],
+    "current_firm_id": "firm_francisco_partners",
+    "current_title": "Partner",
+    "location": "San Francisco office",
+    "location_evidence": "explicit_office_filter",
+    "summary": "Technology investment professional returned by Francisco Partners' San Francisco office directory.",
+    "source_ids": [
+      "src_francisco_sf_team"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_peter_christodoulo",
+    "slug": "peter-christodoulo",
+    "name": "Peter Christodoulo",
+    "profile_scope": [
+      "bay_area"
+    ],
+    "current_firm_id": "firm_francisco_partners",
+    "current_title": "Partner",
+    "location": "San Francisco office",
+    "location_evidence": "explicit_office_filter",
+    "summary": "Technology investment professional returned by Francisco Partners' San Francisco office directory.",
+    "source_ids": [
+      "src_francisco_sf_team"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_evan_daar",
+    "slug": "evan-daar",
+    "name": "Evan Daar",
+    "profile_scope": [
+      "bay_area"
+    ],
+    "current_firm_id": "firm_francisco_partners",
+    "current_title": "Partner",
+    "location": "San Francisco office",
+    "location_evidence": "explicit_office_filter",
+    "summary": "Technology investment professional returned by Francisco Partners' San Francisco office directory.",
+    "source_ids": [
+      "src_francisco_sf_team"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_ashley_evans",
+    "slug": "ashley-evans",
+    "name": "Ashley Evans",
+    "profile_scope": [
+      "bay_area"
+    ],
+    "current_firm_id": "firm_francisco_partners",
+    "current_title": "Partner",
+    "location": "San Francisco office",
+    "location_evidence": "explicit_office_filter",
+    "summary": "Technology investment professional returned by Francisco Partners' San Francisco office directory.",
+    "source_ids": [
+      "src_francisco_sf_team"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_andrew_kowal",
+    "slug": "andrew-kowal",
+    "name": "Andrew Kowal",
+    "profile_scope": [
+      "bay_area"
+    ],
+    "current_firm_id": "firm_francisco_partners",
+    "current_title": "Partner",
+    "location": "San Francisco office",
+    "location_evidence": "explicit_office_filter",
+    "summary": "Technology investment professional returned by Francisco Partners' San Francisco office directory.",
+    "source_ids": [
+      "src_francisco_sf_team"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_karl_shum",
+    "slug": "karl-shum",
+    "name": "Karl Shum",
+    "profile_scope": [
+      "bay_area"
+    ],
+    "current_firm_id": "firm_francisco_partners",
+    "current_title": "Partner",
+    "location": "San Francisco office",
+    "location_evidence": "explicit_office_filter",
+    "summary": "Technology investment professional returned by Francisco Partners' San Francisco office directory.",
+    "source_ids": [
+      "src_francisco_sf_team"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_christine_wang",
+    "slug": "christine-wang",
+    "name": "Christine Wang",
+    "profile_scope": [
+      "bay_area"
+    ],
+    "current_firm_id": "firm_francisco_partners",
+    "current_title": "Partner",
+    "location": "San Francisco office",
+    "location_evidence": "explicit_office_filter",
+    "summary": "Technology investment professional returned by Francisco Partners' San Francisco office directory.",
+    "source_ids": [
+      "src_francisco_sf_team"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_graham_weaver",
+    "slug": "graham-weaver",
+    "name": "Graham Weaver",
+    "profile_scope": [
+      "bay_area"
+    ],
+    "current_firm_id": "firm_alpine",
+    "current_title": "Founder and Chief Executive Officer",
+    "location": "Associated with firm's San Francisco headquarters",
+    "location_evidence": "firm_office_association",
+    "summary": "Founder and CEO of Alpine; the reviewed source establishes the firm's San Francisco headquarters, not his personal office location.",
+    "source_ids": [
+      "src_alpine_bayarea_2026",
+      "src_alpine_leadership_2024"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_adam_shaw",
+    "slug": "adam-shaw",
+    "name": "Adam Shaw",
+    "profile_scope": [
+      "transaction_attribution"
+    ],
+    "current_firm_id": null,
+    "current_title": null,
+    "location": null,
+    "location_evidence": null,
+    "summary": "Named Morgan Stanley Capital Partners representative in the 2024 World 50 continuation transaction announcement; no current affiliation is asserted here.",
+    "source_ids": [
+      "src_world50_continuation_2024"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_david_wilkie",
+    "slug": "david-wilkie",
+    "name": "David Wilkie",
+    "profile_scope": [
+      "transaction_attribution"
+    ],
+    "current_firm_id": null,
+    "current_title": null,
+    "location": null,
+    "location_evidence": null,
+    "summary": "Named transaction representative for World 50 in the 2024 continuation announcement; no current affiliation is asserted here.",
+    "source_ids": [
+      "src_world50_continuation_2024"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_ken_davis",
+    "slug": "ken-davis",
+    "name": "Ken Davis",
+    "profile_scope": [
+      "transaction_attribution"
+    ],
+    "current_firm_id": null,
+    "current_title": null,
+    "location": null,
+    "location_evidence": null,
+    "summary": "Named transaction representative for World 50 in the 2024 continuation announcement; no current affiliation is asserted here.",
+    "source_ids": [
+      "src_world50_continuation_2024"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_andrew_tisdale",
+    "slug": "andrew-tisdale",
+    "name": "Andrew Tisdale",
+    "profile_scope": [
+      "transaction_attribution"
+    ],
+    "current_firm_id": null,
+    "current_title": null,
+    "location": null,
+    "location_evidence": null,
+    "summary": "Publicly quoted Providence representative in the CloserStill and Clarion transaction announcements; treated as historical attribution.",
+    "source_ids": [
+      "src_closerstill_providence_2018",
+      "src_clarion_blackstone_2017"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_james_redmayne",
+    "slug": "james-redmayne",
+    "name": "James Redmayne",
+    "profile_scope": [
+      "transaction_attribution"
+    ],
+    "current_firm_id": null,
+    "current_title": null,
+    "location": null,
+    "location_evidence": null,
+    "summary": "Publicly quoted Searchlight representative in the 2026 CloserStill announcement; treated as historical transaction attribution.",
+    "source_ids": [
+      "src_closerstill_searchlight_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_lionel_assant",
+    "slug": "lionel-assant",
+    "name": "Lionel Assant",
+    "profile_scope": [
+      "transaction_attribution"
+    ],
+    "current_firm_id": null,
+    "current_title": null,
+    "location": null,
+    "location_evidence": null,
+    "summary": "Publicly quoted Blackstone representative in the 2017 Clarion acquisition announcement; treated as historical attribution.",
+    "source_ids": [
+      "src_clarion_blackstone_2017"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_robert_leeming",
+    "slug": "robert-leeming",
+    "name": "Robert Leeming",
+    "profile_scope": [
+      "transaction_attribution"
+    ],
+    "current_firm_id": null,
+    "current_title": null,
+    "location": null,
+    "location_evidence": null,
+    "summary": "Named Charterhouse representative in the Tarsus acquisition announcement; treated as historical attribution.",
+    "source_ids": [
+      "src_tarsus_2019"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_robert_sorrell",
+    "slug": "robert-sorrell",
+    "name": "Robert Sorrell",
+    "profile_scope": [
+      "transaction_attribution"
+    ],
+    "current_firm_id": null,
+    "current_title": null,
+    "location": null,
+    "location_evidence": null,
+    "summary": "Named Moelis adviser in the 2019 Tarsus regulatory transaction announcement.",
+    "source_ids": [
+      "src_tarsus_2019"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_geoffrey_austin",
+    "slug": "geoffrey-austin",
+    "name": "Geoffrey Austin",
+    "profile_scope": [
+      "transaction_attribution"
+    ],
+    "current_firm_id": null,
+    "current_title": null,
+    "location": null,
+    "location_evidence": null,
+    "summary": "Named Moelis adviser in the 2019 Tarsus regulatory transaction announcement.",
+    "source_ids": [
+      "src_tarsus_2019"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_elliot_richmond",
+    "slug": "elliot-richmond",
+    "name": "Elliot Richmond",
+    "profile_scope": [
+      "transaction_attribution"
+    ],
+    "current_firm_id": null,
+    "current_title": null,
+    "location": null,
+    "location_evidence": null,
+    "summary": "Named Moelis adviser in the 2019 Tarsus regulatory transaction announcement.",
+    "source_ids": [
+      "src_tarsus_2019"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_rich_newman",
+    "slug": "rich-newman",
+    "name": "Rich Newman",
+    "profile_scope": [
+      "transaction_attribution"
+    ],
+    "current_firm_id": null,
+    "current_title": null,
+    "location": null,
+    "location_evidence": null,
+    "summary": "Named Moelis adviser in the 2019 Tarsus regulatory transaction announcement.",
+    "source_ids": [
+      "src_tarsus_2019"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_nick_harper",
+    "slug": "nick-harper",
+    "name": "Nick Harper",
+    "profile_scope": [
+      "transaction_attribution"
+    ],
+    "current_firm_id": null,
+    "current_title": null,
+    "location": null,
+    "location_evidence": null,
+    "summary": "Named Goldman Sachs adviser in public transaction documents for Hyve and Tarsus.",
+    "source_ids": [
+      "src_hyve_fca_2023",
+      "src_tarsus_2019"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_jonny_baynes",
+    "slug": "jonny-baynes",
+    "name": "Jonny Baynes",
+    "profile_scope": [
+      "transaction_attribution"
+    ],
+    "current_firm_id": null,
+    "current_title": null,
+    "location": null,
+    "location_evidence": null,
+    "summary": "Named Plural Strategy professional on commercial diligence for the 2023 Hyve acquisition.",
+    "source_ids": [
+      "src_hyve_plural_2023"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_sam_feary",
+    "slug": "sam-feary",
+    "name": "Sam Feary",
+    "profile_scope": [
+      "transaction_attribution"
+    ],
+    "current_firm_id": null,
+    "current_title": null,
+    "location": null,
+    "location_evidence": null,
+    "summary": "Named Plural Strategy professional on commercial diligence for the 2023 Hyve acquisition.",
+    "source_ids": [
+      "src_hyve_plural_2023"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_gavin_gordon",
+    "slug": "gavin-gordon",
+    "name": "Gavin Gordon",
+    "profile_scope": [
+      "transaction_attribution"
+    ],
+    "current_firm_id": null,
+    "current_title": null,
+    "location": null,
+    "location_evidence": null,
+    "summary": "Named Willkie lawyer on Searchlight's 2023 joint offer for Hyve.",
+    "source_ids": [
+      "src_hyve_willkie_2023"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_andrew_gray",
+    "slug": "andrew-gray",
+    "name": "Andrew Gray",
+    "profile_scope": [
+      "transaction_attribution"
+    ],
+    "current_firm_id": null,
+    "current_title": null,
+    "location": null,
+    "location_evidence": null,
+    "summary": "Named Willkie lawyer on Searchlight's 2023 joint offer for Hyve.",
+    "source_ids": [
+      "src_hyve_willkie_2023"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_ashley_young",
+    "slug": "ashley-young",
+    "name": "Ashley Young",
+    "profile_scope": [
+      "transaction_attribution"
+    ],
+    "current_firm_id": null,
+    "current_title": null,
+    "location": null,
+    "location_evidence": null,
+    "summary": "Named Willkie lawyer on Searchlight's 2023 joint offer for Hyve.",
+    "source_ids": [
+      "src_hyve_willkie_2023"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_rustom_kharegat",
+    "slug": "rustom-kharegat",
+    "name": "Rustom Kharegat",
+    "profile_scope": [
+      "transaction_attribution"
+    ],
+    "current_firm_id": null,
+    "current_title": null,
+    "location": null,
+    "location_evidence": null,
+    "summary": "Named FTI Consulting professional on vendor financial due diligence for the 2026 Hyve sale.",
+    "source_ids": [
+      "src_hyve_fti_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_aseem_adya",
+    "slug": "aseem-adya",
+    "name": "Aseem Adya",
+    "profile_scope": [
+      "transaction_attribution"
+    ],
+    "current_firm_id": null,
+    "current_title": null,
+    "location": null,
+    "location_evidence": null,
+    "summary": "Named FTI Consulting professional on vendor financial due diligence for the 2026 Hyve sale.",
+    "source_ids": [
+      "src_hyve_fti_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_andre_kong",
+    "slug": "andre-kong",
+    "name": "Andre Kong",
+    "profile_scope": [
+      "transaction_attribution"
+    ],
+    "current_firm_id": null,
+    "current_title": null,
+    "location": null,
+    "location_evidence": null,
+    "summary": "Named FTI Consulting professional on vendor financial due diligence for the 2026 Hyve sale.",
+    "source_ids": [
+      "src_hyve_fti_2026"
+    ],
+    "last_verified": "2026-10-10"
+  }
+]

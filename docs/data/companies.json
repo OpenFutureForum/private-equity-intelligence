@@ -1,0 +1,155 @@
+[
+  {
+    "id": "company_world50",
+    "slug": "world-50",
+    "name": "World 50",
+    "company_type": "executive_peer_network",
+    "headquarters": "Atlanta, Georgia, United States",
+    "website": "https://world50.com/",
+    "description": "Invitation-only peer network and knowledge-exchange platform for CEOs, board directors and senior executives.",
+    "relationship_archetypes": [
+      "executive community",
+      "peer network",
+      "knowledge exchange"
+    ],
+    "source_ids": [
+      "src_world50_continuation_2024"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_hyve",
+    "slug": "hyve-group",
+    "name": "Hyve Group",
+    "company_type": "b2b_events_platform",
+    "headquarters": "London, United Kingdom",
+    "website": "https://hyve.group/",
+    "description": "Global B2B events platform operating brands across healthcare, ecommerce, education technology, supply chain and marketing technology.",
+    "relationship_archetypes": [
+      "business events",
+      "industry ecosystem",
+      "matchmaking",
+      "content"
+    ],
+    "source_ids": [
+      "src_hyve_take_private_2023",
+      "src_hyve_hf_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_closerstill",
+    "slug": "closerstill-media",
+    "name": "CloserStill Media",
+    "company_type": "b2b_events_platform",
+    "headquarters": "London, United Kingdom",
+    "website": "https://www.closerstillmedia.com/",
+    "description": "B2B events platform focused on technology, healthcare, learning and HR, and future transport and infrastructure.",
+    "relationship_archetypes": [
+      "business events",
+      "professional community",
+      "executive roundtables",
+      "lead enrichment"
+    ],
+    "source_ids": [
+      "src_closerstill_providence_2018",
+      "src_closerstill_searchlight_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_clarion",
+    "slug": "clarion-events",
+    "name": "Clarion Events",
+    "company_type": "b2b_events_platform",
+    "headquarters": "London, United Kingdom",
+    "website": "https://clarionevents.com/",
+    "description": "International events organizer with sector-focused exhibitions and conferences.",
+    "relationship_archetypes": [
+      "business events",
+      "trade exhibitions",
+      "industry community"
+    ],
+    "source_ids": [
+      "src_clarion_blackstone_2017"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_tarsus",
+    "slug": "tarsus-group",
+    "name": "Tarsus Group",
+    "company_type": "b2b_events_platform",
+    "headquarters": "London, United Kingdom",
+    "website": "https://www.informa.com/",
+    "description": "International B2B events group acquired by Charterhouse in 2019 and sold to Informa in 2023.",
+    "relationship_archetypes": [
+      "business events",
+      "trade exhibitions",
+      "industry community"
+    ],
+    "source_ids": [
+      "src_tarsus_2019",
+      "src_tarsus_exit_2023"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_pei",
+    "slug": "pei-group",
+    "name": "PEI Group",
+    "company_type": "private_markets_information_and_community",
+    "headquarters": "London, United Kingdom",
+    "website": "https://www.pei.group/",
+    "description": "Private-markets information, data, events and professional-network business.",
+    "relationship_archetypes": [
+      "business information",
+      "private markets data",
+      "events",
+      "professional networks"
+    ],
+    "source_ids": [
+      "src_pei_bridgepoint_2018",
+      "src_pei_followon_2023"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_emerald",
+    "slug": "emerald",
+    "name": "Emerald",
+    "company_type": "b2b_events_platform",
+    "headquarters": "New York, New York, United States",
+    "website": "https://www.emeraldx.com/",
+    "description": "B2B events and market-platform company formed from Nielsen's expositions business after its 2013 acquisition by Onex.",
+    "relationship_archetypes": [
+      "business events",
+      "trade exhibitions",
+      "industry media"
+    ],
+    "source_ids": [
+      "src_emerald_sec_2017"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_open_future_forum",
+    "slug": "open-future-forum",
+    "name": "Open Future Forum",
+    "company_type": "executive_community",
+    "headquarters": "San Francisco Bay Area, United States",
+    "website": "https://openfutureforum.com/",
+    "description": "Executive community operating private gatherings, public events and research for executives, investors and operators.",
+    "relationship_archetypes": [
+      "executive community",
+      "private gatherings",
+      "research",
+      "professional network"
+    ],
+    "illustrative_only": true,
+    "source_ids": [
+      "src_off_pe_community"
+    ],
+    "last_verified": "2026-10-10"
+  }
+]

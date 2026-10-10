@@ -1,0 +1,152 @@
+{
+  "name": "Relationship-Economy Underwriting Framework",
+  "version": "0.1.0",
+  "scoring_status": "framework_only",
+  "notice": "The Foundation Edition publishes questions and evidence prompts, not company scores.",
+  "dimensions": [
+    {
+      "id": "relationship_dependency",
+      "name": "Relationship dependency",
+      "category": "durability",
+      "risk_direction": "higher_can_be_defensive",
+      "definition": "How much customer value depends on trusted human relationships rather than information access alone?",
+      "evidence_prompts": [
+        "Member renewal reasons",
+        "Share of interaction that is facilitated or curated",
+        "Evidence that trust improves outcomes"
+      ]
+    },
+    {
+      "id": "access_scarcity",
+      "name": "Access scarcity",
+      "category": "durability",
+      "risk_direction": "higher_can_be_defensive",
+      "definition": "How difficult is it for a competitor or software product to reproduce access to the relevant people?",
+      "evidence_prompts": [
+        "Admission criteria",
+        "Seniority and density of participants",
+        "Time required to build the network"
+      ]
+    },
+    {
+      "id": "community_density",
+      "name": "Community density",
+      "category": "network",
+      "risk_direction": "higher_can_be_defensive",
+      "definition": "How frequently and meaningfully do members interact across the network?",
+      "evidence_prompts": [
+        "Repeat attendance",
+        "Interactions per member",
+        "Cross-program participation"
+      ]
+    },
+    {
+      "id": "trust_dependency",
+      "name": "Trust dependency",
+      "category": "network",
+      "risk_direction": "higher_can_be_defensive",
+      "definition": "Does candor, confidentiality or reputation materially affect the product's value?",
+      "evidence_prompts": [
+        "Confidentiality mechanisms",
+        "Referral-led growth",
+        "Member retention and advocacy"
+      ]
+    },
+    {
+      "id": "recurring_revenue",
+      "name": "Recurring revenue",
+      "category": "economics",
+      "risk_direction": "higher_is_preferred",
+      "definition": "How much revenue is contracted, subscribed or predictably repeated?",
+      "evidence_prompts": [
+        "Subscription mix",
+        "Renewal rates",
+        "Forward bookings"
+      ]
+    },
+    {
+      "id": "proprietary_data_generation",
+      "name": "Proprietary data generation",
+      "category": "data",
+      "risk_direction": "higher_can_be_defensive",
+      "definition": "Does participation generate exclusive, permissioned or difficult-to-replicate data?",
+      "evidence_prompts": [
+        "First-party data rights",
+        "Structured interaction data",
+        "Ability to create benchmarks"
+      ]
+    },
+    {
+      "id": "in_person_value",
+      "name": "In-person experience value",
+      "category": "product",
+      "risk_direction": "higher_can_be_defensive",
+      "definition": "How much value is created by physical presence, serendipity and real-time interaction?",
+      "evidence_prompts": [
+        "In-person attendance",
+        "Pricing power of live products",
+        "Virtual-versus-live retention"
+      ]
+    },
+    {
+      "id": "content_automation_exposure",
+      "name": "Content automation exposure",
+      "category": "technology_risk",
+      "risk_direction": "higher_is_riskier",
+      "definition": "How much of the offer can generative systems reproduce without access to the network?",
+      "evidence_prompts": [
+        "Revenue tied to generic content",
+        "Differentiation beyond publishing",
+        "Human curation requirements"
+      ]
+    },
+    {
+      "id": "sponsor_concentration",
+      "name": "Sponsor concentration",
+      "category": "commercial_risk",
+      "risk_direction": "higher_is_riskier",
+      "definition": "How dependent is the model on a small number of commercial partners or sponsors?",
+      "evidence_prompts": [
+        "Top-ten revenue concentration",
+        "Category exclusivity",
+        "Sponsor renewal rates"
+      ]
+    },
+    {
+      "id": "key_person_dependency",
+      "name": "Key-person dependency",
+      "category": "operating_risk",
+      "risk_direction": "higher_is_riskier",
+      "definition": "Could the product retain trust and participation without its founder or a small group of conveners?",
+      "evidence_prompts": [
+        "Relationship ownership",
+        "Second-line leadership",
+        "Brand portability"
+      ]
+    },
+    {
+      "id": "operational_scalability",
+      "name": "Operational scalability",
+      "category": "value_creation",
+      "risk_direction": "higher_is_preferred",
+      "definition": "Can the platform add members, geographies or programs without proportional cost growth or loss of quality?",
+      "evidence_prompts": [
+        "Event contribution margins",
+        "Playbook repeatability",
+        "Central technology leverage"
+      ]
+    },
+    {
+      "id": "acquisition_potential",
+      "name": "Acquisition potential",
+      "category": "value_creation",
+      "risk_direction": "higher_is_preferred",
+      "definition": "Can the platform compound through adjacent communities, data products or event brands?",
+      "evidence_prompts": [
+        "Fragmentation of target niches",
+        "Integration capability",
+        "Cross-sell evidence"
+      ]
+    }
+  ]
+}

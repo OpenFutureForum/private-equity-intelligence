@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it using this metadata."
+title: "Private Equity Intelligence Index"
+version: 0.1.0
+date-released: 2026-10-10
+type: dataset
+authors:
+  - family-names: Newlands
+    given-names: Murray
+    affiliation: Open Future Forum
+publisher:
+  name: Open Future Forum
+  url: https://openfutureforum.com/
+repository-code: https://github.com/OpenFutureForum/private-equity-intelligence
+url: https://openfutureforum.github.io/private-equity-intelligence/
+license: CC-BY-4.0
+keywords:
+  - private equity
+  - deal teams
+  - investment banking
+  - operating partners
+  - relationship economy
+  - San Francisco Bay Area

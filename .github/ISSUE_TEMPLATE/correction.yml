@@ -1,0 +1,29 @@
+name: Research correction
+description: Propose an evidence-backed correction to a published record.
+title: "Correction: "
+labels: [correction]
+body:
+  - type: input
+    id: record
+    attributes:
+      label: Record ID or URL
+    validations:
+      required: true
+  - type: textarea
+    id: claim
+    attributes:
+      label: Existing claim
+    validations:
+      required: true
+  - type: textarea
+    id: replacement
+    attributes:
+      label: Proposed correction
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Public source URL
+    validations:
+      required: true

@@ -1,0 +1,1369 @@
+{
+  "generated_at": "2026-10-10",
+  "nodes": [
+    {
+      "id": "company_world50",
+      "type": "company",
+      "name": "World 50",
+      "slug": "world-50"
+    },
+    {
+      "id": "company_hyve",
+      "type": "company",
+      "name": "Hyve Group",
+      "slug": "hyve-group"
+    },
+    {
+      "id": "company_closerstill",
+      "type": "company",
+      "name": "CloserStill Media",
+      "slug": "closerstill-media"
+    },
+    {
+      "id": "company_clarion",
+      "type": "company",
+      "name": "Clarion Events",
+      "slug": "clarion-events"
+    },
+    {
+      "id": "company_tarsus",
+      "type": "company",
+      "name": "Tarsus Group",
+      "slug": "tarsus-group"
+    },
+    {
+      "id": "company_pei",
+      "type": "company",
+      "name": "PEI Group",
+      "slug": "pei-group"
+    },
+    {
+      "id": "company_emerald",
+      "type": "company",
+      "name": "Emerald",
+      "slug": "emerald"
+    },
+    {
+      "id": "company_open_future_forum",
+      "type": "company",
+      "name": "Open Future Forum",
+      "slug": "open-future-forum"
+    },
+    {
+      "id": "firm_mscp",
+      "type": "firm",
+      "name": "Morgan Stanley Capital Partners",
+      "slug": "morgan-stanley-capital-partners"
+    },
+    {
+      "id": "firm_providence",
+      "type": "firm",
+      "name": "Providence Equity Partners",
+      "slug": "providence-equity-partners"
+    },
+    {
+      "id": "firm_searchlight",
+      "type": "firm",
+      "name": "Searchlight Capital Partners",
+      "slug": "searchlight-capital-partners"
+    },
+    {
+      "id": "firm_hf",
+      "type": "firm",
+      "name": "Hellman & Friedman",
+      "slug": "hellman-friedman"
+    },
+    {
+      "id": "firm_blackstone",
+      "type": "firm",
+      "name": "Blackstone",
+      "slug": "blackstone"
+    },
+    {
+      "id": "firm_charterhouse",
+      "type": "firm",
+      "name": "Charterhouse Capital Partners",
+      "slug": "charterhouse-capital-partners"
+    },
+    {
+      "id": "firm_bridgepoint",
+      "type": "firm",
+      "name": "Bridgepoint",
+      "slug": "bridgepoint"
+    },
+    {
+      "id": "firm_onex",
+      "type": "firm",
+      "name": "Onex",
+      "slug": "onex"
+    },
+    {
+      "id": "firm_informa",
+      "type": "firm",
+      "name": "Informa",
+      "slug": "informa"
+    },
+    {
+      "id": "firm_thoma_bravo",
+      "type": "firm",
+      "name": "Thoma Bravo",
+      "slug": "thoma-bravo"
+    },
+    {
+      "id": "firm_francisco_partners",
+      "type": "firm",
+      "name": "Francisco Partners",
+      "slug": "francisco-partners"
+    },
+    {
+      "id": "firm_luminate",
+      "type": "firm",
+      "name": "Luminate Capital Partners",
+      "slug": "luminate-capital-partners"
+    },
+    {
+      "id": "firm_alpine",
+      "type": "firm",
+      "name": "Alpine Investors",
+      "slug": "alpine-investors"
+    },
+    {
+      "id": "firm_gi_partners",
+      "type": "firm",
+      "name": "GI Partners",
+      "slug": "gi-partners"
+    },
+    {
+      "id": "firm_silver_lake",
+      "type": "firm",
+      "name": "Silver Lake",
+      "slug": "silver-lake"
+    },
+    {
+      "id": "person_holden_spaht",
+      "type": "person",
+      "name": "Holden Spaht",
+      "slug": "holden-spaht"
+    },
+    {
+      "id": "person_seth_boro",
+      "type": "person",
+      "name": "Seth Boro",
+      "slug": "seth-boro"
+    },
+    {
+      "id": "person_david_tunnell",
+      "type": "person",
+      "name": "David Tunnell",
+      "slug": "david-tunnell"
+    },
+    {
+      "id": "person_jacob_best",
+      "type": "person",
+      "name": "Jacob Best",
+      "slug": "jacob-best"
+    },
+    {
+      "id": "person_matt_eisen",
+      "type": "person",
+      "name": "Matt Eisen",
+      "slug": "matt-eisen"
+    },
+    {
+      "id": "person_sri_srinivasan",
+      "type": "person",
+      "name": "Sri Srinivasan",
+      "slug": "sri-srinivasan"
+    },
+    {
+      "id": "person_josh_gold",
+      "type": "person",
+      "name": "Josh Gold",
+      "slug": "josh-gold"
+    },
+    {
+      "id": "person_arrie_park",
+      "type": "person",
+      "name": "Arrie Park",
+      "slug": "arrie-park"
+    },
+    {
+      "id": "person_hollie_haynes",
+      "type": "person",
+      "name": "Hollie Haynes",
+      "slug": "hollie-haynes"
+    },
+    {
+      "id": "person_andrew_baldwin",
+      "type": "person",
+      "name": "Andrew Baldwin",
+      "slug": "andrew-baldwin"
+    },
+    {
+      "id": "person_lucy_li",
+      "type": "person",
+      "name": "Lucy Li",
+      "slug": "lucy-li"
+    },
+    {
+      "id": "person_kate_scott",
+      "type": "person",
+      "name": "Kate Scott",
+      "slug": "kate-scott"
+    },
+    {
+      "id": "person_chris_adams",
+      "type": "person",
+      "name": "Chris Adams",
+      "slug": "chris-adams"
+    },
+    {
+      "id": "person_justin_chen",
+      "type": "person",
+      "name": "Justin Chen",
+      "slug": "justin-chen"
+    },
+    {
+      "id": "person_peter_christodoulo",
+      "type": "person",
+      "name": "Peter Christodoulo",
+      "slug": "peter-christodoulo"
+    },
+    {
+      "id": "person_evan_daar",
+      "type": "person",
+      "name": "Evan Daar",
+      "slug": "evan-daar"
+    },
+    {
+      "id": "person_ashley_evans",
+      "type": "person",
+      "name": "Ashley Evans",
+      "slug": "ashley-evans"
+    },
+    {
+      "id": "person_andrew_kowal",
+      "type": "person",
+      "name": "Andrew Kowal",
+      "slug": "andrew-kowal"
+    },
+    {
+      "id": "person_karl_shum",
+      "type": "person",
+      "name": "Karl Shum",
+      "slug": "karl-shum"
+    },
+    {
+      "id": "person_christine_wang",
+      "type": "person",
+      "name": "Christine Wang",
+      "slug": "christine-wang"
+    },
+    {
+      "id": "person_graham_weaver",
+      "type": "person",
+      "name": "Graham Weaver",
+      "slug": "graham-weaver"
+    },
+    {
+      "id": "person_adam_shaw",
+      "type": "person",
+      "name": "Adam Shaw",
+      "slug": "adam-shaw"
+    },
+    {
+      "id": "person_david_wilkie",
+      "type": "person",
+      "name": "David Wilkie",
+      "slug": "david-wilkie"
+    },
+    {
+      "id": "person_ken_davis",
+      "type": "person",
+      "name": "Ken Davis",
+      "slug": "ken-davis"
+    },
+    {
+      "id": "person_andrew_tisdale",
+      "type": "person",
+      "name": "Andrew Tisdale",
+      "slug": "andrew-tisdale"
+    },
+    {
+      "id": "person_james_redmayne",
+      "type": "person",
+      "name": "James Redmayne",
+      "slug": "james-redmayne"
+    },
+    {
+      "id": "person_lionel_assant",
+      "type": "person",
+      "name": "Lionel Assant",
+      "slug": "lionel-assant"
+    },
+    {
+      "id": "person_robert_leeming",
+      "type": "person",
+      "name": "Robert Leeming",
+      "slug": "robert-leeming"
+    },
+    {
+      "id": "person_robert_sorrell",
+      "type": "person",
+      "name": "Robert Sorrell",
+      "slug": "robert-sorrell"
+    },
+    {
+      "id": "person_geoffrey_austin",
+      "type": "person",
+      "name": "Geoffrey Austin",
+      "slug": "geoffrey-austin"
+    },
+    {
+      "id": "person_elliot_richmond",
+      "type": "person",
+      "name": "Elliot Richmond",
+      "slug": "elliot-richmond"
+    },
+    {
+      "id": "person_rich_newman",
+      "type": "person",
+      "name": "Rich Newman",
+      "slug": "rich-newman"
+    },
+    {
+      "id": "person_nick_harper",
+      "type": "person",
+      "name": "Nick Harper",
+      "slug": "nick-harper"
+    },
+    {
+      "id": "person_jonny_baynes",
+      "type": "person",
+      "name": "Jonny Baynes",
+      "slug": "jonny-baynes"
+    },
+    {
+      "id": "person_sam_feary",
+      "type": "person",
+      "name": "Sam Feary",
+      "slug": "sam-feary"
+    },
+    {
+      "id": "person_gavin_gordon",
+      "type": "person",
+      "name": "Gavin Gordon",
+      "slug": "gavin-gordon"
+    },
+    {
+      "id": "person_andrew_gray",
+      "type": "person",
+      "name": "Andrew Gray",
+      "slug": "andrew-gray"
+    },
+    {
+      "id": "person_ashley_young",
+      "type": "person",
+      "name": "Ashley Young",
+      "slug": "ashley-young"
+    },
+    {
+      "id": "person_rustom_kharegat",
+      "type": "person",
+      "name": "Rustom Kharegat",
+      "slug": "rustom-kharegat"
+    },
+    {
+      "id": "person_aseem_adya",
+      "type": "person",
+      "name": "Aseem Adya",
+      "slug": "aseem-adya"
+    },
+    {
+      "id": "person_andre_kong",
+      "type": "person",
+      "name": "Andre Kong",
+      "slug": "andre-kong"
+    },
+    {
+      "id": "provider_baird",
+      "type": "provider",
+      "name": "Baird",
+      "slug": "baird"
+    },
+    {
+      "id": "provider_harris_williams",
+      "type": "provider",
+      "name": "Harris Williams",
+      "slug": "harris-williams"
+    },
+    {
+      "id": "provider_debevoise",
+      "type": "provider",
+      "name": "Debevoise & Plimpton",
+      "slug": "debevoise-plimpton"
+    },
+    {
+      "id": "provider_pwp",
+      "type": "provider",
+      "name": "Perella Weinberg Partners",
+      "slug": "perella-weinberg-partners"
+    },
+    {
+      "id": "provider_deutsche_bank",
+      "type": "provider",
+      "name": "Deutsche Bank",
+      "slug": "deutsche-bank"
+    },
+    {
+      "id": "provider_goldman_sachs",
+      "type": "provider",
+      "name": "Goldman Sachs",
+      "slug": "goldman-sachs"
+    },
+    {
+      "id": "provider_numis",
+      "type": "provider",
+      "name": "Numis",
+      "slug": "numis"
+    },
+    {
+      "id": "provider_plural",
+      "type": "provider",
+      "name": "Plural Strategy",
+      "slug": "plural-strategy"
+    },
+    {
+      "id": "provider_willkie",
+      "type": "provider",
+      "name": "Willkie Farr & Gallagher",
+      "slug": "willkie-farr-gallagher"
+    },
+    {
+      "id": "provider_fti",
+      "type": "provider",
+      "name": "FTI Consulting",
+      "slug": "fti-consulting"
+    },
+    {
+      "id": "provider_hayfin",
+      "type": "provider",
+      "name": "Hayfin",
+      "slug": "hayfin"
+    },
+    {
+      "id": "provider_addleshaw",
+      "type": "provider",
+      "name": "Addleshaw Goddard",
+      "slug": "addleshaw-goddard"
+    },
+    {
+      "id": "provider_dc_advisory",
+      "type": "provider",
+      "name": "DC Advisory",
+      "slug": "dc-advisory"
+    },
+    {
+      "id": "provider_weil",
+      "type": "provider",
+      "name": "Weil, Gotshal & Manges",
+      "slug": "weil-gotshal-manges"
+    },
+    {
+      "id": "provider_liontree",
+      "type": "provider",
+      "name": "LionTree",
+      "slug": "liontree"
+    },
+    {
+      "id": "provider_moelis",
+      "type": "provider",
+      "name": "Moelis & Company",
+      "slug": "moelis-company"
+    },
+    {
+      "id": "provider_peel_hunt",
+      "type": "provider",
+      "name": "Peel Hunt",
+      "slug": "peel-hunt"
+    },
+    {
+      "id": "provider_aando",
+      "type": "provider",
+      "name": "Allen & Overy",
+      "slug": "allen-overy"
+    },
+    {
+      "id": "provider_carey_olsen",
+      "type": "provider",
+      "name": "Carey Olsen",
+      "slug": "carey-olsen"
+    },
+    {
+      "id": "provider_macfarlanes",
+      "type": "provider",
+      "name": "Macfarlanes",
+      "slug": "macfarlanes"
+    },
+    {
+      "id": "provider_ogier",
+      "type": "provider",
+      "name": "Ogier",
+      "slug": "ogier"
+    },
+    {
+      "id": "provider_travers_smith",
+      "type": "provider",
+      "name": "Travers Smith",
+      "slug": "travers-smith"
+    },
+    {
+      "id": "provider_raymond_james",
+      "type": "provider",
+      "name": "Raymond James",
+      "slug": "raymond-james"
+    },
+    {
+      "id": "provider_deloitte",
+      "type": "provider",
+      "name": "Deloitte",
+      "slug": "deloitte"
+    },
+    {
+      "id": "provider_amr",
+      "type": "provider",
+      "name": "AMR International",
+      "slug": "amr-international"
+    },
+    {
+      "id": "deal_world50_mscp_2020",
+      "type": "deal",
+      "name": "Morgan Stanley Capital Partners invests in World 50",
+      "slug": "world-50-mscp-2020"
+    },
+    {
+      "id": "deal_world50_continuation_2024",
+      "type": "deal",
+      "name": "World 50 moves into an MSCP continuation vehicle",
+      "slug": "world-50-continuation-2024"
+    },
+    {
+      "id": "deal_hyve_2023",
+      "type": "deal",
+      "name": "Providence and Searchlight acquire Hyve Group",
+      "slug": "hyve-providence-searchlight-2023"
+    },
+    {
+      "id": "deal_hyve_hf_2026",
+      "type": "deal",
+      "name": "Hellman & Friedman agrees to acquire Hyve Group",
+      "slug": "hyve-hellman-friedman-2026"
+    },
+    {
+      "id": "deal_closerstill_2018",
+      "type": "deal",
+      "name": "Providence acquires a majority stake in CloserStill Media",
+      "slug": "closerstill-providence-2018"
+    },
+    {
+      "id": "deal_closerstill_2026",
+      "type": "deal",
+      "name": "Searchlight agrees to invest in CloserStill alongside Providence",
+      "slug": "closerstill-searchlight-2026"
+    },
+    {
+      "id": "deal_clarion_2017",
+      "type": "deal",
+      "name": "Blackstone acquires Clarion Events from Providence",
+      "slug": "clarion-blackstone-2017"
+    },
+    {
+      "id": "deal_tarsus_2019",
+      "type": "deal",
+      "name": "Charterhouse takes Tarsus private",
+      "slug": "tarsus-charterhouse-2019"
+    },
+    {
+      "id": "deal_tarsus_2023",
+      "type": "deal",
+      "name": "Charterhouse agrees sale of Tarsus to Informa",
+      "slug": "tarsus-informa-2023"
+    },
+    {
+      "id": "deal_pei_2018",
+      "type": "deal",
+      "name": "Bridgepoint acquires a majority stake in PEI Media",
+      "slug": "pei-media-bridgepoint-2018"
+    },
+    {
+      "id": "deal_pei_2023",
+      "type": "deal",
+      "name": "Bridgepoint provides further funding to PEI Group",
+      "slug": "pei-group-bridgepoint-follow-on-2023"
+    },
+    {
+      "id": "deal_emerald_2013",
+      "type": "deal",
+      "name": "Onex acquires Nielsen Expositions, later rebranded Emerald",
+      "slug": "nielsen-expositions-onex-2013"
+    }
+  ],
+  "edges": [
+    {
+      "from": "deal_world50_mscp_2020",
+      "to": "company_world50",
+      "type": "targets",
+      "source_ids": [
+        "src_world50_continuation_2024"
+      ]
+    },
+    {
+      "from": "firm_mscp",
+      "to": "deal_world50_mscp_2020",
+      "type": "buyer",
+      "source_ids": [
+        "src_world50_continuation_2024"
+      ]
+    },
+    {
+      "from": "deal_world50_continuation_2024",
+      "to": "company_world50",
+      "type": "targets",
+      "source_ids": [
+        "src_world50_continuation_2024"
+      ]
+    },
+    {
+      "from": "firm_mscp",
+      "to": "deal_world50_continuation_2024",
+      "type": "buyer",
+      "source_ids": [
+        "src_world50_continuation_2024"
+      ]
+    },
+    {
+      "from": "firm_mscp",
+      "to": "deal_world50_continuation_2024",
+      "type": "seller",
+      "source_ids": [
+        "src_world50_continuation_2024"
+      ]
+    },
+    {
+      "from": "provider_baird",
+      "to": "deal_world50_continuation_2024",
+      "type": "provider",
+      "role": "lead transaction adviser",
+      "side": "company_and_sponsor",
+      "source_ids": [
+        "src_world50_continuation_2024"
+      ]
+    },
+    {
+      "from": "provider_harris_williams",
+      "to": "deal_world50_continuation_2024",
+      "type": "provider",
+      "role": "industry adviser",
+      "side": "company_and_sponsor",
+      "source_ids": [
+        "src_world50_continuation_2024"
+      ]
+    },
+    {
+      "from": "provider_debevoise",
+      "to": "deal_world50_continuation_2024",
+      "type": "provider",
+      "role": "legal adviser",
+      "side": "company_and_sponsor",
+      "source_ids": [
+        "src_world50_continuation_2024"
+      ]
+    },
+    {
+      "from": "person_adam_shaw",
+      "to": "deal_world50_continuation_2024",
+      "type": "official_transaction_spokesperson",
+      "organization": "Morgan Stanley Capital Partners",
+      "source_ids": [
+        "src_world50_continuation_2024"
+      ]
+    },
+    {
+      "from": "person_david_wilkie",
+      "to": "deal_world50_continuation_2024",
+      "type": "official_transaction_spokesperson",
+      "organization": "World 50",
+      "source_ids": [
+        "src_world50_continuation_2024"
+      ]
+    },
+    {
+      "from": "person_ken_davis",
+      "to": "deal_world50_continuation_2024",
+      "type": "official_transaction_spokesperson",
+      "organization": "World 50",
+      "source_ids": [
+        "src_world50_continuation_2024"
+      ]
+    },
+    {
+      "from": "deal_hyve_2023",
+      "to": "company_hyve",
+      "type": "targets",
+      "source_ids": [
+        "src_hyve_take_private_2023",
+        "src_hyve_fca_2023",
+        "src_hyve_plural_2023",
+        "src_hyve_willkie_2023"
+      ]
+    },
+    {
+      "from": "firm_providence",
+      "to": "deal_hyve_2023",
+      "type": "buyer",
+      "source_ids": [
+        "src_hyve_take_private_2023",
+        "src_hyve_fca_2023",
+        "src_hyve_plural_2023",
+        "src_hyve_willkie_2023"
+      ]
+    },
+    {
+      "from": "firm_searchlight",
+      "to": "deal_hyve_2023",
+      "type": "buyer",
+      "source_ids": [
+        "src_hyve_take_private_2023",
+        "src_hyve_fca_2023",
+        "src_hyve_plural_2023",
+        "src_hyve_willkie_2023"
+      ]
+    },
+    {
+      "from": "provider_pwp",
+      "to": "deal_hyve_2023",
+      "type": "provider",
+      "role": "financial adviser",
+      "side": "buyer",
+      "source_ids": [
+        "src_hyve_fca_2023"
+      ]
+    },
+    {
+      "from": "provider_deutsche_bank",
+      "to": "deal_hyve_2023",
+      "type": "provider",
+      "role": "financial adviser",
+      "side": "buyer",
+      "source_ids": [
+        "src_hyve_fca_2023"
+      ]
+    },
+    {
+      "from": "provider_goldman_sachs",
+      "to": "deal_hyve_2023",
+      "type": "provider",
+      "role": "financial adviser",
+      "side": "seller",
+      "source_ids": [
+        "src_hyve_fca_2023"
+      ]
+    },
+    {
+      "from": "provider_numis",
+      "to": "deal_hyve_2023",
+      "type": "provider",
+      "role": "financial adviser",
+      "side": "seller",
+      "source_ids": [
+        "src_hyve_fca_2023"
+      ]
+    },
+    {
+      "from": "provider_plural",
+      "to": "deal_hyve_2023",
+      "type": "provider",
+      "role": "commercial due diligence",
+      "side": "buyer",
+      "source_ids": [
+        "src_hyve_plural_2023"
+      ]
+    },
+    {
+      "from": "provider_willkie",
+      "to": "deal_hyve_2023",
+      "type": "provider",
+      "role": "legal adviser to Searchlight",
+      "side": "buyer",
+      "source_ids": [
+        "src_hyve_willkie_2023"
+      ]
+    },
+    {
+      "from": "provider_hayfin",
+      "to": "deal_hyve_2023",
+      "type": "provider",
+      "role": "debt financing",
+      "side": "buyer",
+      "source_ids": [
+        "src_hyve_fca_2023"
+      ]
+    },
+    {
+      "from": "person_nick_harper",
+      "to": "deal_hyve_2023",
+      "type": "named_adviser",
+      "organization": "Goldman Sachs",
+      "source_ids": [
+        "src_hyve_fca_2023"
+      ]
+    },
+    {
+      "from": "person_jonny_baynes",
+      "to": "deal_hyve_2023",
+      "type": "named_deal_team",
+      "organization": "Plural Strategy",
+      "source_ids": [
+        "src_hyve_plural_2023"
+      ]
+    },
+    {
+      "from": "person_sam_feary",
+      "to": "deal_hyve_2023",
+      "type": "named_deal_team",
+      "organization": "Plural Strategy",
+      "source_ids": [
+        "src_hyve_plural_2023"
+      ]
+    },
+    {
+      "from": "person_gavin_gordon",
+      "to": "deal_hyve_2023",
+      "type": "named_adviser",
+      "organization": "Willkie Farr & Gallagher",
+      "source_ids": [
+        "src_hyve_willkie_2023"
+      ]
+    },
+    {
+      "from": "person_andrew_gray",
+      "to": "deal_hyve_2023",
+      "type": "named_adviser",
+      "organization": "Willkie Farr & Gallagher",
+      "source_ids": [
+        "src_hyve_willkie_2023"
+      ]
+    },
+    {
+      "from": "person_ashley_young",
+      "to": "deal_hyve_2023",
+      "type": "named_adviser",
+      "organization": "Willkie Farr & Gallagher",
+      "source_ids": [
+        "src_hyve_willkie_2023"
+      ]
+    },
+    {
+      "from": "deal_hyve_hf_2026",
+      "to": "company_hyve",
+      "type": "targets",
+      "source_ids": [
+        "src_hyve_hf_2026",
+        "src_hyve_fti_2026",
+        "src_hyve_hayfin_2026"
+      ]
+    },
+    {
+      "from": "firm_hf",
+      "to": "deal_hyve_hf_2026",
+      "type": "buyer",
+      "source_ids": [
+        "src_hyve_hf_2026",
+        "src_hyve_fti_2026",
+        "src_hyve_hayfin_2026"
+      ]
+    },
+    {
+      "from": "firm_providence",
+      "to": "deal_hyve_hf_2026",
+      "type": "seller",
+      "source_ids": [
+        "src_hyve_hf_2026",
+        "src_hyve_fti_2026",
+        "src_hyve_hayfin_2026"
+      ]
+    },
+    {
+      "from": "firm_searchlight",
+      "to": "deal_hyve_hf_2026",
+      "type": "seller",
+      "source_ids": [
+        "src_hyve_hf_2026",
+        "src_hyve_fti_2026",
+        "src_hyve_hayfin_2026"
+      ]
+    },
+    {
+      "from": "provider_fti",
+      "to": "deal_hyve_hf_2026",
+      "type": "provider",
+      "role": "vendor financial due diligence",
+      "side": "seller",
+      "source_ids": [
+        "src_hyve_fti_2026"
+      ]
+    },
+    {
+      "from": "provider_hayfin",
+      "to": "deal_hyve_hf_2026",
+      "type": "provider",
+      "role": "debt financing",
+      "side": "buyer",
+      "source_ids": [
+        "src_hyve_hayfin_2026"
+      ]
+    },
+    {
+      "from": "person_rustom_kharegat",
+      "to": "deal_hyve_hf_2026",
+      "type": "named_deal_team",
+      "organization": "FTI Consulting",
+      "source_ids": [
+        "src_hyve_fti_2026"
+      ]
+    },
+    {
+      "from": "person_aseem_adya",
+      "to": "deal_hyve_hf_2026",
+      "type": "named_deal_team",
+      "organization": "FTI Consulting",
+      "source_ids": [
+        "src_hyve_fti_2026"
+      ]
+    },
+    {
+      "from": "person_andre_kong",
+      "to": "deal_hyve_hf_2026",
+      "type": "named_deal_team",
+      "organization": "FTI Consulting",
+      "source_ids": [
+        "src_hyve_fti_2026"
+      ]
+    },
+    {
+      "from": "deal_closerstill_2018",
+      "to": "company_closerstill",
+      "type": "targets",
+      "source_ids": [
+        "src_closerstill_providence_2018"
+      ]
+    },
+    {
+      "from": "firm_providence",
+      "to": "deal_closerstill_2018",
+      "type": "buyer",
+      "source_ids": [
+        "src_closerstill_providence_2018"
+      ]
+    },
+    {
+      "from": "provider_weil",
+      "to": "deal_closerstill_2018",
+      "type": "provider",
+      "role": "legal adviser",
+      "side": "buyer",
+      "source_ids": [
+        "src_closerstill_providence_2018"
+      ]
+    },
+    {
+      "from": "provider_liontree",
+      "to": "deal_closerstill_2018",
+      "type": "provider",
+      "role": "financial adviser",
+      "side": "buyer",
+      "source_ids": [
+        "src_closerstill_providence_2018"
+      ]
+    },
+    {
+      "from": "provider_addleshaw",
+      "to": "deal_closerstill_2018",
+      "type": "provider",
+      "role": "legal adviser",
+      "side": "seller",
+      "source_ids": [
+        "src_closerstill_providence_2018"
+      ]
+    },
+    {
+      "from": "provider_dc_advisory",
+      "to": "deal_closerstill_2018",
+      "type": "provider",
+      "role": "financial adviser",
+      "side": "seller",
+      "source_ids": [
+        "src_closerstill_providence_2018"
+      ]
+    },
+    {
+      "from": "person_andrew_tisdale",
+      "to": "deal_closerstill_2018",
+      "type": "official_transaction_spokesperson",
+      "organization": "Providence Equity Partners",
+      "source_ids": [
+        "src_closerstill_providence_2018"
+      ]
+    },
+    {
+      "from": "deal_closerstill_2026",
+      "to": "company_closerstill",
+      "type": "targets",
+      "source_ids": [
+        "src_closerstill_searchlight_2026",
+        "src_closerstill_hayfin_2026"
+      ]
+    },
+    {
+      "from": "firm_searchlight",
+      "to": "deal_closerstill_2026",
+      "type": "buyer",
+      "source_ids": [
+        "src_closerstill_searchlight_2026",
+        "src_closerstill_hayfin_2026"
+      ]
+    },
+    {
+      "from": "firm_providence",
+      "to": "deal_closerstill_2026",
+      "type": "buyer",
+      "source_ids": [
+        "src_closerstill_searchlight_2026",
+        "src_closerstill_hayfin_2026"
+      ]
+    },
+    {
+      "from": "provider_hayfin",
+      "to": "deal_closerstill_2026",
+      "type": "provider",
+      "role": "debt financing",
+      "side": "buyer",
+      "source_ids": [
+        "src_closerstill_hayfin_2026"
+      ]
+    },
+    {
+      "from": "person_james_redmayne",
+      "to": "deal_closerstill_2026",
+      "type": "official_transaction_spokesperson",
+      "organization": "Searchlight Capital Partners",
+      "source_ids": [
+        "src_closerstill_searchlight_2026"
+      ]
+    },
+    {
+      "from": "deal_clarion_2017",
+      "to": "company_clarion",
+      "type": "targets",
+      "source_ids": [
+        "src_clarion_blackstone_2017"
+      ]
+    },
+    {
+      "from": "firm_blackstone",
+      "to": "deal_clarion_2017",
+      "type": "buyer",
+      "source_ids": [
+        "src_clarion_blackstone_2017"
+      ]
+    },
+    {
+      "from": "firm_providence",
+      "to": "deal_clarion_2017",
+      "type": "seller",
+      "source_ids": [
+        "src_clarion_blackstone_2017"
+      ]
+    },
+    {
+      "from": "person_lionel_assant",
+      "to": "deal_clarion_2017",
+      "type": "official_transaction_spokesperson",
+      "organization": "Blackstone",
+      "source_ids": [
+        "src_clarion_blackstone_2017"
+      ]
+    },
+    {
+      "from": "person_andrew_tisdale",
+      "to": "deal_clarion_2017",
+      "type": "official_transaction_spokesperson",
+      "organization": "Providence Equity Partners",
+      "source_ids": [
+        "src_clarion_blackstone_2017"
+      ]
+    },
+    {
+      "from": "deal_tarsus_2019",
+      "to": "company_tarsus",
+      "type": "targets",
+      "source_ids": [
+        "src_tarsus_2019"
+      ]
+    },
+    {
+      "from": "firm_charterhouse",
+      "to": "deal_tarsus_2019",
+      "type": "buyer",
+      "source_ids": [
+        "src_tarsus_2019"
+      ]
+    },
+    {
+      "from": "provider_moelis",
+      "to": "deal_tarsus_2019",
+      "type": "provider",
+      "role": "lead financial adviser",
+      "side": "buyer",
+      "source_ids": [
+        "src_tarsus_2019"
+      ]
+    },
+    {
+      "from": "provider_goldman_sachs",
+      "to": "deal_tarsus_2019",
+      "type": "provider",
+      "role": "financial adviser and financing provider",
+      "side": "buyer",
+      "source_ids": [
+        "src_tarsus_2019"
+      ]
+    },
+    {
+      "from": "provider_deutsche_bank",
+      "to": "deal_tarsus_2019",
+      "type": "provider",
+      "role": "financial adviser",
+      "side": "seller",
+      "source_ids": [
+        "src_tarsus_2019"
+      ]
+    },
+    {
+      "from": "provider_peel_hunt",
+      "to": "deal_tarsus_2019",
+      "type": "provider",
+      "role": "financial adviser",
+      "side": "seller",
+      "source_ids": [
+        "src_tarsus_2019"
+      ]
+    },
+    {
+      "from": "provider_aando",
+      "to": "deal_tarsus_2019",
+      "type": "provider",
+      "role": "legal adviser",
+      "side": "buyer",
+      "source_ids": [
+        "src_tarsus_2019"
+      ]
+    },
+    {
+      "from": "provider_carey_olsen",
+      "to": "deal_tarsus_2019",
+      "type": "provider",
+      "role": "legal adviser",
+      "side": "buyer",
+      "source_ids": [
+        "src_tarsus_2019"
+      ]
+    },
+    {
+      "from": "provider_macfarlanes",
+      "to": "deal_tarsus_2019",
+      "type": "provider",
+      "role": "legal adviser",
+      "side": "seller",
+      "source_ids": [
+        "src_tarsus_2019"
+      ]
+    },
+    {
+      "from": "provider_ogier",
+      "to": "deal_tarsus_2019",
+      "type": "provider",
+      "role": "legal adviser",
+      "side": "seller",
+      "source_ids": [
+        "src_tarsus_2019"
+      ]
+    },
+    {
+      "from": "person_robert_leeming",
+      "to": "deal_tarsus_2019",
+      "type": "official_transaction_spokesperson",
+      "organization": "Charterhouse Capital Partners",
+      "source_ids": [
+        "src_tarsus_2019"
+      ]
+    },
+    {
+      "from": "person_robert_sorrell",
+      "to": "deal_tarsus_2019",
+      "type": "named_adviser",
+      "organization": "Moelis & Company",
+      "source_ids": [
+        "src_tarsus_2019"
+      ]
+    },
+    {
+      "from": "person_geoffrey_austin",
+      "to": "deal_tarsus_2019",
+      "type": "named_adviser",
+      "organization": "Moelis & Company",
+      "source_ids": [
+        "src_tarsus_2019"
+      ]
+    },
+    {
+      "from": "person_elliot_richmond",
+      "to": "deal_tarsus_2019",
+      "type": "named_adviser",
+      "organization": "Moelis & Company",
+      "source_ids": [
+        "src_tarsus_2019"
+      ]
+    },
+    {
+      "from": "person_rich_newman",
+      "to": "deal_tarsus_2019",
+      "type": "named_adviser",
+      "organization": "Moelis & Company",
+      "source_ids": [
+        "src_tarsus_2019"
+      ]
+    },
+    {
+      "from": "person_nick_harper",
+      "to": "deal_tarsus_2019",
+      "type": "named_adviser",
+      "organization": "Goldman Sachs",
+      "source_ids": [
+        "src_tarsus_2019"
+      ]
+    },
+    {
+      "from": "deal_tarsus_2023",
+      "to": "company_tarsus",
+      "type": "targets",
+      "source_ids": [
+        "src_tarsus_exit_2023"
+      ]
+    },
+    {
+      "from": "firm_informa",
+      "to": "deal_tarsus_2023",
+      "type": "buyer",
+      "source_ids": [
+        "src_tarsus_exit_2023"
+      ]
+    },
+    {
+      "from": "firm_charterhouse",
+      "to": "deal_tarsus_2023",
+      "type": "seller",
+      "source_ids": [
+        "src_tarsus_exit_2023"
+      ]
+    },
+    {
+      "from": "deal_pei_2018",
+      "to": "company_pei",
+      "type": "targets",
+      "source_ids": [
+        "src_pei_bridgepoint_2018"
+      ]
+    },
+    {
+      "from": "firm_bridgepoint",
+      "to": "deal_pei_2018",
+      "type": "buyer",
+      "source_ids": [
+        "src_pei_bridgepoint_2018"
+      ]
+    },
+    {
+      "from": "provider_travers_smith",
+      "to": "deal_pei_2018",
+      "type": "provider",
+      "role": "legal adviser",
+      "side": "buyer",
+      "source_ids": [
+        "src_pei_bridgepoint_2018"
+      ]
+    },
+    {
+      "from": "provider_raymond_james",
+      "to": "deal_pei_2018",
+      "type": "provider",
+      "role": "corporate finance adviser",
+      "side": "buyer",
+      "source_ids": [
+        "src_pei_bridgepoint_2018"
+      ]
+    },
+    {
+      "from": "provider_deloitte",
+      "to": "deal_pei_2018",
+      "type": "provider",
+      "role": "financial and tax due diligence",
+      "side": "buyer",
+      "source_ids": [
+        "src_pei_bridgepoint_2018"
+      ]
+    },
+    {
+      "from": "provider_amr",
+      "to": "deal_pei_2018",
+      "type": "provider",
+      "role": "commercial due diligence",
+      "side": "buyer",
+      "source_ids": [
+        "src_pei_bridgepoint_2018"
+      ]
+    },
+    {
+      "from": "deal_pei_2023",
+      "to": "company_pei",
+      "type": "targets",
+      "source_ids": [
+        "src_pei_followon_2023"
+      ]
+    },
+    {
+      "from": "firm_bridgepoint",
+      "to": "deal_pei_2023",
+      "type": "buyer",
+      "source_ids": [
+        "src_pei_followon_2023"
+      ]
+    },
+    {
+      "from": "deal_emerald_2013",
+      "to": "company_emerald",
+      "type": "targets",
+      "source_ids": [
+        "src_emerald_sec_2017"
+      ]
+    },
+    {
+      "from": "firm_onex",
+      "to": "deal_emerald_2013",
+      "type": "buyer",
+      "source_ids": [
+        "src_emerald_sec_2017"
+      ]
+    }
+  ]
+}

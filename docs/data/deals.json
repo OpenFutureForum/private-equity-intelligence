@@ -1,0 +1,685 @@
+[
+  {
+    "id": "deal_world50_mscp_2020",
+    "slug": "world-50-mscp-2020",
+    "title": "Morgan Stanley Capital Partners invests in World 50",
+    "target_company_id": "company_world50",
+    "announced_on": "2020",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_mscp"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "An invitation-only executive network built around trusted peer exchange, membership relationships and knowledge access.",
+    "provider_roles": [],
+    "people_roles": [],
+    "source_ids": [
+      "src_world50_continuation_2024"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_world50_continuation_2024",
+    "slug": "world-50-continuation-2024",
+    "title": "World 50 moves into an MSCP continuation vehicle",
+    "target_company_id": "company_world50",
+    "announced_on": "2024-03-26",
+    "completed_on": "2024-03-26",
+    "status": "completed",
+    "transaction_type": "continuation_fund_transaction",
+    "buyer_firm_ids": [
+      "firm_mscp"
+    ],
+    "seller_firm_ids": [
+      "firm_mscp"
+    ],
+    "buyer_names": [
+      "Pantheon-led investor group",
+      "Blue Owl Strategic Equity",
+      "Lexington Partners",
+      "Norwest",
+      "Ares Management funds",
+      "AltamarCAM Partners",
+      "Churchill Asset Management"
+    ],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Extended ownership of an executive-network platform to support further product, membership and acquisition-led growth.",
+    "provider_roles": [
+      {
+        "provider_id": "provider_baird",
+        "role": "lead transaction adviser",
+        "side": "company_and_sponsor",
+        "source_id": "src_world50_continuation_2024"
+      },
+      {
+        "provider_id": "provider_harris_williams",
+        "role": "industry adviser",
+        "side": "company_and_sponsor",
+        "source_id": "src_world50_continuation_2024"
+      },
+      {
+        "provider_id": "provider_debevoise",
+        "role": "legal adviser",
+        "side": "company_and_sponsor",
+        "source_id": "src_world50_continuation_2024"
+      }
+    ],
+    "people_roles": [
+      {
+        "person_id": "person_adam_shaw",
+        "label": "official_transaction_spokesperson",
+        "organization": "Morgan Stanley Capital Partners",
+        "attribution": "Named and quoted in the official transaction announcement.",
+        "source_id": "src_world50_continuation_2024"
+      },
+      {
+        "person_id": "person_david_wilkie",
+        "label": "official_transaction_spokesperson",
+        "organization": "World 50",
+        "attribution": "Named and quoted in the official transaction announcement.",
+        "source_id": "src_world50_continuation_2024"
+      },
+      {
+        "person_id": "person_ken_davis",
+        "label": "official_transaction_spokesperson",
+        "organization": "World 50",
+        "attribution": "Named and quoted in the official transaction announcement.",
+        "source_id": "src_world50_continuation_2024"
+      }
+    ],
+    "source_ids": [
+      "src_world50_continuation_2024"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_hyve_2023",
+    "slug": "hyve-providence-searchlight-2023",
+    "title": "Providence and Searchlight acquire Hyve Group",
+    "target_company_id": "company_hyve",
+    "announced_on": "2023-03-15",
+    "completed_on": "2023-06-08",
+    "status": "completed",
+    "transaction_type": "public_to_private",
+    "buyer_firm_ids": [
+      "firm_providence",
+      "firm_searchlight"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [
+      "Public shareholders of Hyve Group plc"
+    ],
+    "enterprise_value": {
+      "amount": 524000000,
+      "currency": "GBP",
+      "display": "approximately £524 million"
+    },
+    "investment_thesis": "A portfolio of market-leading event brands that convene industry ecosystems and combine live experiences with digital capabilities.",
+    "provider_roles": [
+      {
+        "provider_id": "provider_pwp",
+        "role": "financial adviser",
+        "side": "buyer",
+        "source_id": "src_hyve_fca_2023"
+      },
+      {
+        "provider_id": "provider_deutsche_bank",
+        "role": "financial adviser",
+        "side": "buyer",
+        "source_id": "src_hyve_fca_2023"
+      },
+      {
+        "provider_id": "provider_goldman_sachs",
+        "role": "financial adviser",
+        "side": "seller",
+        "source_id": "src_hyve_fca_2023"
+      },
+      {
+        "provider_id": "provider_numis",
+        "role": "financial adviser",
+        "side": "seller",
+        "source_id": "src_hyve_fca_2023"
+      },
+      {
+        "provider_id": "provider_plural",
+        "role": "commercial due diligence",
+        "side": "buyer",
+        "source_id": "src_hyve_plural_2023"
+      },
+      {
+        "provider_id": "provider_willkie",
+        "role": "legal adviser to Searchlight",
+        "side": "buyer",
+        "source_id": "src_hyve_willkie_2023"
+      },
+      {
+        "provider_id": "provider_hayfin",
+        "role": "debt financing",
+        "side": "buyer",
+        "source_id": "src_hyve_fca_2023"
+      }
+    ],
+    "people_roles": [
+      {
+        "person_id": "person_nick_harper",
+        "label": "named_adviser",
+        "organization": "Goldman Sachs",
+        "attribution": "Named in the public transaction document.",
+        "source_id": "src_hyve_fca_2023"
+      },
+      {
+        "person_id": "person_jonny_baynes",
+        "label": "named_deal_team",
+        "organization": "Plural Strategy",
+        "attribution": "Named by Plural Strategy on its commercial-diligence engagement.",
+        "source_id": "src_hyve_plural_2023"
+      },
+      {
+        "person_id": "person_sam_feary",
+        "label": "named_deal_team",
+        "organization": "Plural Strategy",
+        "attribution": "Named by Plural Strategy on its commercial-diligence engagement.",
+        "source_id": "src_hyve_plural_2023"
+      },
+      {
+        "person_id": "person_gavin_gordon",
+        "label": "named_adviser",
+        "organization": "Willkie Farr & Gallagher",
+        "attribution": "Named in Willkie's transaction announcement.",
+        "source_id": "src_hyve_willkie_2023"
+      },
+      {
+        "person_id": "person_andrew_gray",
+        "label": "named_adviser",
+        "organization": "Willkie Farr & Gallagher",
+        "attribution": "Named in Willkie's transaction announcement.",
+        "source_id": "src_hyve_willkie_2023"
+      },
+      {
+        "person_id": "person_ashley_young",
+        "label": "named_adviser",
+        "organization": "Willkie Farr & Gallagher",
+        "attribution": "Named in Willkie's transaction announcement.",
+        "source_id": "src_hyve_willkie_2023"
+      }
+    ],
+    "source_ids": [
+      "src_hyve_take_private_2023",
+      "src_hyve_fca_2023",
+      "src_hyve_plural_2023",
+      "src_hyve_willkie_2023"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_hyve_hf_2026",
+    "slug": "hyve-hellman-friedman-2026",
+    "title": "Hellman & Friedman agrees to acquire Hyve Group",
+    "target_company_id": "company_hyve",
+    "announced_on": "2026-06-02",
+    "completed_on": null,
+    "status": "announced",
+    "transaction_type": "sponsor_to_sponsor",
+    "buyer_firm_ids": [
+      "firm_hf"
+    ],
+    "seller_firm_ids": [
+      "firm_providence",
+      "firm_searchlight"
+    ],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Continued investment in a global events platform that builds high-value communities and enables face-to-face business connections.",
+    "provider_roles": [
+      {
+        "provider_id": "provider_fti",
+        "role": "vendor financial due diligence",
+        "side": "seller",
+        "source_id": "src_hyve_fti_2026"
+      },
+      {
+        "provider_id": "provider_hayfin",
+        "role": "debt financing",
+        "side": "buyer",
+        "source_id": "src_hyve_hayfin_2026"
+      }
+    ],
+    "people_roles": [
+      {
+        "person_id": "person_rustom_kharegat",
+        "label": "named_deal_team",
+        "organization": "FTI Consulting",
+        "attribution": "Named in FTI Consulting's announcement of its vendor due-diligence role.",
+        "source_id": "src_hyve_fti_2026"
+      },
+      {
+        "person_id": "person_aseem_adya",
+        "label": "named_deal_team",
+        "organization": "FTI Consulting",
+        "attribution": "Named in FTI Consulting's announcement of its vendor due-diligence role.",
+        "source_id": "src_hyve_fti_2026"
+      },
+      {
+        "person_id": "person_andre_kong",
+        "label": "named_deal_team",
+        "organization": "FTI Consulting",
+        "attribution": "Named in FTI Consulting's announcement of its vendor due-diligence role.",
+        "source_id": "src_hyve_fti_2026"
+      }
+    ],
+    "source_ids": [
+      "src_hyve_hf_2026",
+      "src_hyve_fti_2026",
+      "src_hyve_hayfin_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_closerstill_2018",
+    "slug": "closerstill-providence-2018",
+    "title": "Providence acquires a majority stake in CloserStill Media",
+    "target_company_id": "company_closerstill",
+    "announced_on": "2018-12-20",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "majority_investment",
+    "buyer_firm_ids": [
+      "firm_providence"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [
+      "Inflexion",
+      "NVM Private Equity",
+      "management shareholders"
+    ],
+    "enterprise_value": null,
+    "investment_thesis": "A high-growth portfolio of sector-specialist business events supported by geographic and product expansion.",
+    "provider_roles": [
+      {
+        "provider_id": "provider_weil",
+        "role": "legal adviser",
+        "side": "buyer",
+        "source_id": "src_closerstill_providence_2018"
+      },
+      {
+        "provider_id": "provider_liontree",
+        "role": "financial adviser",
+        "side": "buyer",
+        "source_id": "src_closerstill_providence_2018"
+      },
+      {
+        "provider_id": "provider_addleshaw",
+        "role": "legal adviser",
+        "side": "seller",
+        "source_id": "src_closerstill_providence_2018"
+      },
+      {
+        "provider_id": "provider_dc_advisory",
+        "role": "financial adviser",
+        "side": "seller",
+        "source_id": "src_closerstill_providence_2018"
+      }
+    ],
+    "people_roles": [
+      {
+        "person_id": "person_andrew_tisdale",
+        "label": "official_transaction_spokesperson",
+        "organization": "Providence Equity Partners",
+        "attribution": "Named and quoted in Providence's transaction announcement.",
+        "source_id": "src_closerstill_providence_2018"
+      }
+    ],
+    "source_ids": [
+      "src_closerstill_providence_2018"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_closerstill_2026",
+    "slug": "closerstill-searchlight-2026",
+    "title": "Searchlight agrees to invest in CloserStill alongside Providence",
+    "target_company_id": "company_closerstill",
+    "announced_on": "2026-05-01",
+    "completed_on": null,
+    "status": "announced",
+    "transaction_type": "sponsor_investment",
+    "buyer_firm_ids": [
+      "firm_searchlight",
+      "firm_providence"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Backing a scaled events platform whose sector communities support relationships, content, data and repeat participation.",
+    "provider_roles": [
+      {
+        "provider_id": "provider_hayfin",
+        "role": "debt financing",
+        "side": "buyer",
+        "source_id": "src_closerstill_hayfin_2026"
+      }
+    ],
+    "people_roles": [
+      {
+        "person_id": "person_james_redmayne",
+        "label": "official_transaction_spokesperson",
+        "organization": "Searchlight Capital Partners",
+        "attribution": "Named and quoted in CloserStill's official announcement.",
+        "source_id": "src_closerstill_searchlight_2026"
+      }
+    ],
+    "source_ids": [
+      "src_closerstill_searchlight_2026",
+      "src_closerstill_hayfin_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_clarion_2017",
+    "slug": "clarion-blackstone-2017",
+    "title": "Blackstone acquires Clarion Events from Providence",
+    "target_company_id": "company_clarion",
+    "announced_on": "2017-07-24",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "sponsor_to_sponsor",
+    "buyer_firm_ids": [
+      "firm_blackstone"
+    ],
+    "seller_firm_ids": [
+      "firm_providence"
+    ],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "A scaled, sector-specialist exhibition platform with international expansion potential.",
+    "provider_roles": [],
+    "people_roles": [
+      {
+        "person_id": "person_lionel_assant",
+        "label": "official_transaction_spokesperson",
+        "organization": "Blackstone",
+        "attribution": "Named and quoted in Blackstone's official acquisition announcement.",
+        "source_id": "src_clarion_blackstone_2017"
+      },
+      {
+        "person_id": "person_andrew_tisdale",
+        "label": "official_transaction_spokesperson",
+        "organization": "Providence Equity Partners",
+        "attribution": "Named and quoted in Blackstone's official acquisition announcement.",
+        "source_id": "src_clarion_blackstone_2017"
+      }
+    ],
+    "source_ids": [
+      "src_clarion_blackstone_2017"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_tarsus_2019",
+    "slug": "tarsus-charterhouse-2019",
+    "title": "Charterhouse takes Tarsus private",
+    "target_company_id": "company_tarsus",
+    "announced_on": "2019-05-24",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "public_to_private",
+    "buyer_firm_ids": [
+      "firm_charterhouse"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [
+      "Public shareholders of Tarsus Group plc"
+    ],
+    "enterprise_value": {
+      "amount": 561000000,
+      "currency": "GBP",
+      "display": "approximately £561 million"
+    },
+    "investment_thesis": "Private ownership of an international portfolio of B2B exhibitions and professional communities.",
+    "provider_roles": [
+      {
+        "provider_id": "provider_moelis",
+        "role": "lead financial adviser",
+        "side": "buyer",
+        "source_id": "src_tarsus_2019"
+      },
+      {
+        "provider_id": "provider_goldman_sachs",
+        "role": "financial adviser and financing provider",
+        "side": "buyer",
+        "source_id": "src_tarsus_2019"
+      },
+      {
+        "provider_id": "provider_deutsche_bank",
+        "role": "financial adviser",
+        "side": "seller",
+        "source_id": "src_tarsus_2019"
+      },
+      {
+        "provider_id": "provider_peel_hunt",
+        "role": "financial adviser",
+        "side": "seller",
+        "source_id": "src_tarsus_2019"
+      },
+      {
+        "provider_id": "provider_aando",
+        "role": "legal adviser",
+        "side": "buyer",
+        "source_id": "src_tarsus_2019"
+      },
+      {
+        "provider_id": "provider_carey_olsen",
+        "role": "legal adviser",
+        "side": "buyer",
+        "source_id": "src_tarsus_2019"
+      },
+      {
+        "provider_id": "provider_macfarlanes",
+        "role": "legal adviser",
+        "side": "seller",
+        "source_id": "src_tarsus_2019"
+      },
+      {
+        "provider_id": "provider_ogier",
+        "role": "legal adviser",
+        "side": "seller",
+        "source_id": "src_tarsus_2019"
+      }
+    ],
+    "people_roles": [
+      {
+        "person_id": "person_robert_leeming",
+        "label": "official_transaction_spokesperson",
+        "organization": "Charterhouse Capital Partners",
+        "attribution": "Named and quoted in the public transaction announcement.",
+        "source_id": "src_tarsus_2019"
+      },
+      {
+        "person_id": "person_robert_sorrell",
+        "label": "named_adviser",
+        "organization": "Moelis & Company",
+        "attribution": "Named in the public transaction announcement.",
+        "source_id": "src_tarsus_2019"
+      },
+      {
+        "person_id": "person_geoffrey_austin",
+        "label": "named_adviser",
+        "organization": "Moelis & Company",
+        "attribution": "Named in the public transaction announcement.",
+        "source_id": "src_tarsus_2019"
+      },
+      {
+        "person_id": "person_elliot_richmond",
+        "label": "named_adviser",
+        "organization": "Moelis & Company",
+        "attribution": "Named in the public transaction announcement.",
+        "source_id": "src_tarsus_2019"
+      },
+      {
+        "person_id": "person_rich_newman",
+        "label": "named_adviser",
+        "organization": "Moelis & Company",
+        "attribution": "Named in the public transaction announcement.",
+        "source_id": "src_tarsus_2019"
+      },
+      {
+        "person_id": "person_nick_harper",
+        "label": "named_adviser",
+        "organization": "Goldman Sachs",
+        "attribution": "Named in the public transaction announcement.",
+        "source_id": "src_tarsus_2019"
+      }
+    ],
+    "source_ids": [
+      "src_tarsus_2019"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_tarsus_2023",
+    "slug": "tarsus-informa-2023",
+    "title": "Charterhouse agrees sale of Tarsus to Informa",
+    "target_company_id": "company_tarsus",
+    "announced_on": "2023-03-09",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "sponsor_exit_to_strategic",
+    "buyer_firm_ids": [
+      "firm_informa"
+    ],
+    "seller_firm_ids": [
+      "firm_charterhouse"
+    ],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": {
+      "amount": 940000000,
+      "currency": "USD",
+      "display": "$940 million"
+    },
+    "investment_thesis": "Strategic combination of complementary international B2B events portfolios.",
+    "provider_roles": [],
+    "people_roles": [],
+    "source_ids": [
+      "src_tarsus_exit_2023"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_pei_2018",
+    "slug": "pei-media-bridgepoint-2018",
+    "title": "Bridgepoint acquires a majority stake in PEI Media",
+    "target_company_id": "company_pei",
+    "announced_on": "2018-06-15",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "majority_investment",
+    "buyer_firm_ids": [
+      "firm_bridgepoint"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [
+      "Existing shareholders and management"
+    ],
+    "enterprise_value": null,
+    "investment_thesis": "A specialist private-markets information company combining publishing, data, events and professional networks.",
+    "provider_roles": [
+      {
+        "provider_id": "provider_travers_smith",
+        "role": "legal adviser",
+        "side": "buyer",
+        "source_id": "src_pei_bridgepoint_2018"
+      },
+      {
+        "provider_id": "provider_raymond_james",
+        "role": "corporate finance adviser",
+        "side": "buyer",
+        "source_id": "src_pei_bridgepoint_2018"
+      },
+      {
+        "provider_id": "provider_deloitte",
+        "role": "financial and tax due diligence",
+        "side": "buyer",
+        "source_id": "src_pei_bridgepoint_2018"
+      },
+      {
+        "provider_id": "provider_amr",
+        "role": "commercial due diligence",
+        "side": "buyer",
+        "source_id": "src_pei_bridgepoint_2018"
+      }
+    ],
+    "people_roles": [],
+    "source_ids": [
+      "src_pei_bridgepoint_2018"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_pei_2023",
+    "slug": "pei-group-bridgepoint-follow-on-2023",
+    "title": "Bridgepoint provides further funding to PEI Group",
+    "target_company_id": "company_pei",
+    "announced_on": "2023-12",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "follow_on_investment",
+    "buyer_firm_ids": [
+      "firm_bridgepoint"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Continued expansion of a data, subscription, events and community platform serving private markets.",
+    "provider_roles": [],
+    "people_roles": [],
+    "source_ids": [
+      "src_pei_followon_2023"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_emerald_2013",
+    "slug": "nielsen-expositions-onex-2013",
+    "title": "Onex acquires Nielsen Expositions, later rebranded Emerald",
+    "target_company_id": "company_emerald",
+    "announced_on": "2013",
+    "completed_on": "2013",
+    "status": "completed",
+    "transaction_type": "corporate_carve_out",
+    "buyer_firm_ids": [
+      "firm_onex"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [
+      "Nielsen Holdings"
+    ],
+    "enterprise_value": {
+      "amount": 948700000,
+      "currency": "USD",
+      "display": "$948.7 million purchase price"
+    },
+    "investment_thesis": "Carve-out of a portfolio of business-to-business trade shows and conferences serving industry communities.",
+    "provider_roles": [],
+    "people_roles": [],
+    "source_ids": [
+      "src_emerald_sec_2017"
+    ],
+    "last_verified": "2026-10-10"
+  }
+]

@@ -1,0 +1,13 @@
+id,title,company,announced_on,status,transaction_type,buyers,value,source_ids
+"deal_world50_mscp_2020","Morgan Stanley Capital Partners invests in World 50","World 50","2020","completed","platform_investment","Morgan Stanley Capital Partners","","src_world50_continuation_2024"
+"deal_world50_continuation_2024","World 50 moves into an MSCP continuation vehicle","World 50","2024-03-26","completed","continuation_fund_transaction","Morgan Stanley Capital Partners","","src_world50_continuation_2024"
+"deal_hyve_2023","Providence and Searchlight acquire Hyve Group","Hyve Group","2023-03-15","completed","public_to_private","Providence Equity Partners; Searchlight Capital Partners","approximately £524 million","src_hyve_take_private_2023; src_hyve_fca_2023; src_hyve_plural_2023; src_hyve_willkie_2023"
+"deal_hyve_hf_2026","Hellman & Friedman agrees to acquire Hyve Group","Hyve Group","2026-06-02","announced","sponsor_to_sponsor","Hellman & Friedman","","src_hyve_hf_2026; src_hyve_fti_2026; src_hyve_hayfin_2026"
+"deal_closerstill_2018","Providence acquires a majority stake in CloserStill Media","CloserStill Media","2018-12-20","completed","majority_investment","Providence Equity Partners","","src_closerstill_providence_2018"
+"deal_closerstill_2026","Searchlight agrees to invest in CloserStill alongside Providence","CloserStill Media","2026-05-01","announced","sponsor_investment","Searchlight Capital Partners; Providence Equity Partners","","src_closerstill_searchlight_2026; src_closerstill_hayfin_2026"
+"deal_clarion_2017","Blackstone acquires Clarion Events from Providence","Clarion Events","2017-07-24","completed","sponsor_to_sponsor","Blackstone","","src_clarion_blackstone_2017"
+"deal_tarsus_2019","Charterhouse takes Tarsus private","Tarsus Group","2019-05-24","completed","public_to_private","Charterhouse Capital Partners","approximately £561 million","src_tarsus_2019"
+"deal_tarsus_2023","Charterhouse agrees sale of Tarsus to Informa","Tarsus Group","2023-03-09","completed","sponsor_exit_to_strategic","Informa","$940 million","src_tarsus_exit_2023"
+"deal_pei_2018","Bridgepoint acquires a majority stake in PEI Media","PEI Group","2018-06-15","completed","majority_investment","Bridgepoint","","src_pei_bridgepoint_2018"
+"deal_pei_2023","Bridgepoint provides further funding to PEI Group","PEI Group","2023-12","completed","follow_on_investment","Bridgepoint","","src_pei_followon_2023"
+"deal_emerald_2013","Onex acquires Nielsen Expositions, later rebranded Emerald","Emerald","2013","completed","corporate_carve_out","Onex","$948.7 million purchase price","src_emerald_sec_2017"

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://openfutureforum.github.io/private-equity-intelligence/sitemap.xml
