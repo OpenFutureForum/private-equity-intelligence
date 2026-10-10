@@ -228,14 +228,18 @@
     "name": "KKR",
     "firm_type": "alternative_asset_manager",
     "website": "https://www.kkr.com/",
-    "description": "Global investment firm with a large New York private-equity platform spanning sector, middle-market and large-cap strategies.",
+    "description": "Global investment firm represented in this index through its investment, operating, capital-markets and client teams.",
     "us_market_ids": [
-      "market_new_york"
+      "market_new_york",
+      "market_bay_area",
+      "market_boston",
+      "market_los_angeles"
     ],
     "source_ids": [
       "src_kkr_people",
       "src_kkr_brandon_brahm",
-      "src_kkr_chris_harrington"
+      "src_kkr_chris_harrington",
+      "src_kkr_portfolio_directory_2026"
     ],
     "last_verified": "2026-10-10"
   },

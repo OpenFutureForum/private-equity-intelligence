@@ -171,5 +171,1468 @@
       "src_off_pe_community"
     ],
     "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_1_800_contacts_inc",
+    "slug": "kkr-1-800-contacts-inc",
+    "name": "1-800 Contacts, Inc.",
+    "company_type": "consumer_discretionary",
+    "headquarters": "Draper, Utah, United States",
+    "website": "https://www.1800contacts.com",
+    "description": "Leading online destination for contact lenses.",
+    "relationship_archetypes": [
+      "consumer discretionary",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_accuris",
+    "slug": "kkr-accuris",
+    "name": "Accuris",
+    "company_type": "information_technology",
+    "headquarters": "Denver, Colorado, United States",
+    "website": "https://accuristech.com/",
+    "description": "Aggregator of standards content and provider of related search and workflow tools",
+    "relationship_archetypes": [
+      "information technology",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_agiloft",
+    "slug": "kkr-agiloft",
+    "name": "Agiloft",
+    "company_type": "information_technology",
+    "headquarters": "Redwood City, California, United States",
+    "website": "https://www.agiloft.com",
+    "description": "Contract lifecycle management software platform to help organizations manage pre-signature through post-signature contract workflows.",
+    "relationship_archetypes": [
+      "information technology",
+      "tech growth"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_aiwyn_inc",
+    "slug": "kkr-aiwyn-inc",
+    "name": "Aiwyn Inc",
+    "company_type": "information_technology",
+    "headquarters": "Charlotte, North Carolina, United States",
+    "website": "https://www.aiwyn.ai",
+    "description": "Aiwyn (est. 2020) offers a practice automation platform (“PracticeOS”), designed to streamline the full revenue lifecycle for accounting firms.",
+    "relationship_archetypes": [
+      "information technology",
+      "tech growth"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_alchemer",
+    "slug": "kkr-alchemer",
+    "name": "Alchemer",
+    "company_type": "information_technology",
+    "headquarters": "Lousiville, Colorado, United States",
+    "website": "https://www.alchemer.com",
+    "description": "A leading software provider in the experience management software market",
+    "relationship_archetypes": [
+      "information technology",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_allyntra",
+    "slug": "kkr-allyntra",
+    "name": "Allyntra",
+    "company_type": "healthcare",
+    "headquarters": "Farmingdale, New York, United States",
+    "website": "https://allyntra.com/",
+    "description": "Allyntra is a leading contract development and manufacturing organization of highly engineered precision components and assemblies, primarily for the medical device industry as well as the aerospace and industrial markets.",
+    "relationship_archetypes": [
+      "healthcare",
+      "health care growth"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_anchorage_digital",
+    "slug": "kkr-anchorage-digital",
+    "name": "Anchorage Digital",
+    "company_type": "information_technology",
+    "headquarters": "San Francisco, California, United States",
+    "website": "https://www.anchorage.com",
+    "description": "Digital asset custodian and infrastructure provider for institutional investors",
+    "relationship_archetypes": [
+      "information technology",
+      "tech growth"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_apex_analytix",
+    "slug": "kkr-apex-analytix",
+    "name": "Apex Analytix",
+    "company_type": "information_technology",
+    "headquarters": "Greensboro, North Carolina, United States",
+    "website": "https://www.apexanalytix.com",
+    "description": "A leading player in the supply chain software, data and analytics market",
+    "relationship_archetypes": [
+      "information technology",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_argenta",
+    "slug": "kkr-argenta",
+    "name": "Argenta",
+    "company_type": "healthcare",
+    "headquarters": "New York, NY, US",
+    "website": "https://www.argentaglobal.com",
+    "description": "A leading global animal health-focused pharmaceutical services platform.",
+    "relationship_archetypes": [
+      "healthcare",
+      "health care growth"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_ballast",
+    "slug": "kkr-ballast",
+    "name": "Ballast",
+    "company_type": "healthcare",
+    "headquarters": "Stamford, Connecticut, United States",
+    "website": "https://www.treeline.bio",
+    "description": "Biopharma company focused on developing novel oncology drugs",
+    "relationship_archetypes": [
+      "healthcare",
+      "health care growth"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_barracuda_networks",
+    "slug": "kkr-barracuda-networks",
+    "name": "Barracuda Networks",
+    "company_type": "information_technology",
+    "headquarters": "Campbell, California, United States",
+    "website": "https://www.barracuda.com",
+    "description": "Provider of cybersecurity and data protection software",
+    "relationship_archetypes": [
+      "information technology",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_beacon_pointe_advisors_holdings_llc",
+    "slug": "kkr-beacon-pointe-advisors-holdings-llc",
+    "name": "Beacon Pointe Advisors Holdings, LLC",
+    "company_type": "financials",
+    "headquarters": "Newport Beach, California, United States",
+    "website": "https://www.beaconpointe.com",
+    "description": "Leading registered investment advisor",
+    "relationship_archetypes": [
+      "financials",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_blue_sprig",
+    "slug": "kkr-blue-sprig",
+    "name": "Blue Sprig",
+    "company_type": "healthcare",
+    "headquarters": "Houston, Texas, United States",
+    "website": "https://www.bluesprigpediatrics.com",
+    "description": "A health care services platform created by KKR that provides clinical services to children diagnosed with autism spectrum disorder",
+    "relationship_archetypes": [
+      "healthcare",
+      "health care growth"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_bmc",
+    "slug": "kkr-bmc",
+    "name": "BMC",
+    "company_type": "information_technology",
+    "headquarters": "Houston, TX, United States",
+    "website": "https://www.bmc.com",
+    "description": "BMC provides software that organizes IT solutions, which includes cloud computing, cyber security and data analytics.",
+    "relationship_archetypes": [
+      "information technology",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_bridgebio_pharma",
+    "slug": "kkr-bridgebio-pharma",
+    "name": "BridgeBio Pharma",
+    "company_type": "healthcare",
+    "headquarters": "Palo Alto, California, United States",
+    "website": "https://www.bridgebio.com",
+    "description": "A branded pharmaceuticals company led by experienced drug discoverers, developers, and innovators working to create medicines that target well-characterized genetic diseases",
+    "relationship_archetypes": [
+      "healthcare",
+      "health care growth"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_brightline_inc",
+    "slug": "kkr-brightline-inc",
+    "name": "Brightline, Inc.",
+    "company_type": "healthcare",
+    "headquarters": "Palo Alto, California, United States",
+    "website": "https://www.hellobrightline.com",
+    "description": "A leading national provider of virtual pediatric mental health services",
+    "relationship_archetypes": [
+      "healthcare",
+      "health care growth"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_brightspring_health_services",
+    "slug": "kkr-brightspring-health-services",
+    "name": "BrightSpring Health Services",
+    "company_type": "healthcare",
+    "headquarters": "Louisville, Kentucky, United States",
+    "website": "https://www.brightspringhealth.com",
+    "description": "National provider of diversified home- and community-based health services to complex patient populations, including the elderly and individuals with intellectual and developmental disabilities, autism, neurological injuries, and other behavioral conditions",
+    "relationship_archetypes": [
+      "healthcare",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_brightview",
+    "slug": "kkr-brightview",
+    "name": "BrightView",
+    "company_type": "industrials",
+    "headquarters": "Plymouth Meeting, PA, United States",
+    "website": "https://www.brightview.com",
+    "description": "BrightView is a leading provider of commercial landscape maintenance and snow removal services in the U.S.",
+    "relationship_archetypes": [
+      "industrials",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_charter_next_generation",
+    "slug": "kkr-charter-next-generation",
+    "name": "Charter Next Generation",
+    "company_type": "materials",
+    "headquarters": "Chicago, Illinois, United States",
+    "website": "https://www.cnginc.com",
+    "description": "A leading, independent producer of specialty, high performance multi-layer, primary polyethylene films for Food, Consumer, Industrial, and Healthcare end markets",
+    "relationship_archetypes": [
+      "materials",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_chase_corp",
+    "slug": "kkr-chase-corp",
+    "name": "Chase Corp",
+    "company_type": "industrials",
+    "headquarters": "Westwood, Massachusetts, United States",
+    "website": "https://www.chasecorp.com",
+    "description": "Manufacture of protective materials for high reliability applications globally.",
+    "relationship_archetypes": [
+      "industrials",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_circor",
+    "slug": "kkr-circor",
+    "name": "CIRCOR",
+    "company_type": "industrials",
+    "headquarters": "Burlington, Massachusetts, United States",
+    "website": "https://www.circor.com",
+    "description": "Global manufacturer of highly engineered flow control products for critical applications across industrial, aerospace, and defense end markets",
+    "relationship_archetypes": [
+      "industrials",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_clarify_health_solutions",
+    "slug": "kkr-clarify-health-solutions",
+    "name": "Clarify Health Solutions",
+    "company_type": "healthcare",
+    "headquarters": "San Francisco, California, United States",
+    "website": "https://www.clarifyhealth.com",
+    "description": "Health care analytics company that develops software to provide insights to providers, payers, and life sciences companies",
+    "relationship_archetypes": [
+      "healthcare",
+      "health care growth"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_cloudera",
+    "slug": "kkr-cloudera",
+    "name": "Cloudera",
+    "company_type": "information_technology",
+    "headquarters": "Santa Clara, California, United States",
+    "website": "https://www.cloudera.com",
+    "description": "A leading provider of enterprise-grade, hybrid data management software",
+    "relationship_archetypes": [
+      "information technology",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_coder_technologies",
+    "slug": "kkr-coder-technologies",
+    "name": "Coder Technologies",
+    "company_type": "information_technology",
+    "headquarters": "Austin, TX, United States",
+    "website": "https://www.coder.com",
+    "description": "Coder is an open-source and self-hosted Cloud Development Environment (CDE) platform that enables enterprises to centrally provision and manage remote workspaces where software developers and AI agents build and run code.",
+    "relationship_archetypes": [
+      "information technology",
+      "tech growth"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_cordis",
+    "slug": "kkr-cordis",
+    "name": "Cordis",
+    "company_type": "healthcare",
+    "headquarters": "Miami Lakes, Florida, United States",
+    "website": "https://www.cordis.com",
+    "description": "A medical device company with a portfolio of cardiovascular and endovascular devices",
+    "relationship_archetypes": [
+      "healthcare",
+      "health care growth"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_cotiviti",
+    "slug": "kkr-cotiviti",
+    "name": "Cotiviti",
+    "company_type": "healthcare",
+    "headquarters": "South Jordan, UT",
+    "website": "https://www.cotiviti.com/",
+    "description": "Provider of payment integrity and ancillary solutions to health plans.",
+    "relationship_archetypes": [
+      "healthcare",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_covenant_physician_partners",
+    "slug": "kkr-covenant-physician-partners",
+    "name": "Covenant Physician Partners",
+    "company_type": "healthcare",
+    "headquarters": "Nashville, Tennessee, United States",
+    "website": "https://www.covenantphysicianpartners.com",
+    "description": "Covenant Physician Partners is a leading operator of ambulatory surgery centers, physician practices and ancillary services with a particular focus on gastroenterology and ophthalmology end-markets",
+    "relationship_archetypes": [
+      "healthcare",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_dentalxchange",
+    "slug": "kkr-dentalxchange",
+    "name": "DentalXChange",
+    "company_type": "healthcare",
+    "headquarters": "Irvine, California, United States",
+    "website": "https://www.dentalxchange.com",
+    "description": "A leading provider of clearinghouse and other value-added solutions for the dental market.",
+    "relationship_archetypes": [
+      "healthcare",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_ensono_holdings_llc",
+    "slug": "kkr-ensono-holdings-llc",
+    "name": "Ensono Holdings, LLC",
+    "company_type": "information_technology",
+    "headquarters": "Downers Grove, Illinois, United States",
+    "website": "https://www.ensono.com",
+    "description": "Ensono is a Hybrid IT Managed Services provider that manages and optimizes its clients' IT infrastructure from the mainframe to the private and public cloud",
+    "relationship_archetypes": [
+      "information technology",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_ensora_health",
+    "slug": "kkr-ensora-health",
+    "name": "Ensora Health",
+    "company_type": "healthcare",
+    "headquarters": "Birmingham, Alabama, United States",
+    "website": "https://ensorahealth.com",
+    "description": "Ensora Health provides end-to-end purpose-built software solutions to streamline the full clinical, administrative, and reimbursement workflows of healthcare professionals in multiple end markets, including Mental and Behavioral Health, Applied Behavior Analysis, Substance Abuse Recovery, and Rehabilitative Therapy.",
+    "relationship_archetypes": [
+      "healthcare",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_epic_games",
+    "slug": "kkr-epic-games",
+    "name": "Epic Games",
+    "company_type": "communication_services",
+    "headquarters": "Cary, NC, United States",
+    "website": "https://www.epicgames.com",
+    "description": "A leading publisher of interactive games and developer of software platform used for game development and high-end graphics rendering.",
+    "relationship_archetypes": [
+      "communication services",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_falcon_vision",
+    "slug": "kkr-falcon-vision",
+    "name": "Falcon Vision",
+    "company_type": "healthcare",
+    "headquarters": "Menlo Park, California, United States",
+    "website": null,
+    "description": "A branded pharmaceuticals / medical devices platform created by KKR that invests in and manages emerging assets in ophthalmology",
+    "relationship_archetypes": [
+      "healthcare",
+      "health care growth"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_fgs_global",
+    "slug": "kkr-fgs-global",
+    "name": "FGS Global",
+    "company_type": "communication_services",
+    "headquarters": "New York, NY, United States",
+    "website": "https://fgsglobal.com/",
+    "description": "NY-based public relations and communication company",
+    "relationship_archetypes": [
+      "communication services",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_fortifi",
+    "slug": "kkr-fortifi",
+    "name": "Fortifi",
+    "company_type": "industrials",
+    "headquarters": "Woodlands, Texas, United States",
+    "website": "https://www.fortififoodsolutions.com/",
+    "description": "Manufacturer of handheld automated tools and systems and associated aftermarket parts for the protein and other food processing markets",
+    "relationship_archetypes": [
+      "industrials",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_gamma_biosciences",
+    "slug": "kkr-gamma-biosciences",
+    "name": "Gamma Biosciences",
+    "company_type": "healthcare",
+    "headquarters": "Menlo Park, California, United States",
+    "website": "https://www.gammabiosciences.com",
+    "description": "A life sciences tools platform created by KKR to build a portfolio of next-generation bioprocessing technologies",
+    "relationship_archetypes": [
+      "healthcare",
+      "health care growth"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_geode_health",
+    "slug": "kkr-geode-health",
+    "name": "Geode Health",
+    "company_type": "healthcare",
+    "headquarters": "Chicago, Illinois, United States",
+    "website": "https://www.geodehealth.com",
+    "description": "An outpatient mental health services platform for adults and children in the United States",
+    "relationship_archetypes": [
+      "healthcare",
+      "health care growth"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_ghsmart",
+    "slug": "kkr-ghsmart",
+    "name": "ghSMART",
+    "company_type": "information_technology",
+    "headquarters": "Chicago, Illinois, United States",
+    "website": "https://www.ghsmart.com",
+    "description": "A leading leadership advisory firm, ghSMART serves as a trusted advisor to company C-Suites and boards on critical hiring decisions and helps clients get the most out of their talent through coaching and a variety of organizational optimization consulting services.",
+    "relationship_archetypes": [
+      "information technology",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_global_medical_response",
+    "slug": "kkr-global-medical-response",
+    "name": "Global Medical Response",
+    "company_type": "healthcare",
+    "headquarters": "Lewisville, TX and Greenwood Village, CO, United States",
+    "website": "https://www.globalmedicalresponse.com",
+    "description": "Global Medical Response is a leading provider of medical transportation services formed by bringing together Air Medical Group Holdings (AMGH) and American Medical Response (AMR). The company delivers emergency medical and relocation services to patients in their time of need through a fleet of almost 500 air ambulances and 7,000 ground ambulances in the United States, the District of Columbia, and around the world.",
+    "relationship_archetypes": [
+      "healthcare",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_graduation_alliance",
+    "slug": "kkr-graduation-alliance",
+    "name": "Graduation Alliance",
+    "company_type": "consumer_discretionary",
+    "headquarters": "Salt Lake City, Utah, United States",
+    "website": "https://www.graduationalliance.com",
+    "description": "Graduation Alliance works with students of all ages through partnerships with schools, districts, community colleges, workforce development agencies, employers and others dedicated to providing alternative pathways to high school graduation and career training. By supporting former high school dropouts to obtain a high school diploma and improving employment outcomes post-graduation, Graduation Alliance contributes to SDG 4 (Quality Education) and to SDG 8 (Decent Work and Economic Growth).",
+    "relationship_archetypes": [
+      "consumer discretionary",
+      "global impact"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_groundworks",
+    "slug": "kkr-groundworks",
+    "name": "Groundworks",
+    "company_type": "consumer_discretionary",
+    "headquarters": "Virginia Beach, Virginia, United States",
+    "website": "https://www.groundworks.com/",
+    "description": "Residential foundation repair and water management services platform offering critical, non-discretionary, and technical homeowner solutions",
+    "relationship_archetypes": [
+      "consumer discretionary",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_heartland_dental",
+    "slug": "kkr-heartland-dental",
+    "name": "Heartland Dental",
+    "company_type": "healthcare",
+    "headquarters": "Effingham, IL, United States",
+    "website": "https://www.heartland.com",
+    "description": "Heartland is a dental practice management company with over 1,700 supported office locations across 38 states and the District of Columbia.",
+    "relationship_archetypes": [
+      "healthcare",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_henry_schein",
+    "slug": "kkr-henry-schein",
+    "name": "Henry Schein",
+    "company_type": "healthcare",
+    "headquarters": "Melville, New York, United States",
+    "website": "https://www.henryschein.com",
+    "description": "Henry Schein is a leading provider of supplies, equipment, and technology solutions to dental offices and non-acute medical practices.",
+    "relationship_archetypes": [
+      "healthcare",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_hometown_soccer_holdings",
+    "slug": "kkr-hometown-soccer-holdings",
+    "name": "Hometown Soccer Holdings",
+    "company_type": "communication_services",
+    "headquarters": "Charlotte, North Carolina, United States",
+    "website": "https://www.hometownsoccer.com",
+    "description": "Hometown Soccer Holdings is a partnership between KKR and Major League Soccer formed to centralize and scale the commercial operations of MLS NEXT Pro, launching clubs in targeted markets, developing purpose-built stadiums, and strengthening the league's fan experience and commercial capabilities.",
+    "relationship_archetypes": [
+      "communication services",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_impel_pharmaceuticals",
+    "slug": "kkr-impel-pharmaceuticals",
+    "name": "Impel Pharmaceuticals",
+    "company_type": "healthcare",
+    "headquarters": "Seattle, Washington, United States",
+    "website": "https://www.impelpharma.com",
+    "description": "Late-stage biopharmaceutical company that optimizes drug delivery for central nervous system diseases using its proprietary nasal drug delivery technology",
+    "relationship_archetypes": [
+      "healthcare",
+      "health care growth"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_industrial_physics",
+    "slug": "kkr-industrial-physics",
+    "name": "Industrial Physics",
+    "company_type": "industrials",
+    "headquarters": "New Castle, Delaware, United States",
+    "website": "https://industrialphysics.com/",
+    "description": "Provider of test and measurement equipment for various applications, with a focus on paper & packaging, food and beverage, and diversified end markets.",
+    "relationship_archetypes": [
+      "industrials",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_internet_brands",
+    "slug": "kkr-internet-brands",
+    "name": "Internet Brands",
+    "company_type": "information_technology",
+    "headquarters": "El Segundo, CA, United States",
+    "website": "https://www.internetbrands.com",
+    "description": "Internet Brands brings together a diversified portfolio of software, data services, hosting and marketing services, and websites in the auto, health, legal, and home/travel categories.",
+    "relationship_archetypes": [
+      "information technology",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_janney_montgomery_scott",
+    "slug": "kkr-janney-montgomery-scott",
+    "name": "Janney Montgomery Scott",
+    "company_type": "financials",
+    "headquarters": "Philadelphia, Pennsylvania, United States",
+    "website": "https://www.janney.com",
+    "description": "A leading hybrid RIA / broker-dealer that provides wealth management services to affluent clients",
+    "relationship_archetypes": [
+      "financials",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_knowbe4",
+    "slug": "kkr-knowbe4",
+    "name": "KnowBe4",
+    "company_type": "information_technology",
+    "headquarters": "Clearwater, Florida, United States",
+    "website": "https://www.knowbe4.com",
+    "description": "A market-leading software platform for cybersecurity awareness training that directly contributes to SDG 9 (Industry, Innovation and Infrastructure) and SDG 16 (Peace, Justice and Strong Institutions).",
+    "relationship_archetypes": [
+      "information technology",
+      "tech growth"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_marmic_fire_and_safety_inc",
+    "slug": "kkr-marmic-fire-and-safety-inc",
+    "name": "Marmic Fire & Safety, Inc",
+    "company_type": "industrials",
+    "headquarters": "Joplin, MO, USA",
+    "website": "https://marmicfire.com/about/",
+    "description": "A leading provider of regulation-mandated, small-ticket fire equipment inspection, break-fix repair and installation services",
+    "relationship_archetypes": [
+      "industrials",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_monterra_energy",
+    "slug": "kkr-monterra-energy",
+    "name": "Monterra Energy",
+    "company_type": "energy",
+    "headquarters": "Houston, TX, United States",
+    "website": "https://www.monterraenergy.com",
+    "description": "A joint venture to pursue investments in midstream energy assets in Mexico",
+    "relationship_archetypes": [
+      "energy",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_my_pizza_technologies_inc",
+    "slug": "kkr-my-pizza-technologies-inc",
+    "name": "My Pizza Technologies, Inc.",
+    "company_type": "information_technology",
+    "headquarters": "New York, United States",
+    "website": "https://www.slicelife.com",
+    "description": "Platform that digitizes small and medium-sized pizza shops",
+    "relationship_archetypes": [
+      "information technology",
+      "tech growth"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_nasuni",
+    "slug": "kkr-nasuni",
+    "name": "Nasuni",
+    "company_type": "information_technology",
+    "headquarters": "Boston, MA, United States",
+    "website": "https://www.nasuni.com",
+    "description": "Nasuni provides a SaaS software orchestration layer that enables customers to interface with their hybrid cloud stored data.",
+    "relationship_archetypes": [
+      "information technology",
+      "tech growth"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_neighborly",
+    "slug": "kkr-neighborly",
+    "name": "Neighborly",
+    "company_type": "consumer_discretionary",
+    "headquarters": "Waco, Texas, United States",
+    "website": "https://www.neighborly.com",
+    "description": "Franchisor of do-it-for-me (DIFM) services with a focus on repairing, maintaining, and enhancing consumers’ homes and properties",
+    "relationship_archetypes": [
+      "consumer discretionary",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_ness_digital",
+    "slug": "kkr-ness-digital",
+    "name": "Ness Digital",
+    "company_type": "information_technology",
+    "headquarters": "Teaneck, New Jersey, United States",
+    "website": "https://www.ness.com",
+    "description": "Ness is a Digital Product Engineering (“DPE”) services provider specializing in building digital software products and platforms.",
+    "relationship_archetypes": [
+      "information technology",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_netspi",
+    "slug": "kkr-netspi",
+    "name": "NetSPI",
+    "company_type": "information_technology",
+    "headquarters": "Minneapolis, Minnesota, United States",
+    "website": "https://www.netspi.com",
+    "description": "Penetration-testing and attack surface management cybersecurity platform.",
+    "relationship_archetypes": [
+      "information technology",
+      "tech growth"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_nothing_bundt_cakes",
+    "slug": "kkr-nothing-bundt-cakes",
+    "name": "Nothing Bundt Cakes",
+    "company_type": "consumer_discretionary",
+    "headquarters": "Dallas, TX, United States",
+    "website": "https://www.nothingbundtcakes.com",
+    "description": "Nothing Bundt Cakes (“NBC” or the “Company”) is a franchised limited-service restaurant concept and the largest limited-service cake provider in the United States.",
+    "relationship_archetypes": [
+      "consumer discretionary",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_o9_solutions",
+    "slug": "kkr-o9-solutions",
+    "name": "o9 Solutions",
+    "company_type": "information_technology",
+    "headquarters": "Dallas, Texas, United States",
+    "website": "https://www.o9solutions.com",
+    "description": "Supply chain and integrated business planning software",
+    "relationship_archetypes": [
+      "information technology",
+      "tech growth"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_ontic_technologies",
+    "slug": "kkr-ontic-technologies",
+    "name": "Ontic Technologies",
+    "company_type": "information_technology",
+    "headquarters": "Austin, Texas, United States",
+    "website": "https://ontic.co",
+    "description": "Ontic is used by physical security and/or global security operation center (GSOC) teams daily as a case management system and research tool to monitor, analyze, and report on physical threats concerning to an organization’s personnel or facilities (e.g., suspicious activists or former disgruntled employees that could be a threat to others, environmental risks such as wildfires near an office).",
+    "relationship_archetypes": [
+      "information technology",
+      "tech growth"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_optiv",
+    "slug": "kkr-optiv",
+    "name": "Optiv",
+    "company_type": "information_technology",
+    "headquarters": "Denver, CO",
+    "website": "https://www.optiv.com",
+    "description": "Optiv is a market-leading provider of end-to-end cyber security solutions.",
+    "relationship_archetypes": [
+      "information technology",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_outsystems",
+    "slug": "kkr-outsystems",
+    "name": "OutSystems",
+    "company_type": "information_technology",
+    "headquarters": "Lisbon, Portugal and Boston, Massachusetts, United States",
+    "website": "https://www.outsystems.com",
+    "description": "A leading low-code software application development platform",
+    "relationship_archetypes": [
+      "information technology",
+      "tech growth",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_overdrive",
+    "slug": "kkr-overdrive",
+    "name": "OverDrive",
+    "company_type": "communication_services",
+    "headquarters": "Cleveland, Ohio, United States",
+    "website": "https://www.overdrive.com",
+    "description": "Audio content and digital media distribution technology",
+    "relationship_archetypes": [
+      "communication services",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_petvet",
+    "slug": "kkr-petvet",
+    "name": "PetVet",
+    "company_type": "healthcare",
+    "headquarters": "Westport, CT, United States",
+    "website": "https://www.petvetcarecenters.com",
+    "description": "PetVet is a leading acquirer and operator of general practice and specialty veterinary hospitals for companion animals.",
+    "relationship_archetypes": [
+      "healthcare",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_playon_sports",
+    "slug": "kkr-playon-sports",
+    "name": "PlayOn! Sports",
+    "company_type": "communication_services",
+    "headquarters": "Atlanta, Georgia, United States",
+    "website": "https://www.playonsports.com",
+    "description": "A high school sports media and technology platform helping enable schools sports and activities through technology based solutions",
+    "relationship_archetypes": [
+      "communication services",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_potter_global_technologies",
+    "slug": "kkr-potter-global-technologies",
+    "name": "Potter Global Technologies",
+    "company_type": "industrials",
+    "headquarters": "Maryland Heights, Missouri, United States",
+    "website": "https://www.potterglobaltech.com",
+    "description": "A St. Louis, Missouri based manufacturer of sprinkler monitoring devices, fire alarm systems, & corrosion solution.",
+    "relationship_archetypes": [
+      "industrials",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_qventus_inc",
+    "slug": "kkr-qventus-inc",
+    "name": "Qventus Inc",
+    "company_type": "information_technology",
+    "headquarters": "Mountain View, California, United States",
+    "website": "https://www.qventus.com",
+    "description": "Qventus provides software for large health systems to optimize care operations workflows, which are processes that leverage clinical data (unlike purely back-office workflows such as payroll or billing) and involve a care support team (such as a care coordinator or case manager).",
+    "relationship_archetypes": [
+      "information technology",
+      "tech growth"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_rainfocus",
+    "slug": "kkr-rainfocus",
+    "name": "RainFocus",
+    "company_type": "information_technology",
+    "headquarters": "Lehi, Utah, United States",
+    "website": "https://www.rainfocus.com",
+    "description": "Event management platform used as an end-to-end solution to manage the entire process of setting up, running and analyzing events for marketing and event teams",
+    "relationship_archetypes": [
+      "information technology",
+      "tech growth"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_reliaquest_llc",
+    "slug": "kkr-reliaquest-llc",
+    "name": "ReliaQuest LLC",
+    "company_type": "information_technology",
+    "headquarters": "Tampa, Florida, United States",
+    "website": "https://www.reliaquest.com",
+    "description": "Cyber security managed service and intelligence platform for global enterprises",
+    "relationship_archetypes": [
+      "information technology",
+      "tech growth"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_reserv",
+    "slug": "kkr-reserv",
+    "name": "Reserv",
+    "company_type": "information_technology",
+    "headquarters": "New York, NY, US",
+    "website": "https://www.reserv.com",
+    "description": "Reserv is the leading AI disruptor in the ~$21bn TPA market, which is almost entirely served by human driven services vendors.",
+    "relationship_archetypes": [
+      "information technology",
+      "tech growth"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_resolian",
+    "slug": "kkr-resolian",
+    "name": "Resolian",
+    "company_type": "healthcare",
+    "headquarters": "Malvern, Pennsylvania, United States",
+    "website": "https://www.resolian.com/",
+    "description": "A leading global bioanalysis platform",
+    "relationship_archetypes": [
+      "healthcare",
+      "health care growth"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_restaurant365",
+    "slug": "kkr-restaurant365",
+    "name": "Restaurant365",
+    "company_type": "information_technology",
+    "headquarters": "Irvine, California, United States",
+    "website": "https://www.restaurant365.com",
+    "description": "Provider of accounting, operations management, and workforce management software to the restaurant industry",
+    "relationship_archetypes": [
+      "information technology",
+      "tech growth"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_rvshare",
+    "slug": "kkr-rvshare",
+    "name": "RVShare",
+    "company_type": "information_technology",
+    "headquarters": "Akron, Ohio, United States",
+    "website": "https://www.rvshare.com",
+    "description": "Online peer-to-peer marketplace for RV and motorhome rentals in the US",
+    "relationship_archetypes": [
+      "information technology",
+      "tech growth"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_sapphiros",
+    "slug": "kkr-sapphiros",
+    "name": "Sapphiros",
+    "company_type": "healthcare",
+    "headquarters": "Boston, Massachusetts, United States",
+    "website": "https://www.sapphiros.com",
+    "description": "Sapphiros is a newly formed platform created in partnership with Namal Nawana - an experienced medical device executive and the former CEO of both Smith & Nephew and Alere - to acquire and operate a portfolio of next-generation diagnostic technologies with strong growth potential",
+    "relationship_archetypes": [
+      "healthcare",
+      "health care growth"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_saviynt",
+    "slug": "kkr-saviynt",
+    "name": "Saviynt",
+    "company_type": "information_technology",
+    "headquarters": "El Segundo, CA, US",
+    "website": "https://www.saviynt.com",
+    "description": "Saviynt serves mid-market and large enterprises as a cloud-native Identity Governance & Administration (IGA) software that centralizes lifecycle management, access requests, compliance, and audits across hybrid IT environments, including human and nonhuman identities.",
+    "relationship_archetypes": [
+      "information technology",
+      "tech growth"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_semperis",
+    "slug": "kkr-semperis",
+    "name": "Semperis",
+    "company_type": "information_technology",
+    "headquarters": "Hoboken, New Jersey, United States",
+    "website": "https://www.semperis.com",
+    "description": "Enterprise identity cyberscurity platform",
+    "relationship_archetypes": [
+      "information technology",
+      "tech growth"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_simon_and_schuster",
+    "slug": "kkr-simon-and-schuster",
+    "name": "Simon & Schuster",
+    "company_type": "communication_services",
+    "headquarters": "New York, New York, United States",
+    "website": "https://www.simonandschuster.com",
+    "description": "Simon & Schuster is a leading international publisher dedicated to sharing a broad range of works that educate, entertain, and inspire readers of all ages.",
+    "relationship_archetypes": [
+      "communication services",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_skinspirit",
+    "slug": "kkr-skinspirit",
+    "name": "SkinSpirit",
+    "company_type": "healthcare",
+    "headquarters": "Seattle, Washington, United States",
+    "website": "https://www.skinspirit.com",
+    "description": "A leading premium-branded, non-invasive aesthetic dermatology platform in the U.S.",
+    "relationship_archetypes": [
+      "healthcare",
+      "health care growth"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_sleepme_inc",
+    "slug": "kkr-sleepme-inc",
+    "name": "Sleepme Inc.",
+    "company_type": "healthcare",
+    "headquarters": "Mooresville, North Carolina, United States",
+    "website": "https://www.sleep.me",
+    "description": "Direct to consumer wellness company optimizing sleep through innovative hardware and software technologies",
+    "relationship_archetypes": [
+      "healthcare",
+      "health care growth"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_supplyhouse",
+    "slug": "kkr-supplyhouse",
+    "name": "SupplyHouse",
+    "company_type": "industrials",
+    "headquarters": "Melville, NY",
+    "website": "https://www.supplyhouse.com",
+    "description": "SupplyHouse is a leading pure-play e-commerce distributor of HVAC, plumbing and electrical components, serving over 5 million customers throughout the U.S., primarily selling B2B to residential and commercial contractors engaged in break-fix repair work.",
+    "relationship_archetypes": [
+      "industrials",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_teaching_strategies_inc",
+    "slug": "kkr-teaching-strategies-inc",
+    "name": "Teaching Strategies Inc",
+    "company_type": "consumer_discretionary",
+    "headquarters": "Bethesda, Maryland, United States",
+    "website": "https://www.teachingstrategies.com",
+    "description": "Provider of curriculum, assessment and family engagement tools to the Early Childhood Education market",
+    "relationship_archetypes": [
+      "consumer discretionary",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_trilogy_medwaste",
+    "slug": "kkr-trilogy-medwaste",
+    "name": "Trilogy MedWaste",
+    "company_type": "healthcare",
+    "headquarters": "Houston, Texas, United States",
+    "website": "https://www.trilogymedwaste.com",
+    "description": "Provider of medical waste management services",
+    "relationship_archetypes": [
+      "healthcare",
+      "health care growth"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_usi_insurance_services_llc",
+    "slug": "kkr-usi-insurance-services-llc",
+    "name": "USI Insurance Services LLC",
+    "company_type": "financials",
+    "headquarters": "Valhalla, NY, United States",
+    "website": "https://www.usi.com",
+    "description": "USI is one of the largest private insurance brokers",
+    "relationship_archetypes": [
+      "financials",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_varsity_brands",
+    "slug": "kkr-varsity-brands",
+    "name": "Varsity Brands",
+    "company_type": "consumer_discretionary",
+    "headquarters": "Farmers Branch, TX, US",
+    "website": "https://www.varsitybrands.com",
+    "description": "A platform comprised of two businesses with a mission of elevating the student experience through sport and spirit: BSN Sports (sports equipment distributor) and Varsity Spirit (cheer uniforms and events provider).",
+    "relationship_archetypes": [
+      "consumer discretionary",
+      "private equity"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_xoi",
+    "slug": "kkr-xoi",
+    "name": "Xoi",
+    "company_type": "information_technology",
+    "headquarters": "Nashville, TN, US",
+    "website": "https://www.xoi.io",
+    "description": "XOi provides a mobile field service software platform that allows skilled technicians to service assets more efficiently via structured data collection and verticalized repair and maintenance workflows.",
+    "relationship_archetypes": [
+      "information technology",
+      "tech growth"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_zeus_health",
+    "slug": "kkr-zeus-health",
+    "name": "Zeus Health",
+    "company_type": "healthcare",
+    "headquarters": "Menlo Park, California, United States",
+    "website": null,
+    "description": "Platform to invest in and operate a portfolio of medical device assets",
+    "relationship_archetypes": [
+      "healthcare",
+      "health care growth"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_zinnia_corporate_holdings_llc",
+    "slug": "kkr-zinnia-corporate-holdings-llc",
+    "name": "Zinnia Corporate Holdings, LLC",
+    "company_type": "information_technology",
+    "headquarters": "New York, United States",
+    "website": "https://zinnia.com/",
+    "description": "Online insurance marketplace",
+    "relationship_archetypes": [
+      "information technology",
+      "tech growth"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_kkr_zwift_inc",
+    "slug": "kkr-zwift-inc",
+    "name": "Zwift Inc.",
+    "company_type": "information_technology",
+    "headquarters": "Long Beach, California, United States",
+    "website": "https://www.zwift.com",
+    "description": "A virtual cycling platform for training and racing at home",
+    "relationship_archetypes": [
+      "information technology",
+      "tech growth"
+    ],
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
   }
 ]

@@ -1,6 +1,6 @@
 {
   "name": "private-equity-intelligence",
-  "version": "0.2.3",
+  "version": "0.3.0",
   "private": true,
   "type": "module",
   "description": "Open-source intelligence on private-equity deals, people, firms and advisers from Open Future Forum.",
@@ -10,7 +10,8 @@
     "test": "node --test",
     "check:links": "node scripts/check-links.mjs",
     "check": "npm run validate && npm run build && npm test && npm run check:links",
-    "serve": "node scripts/serve.mjs"
+    "serve": "node scripts/serve.mjs",
+    "import:kkr": "node scripts/import-kkr-expansion.mjs"
   },
   "engines": {
     "node": ">=22"

@@ -6,7 +6,9 @@ The Private Equity Intelligence Index maps public, professionally relevant evide
 
 ## Current scope
 
-The National Edition combines two research layers: a transaction cohort emphasizing relationship-economy businesses, and a ten-market United States atlas of current private-equity professionals and firms. Open Future Forum is discussed only as an illustrative business archetype. Its inclusion does not imply that it is for sale, seeking investment or involved in a transaction.
+The National Edition combines a transaction cohort and a ten-market United States atlas of current private-equity professionals and firms. Open Future Forum is discussed only as an illustrative business archetype. Its inclusion does not imply that it is for sale, seeking investment or involved in a transaction.
+
+The transaction cohort has two evidence levels. `transaction_announcement` records use official announcements or regulatory documents. `official_portfolio_record` entries use an investor's official portfolio directory and establish only the investor, company, investment year and published classification. A portfolio record does not establish an announcement date, seller, price, adviser or individual deal-team member.
 
 ## Evidence classes
 
@@ -15,10 +17,11 @@ Sources are ordered by their usual evidentiary weight:
 1. regulatory or government record;
 2. official transaction document;
 3. official company, investor or adviser announcement;
-4. official professional biography;
-5. first-party Open Future Forum research;
-6. reputable independent reporting; and
-7. secondary discovery material.
+4. official portfolio or professional directory;
+5. official professional biography;
+6. first-party Open Future Forum research;
+7. reputable independent reporting; and
+8. secondary discovery material.
 
 Search snippets are discovery aids, not evidence records. A source supports only the claims identified in its `supports` field.
 

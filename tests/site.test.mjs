@@ -30,10 +30,22 @@ test('atlas uses geographic map geometry and labels coverage counts', async () =
   assert.match(html, /class="map-nation"/);
   assert.match(html, /class="map-states"/);
   assert.match(html, /profiles in index/);
-  assert.match(html, /112 profile records/);
-  assert.match(html, /86 have person-level or official office-directory location evidence/);
+  assert.match(html, /476 profile records/);
+  assert.match(html, /450 have person-level or official office-directory location evidence/);
   assert.match(html, /26 use a labeled firm-office association/);
-  assert.match(html, /18 unique firm records create 22 market associations/);
+  assert.match(html, /18 unique firm records create 25 market associations/);
+});
+
+test('release pages expose the 500-person and 100-deal targets', async () => {
+  const [home, deals, people] = await Promise.all([
+    readFile(file('index.html'), 'utf8'),
+    readFile(file('deals/index.html'), 'utf8'),
+    readFile(file('people/index.html'), 'utf8')
+  ]);
+  assert.match(home, /<strong>100<\/strong><span>transactions<\/span>/);
+  assert.match(home, /<strong>500<\/strong><span>professional profiles<\/span>/);
+  assert.match(deals, /86 official portfolio records/);
+  assert.match(people, /<strong>476<\/strong><span>U\.S\. atlas<\/span>/);
 });
 
 test('generated copy contains no em dashes or en dashes', async () => {

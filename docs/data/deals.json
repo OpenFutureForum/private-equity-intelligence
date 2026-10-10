@@ -844,5 +844,2241 @@
       "src_apollo_emerald_questex_leadership_2026"
     ],
     "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_1_800_contacts_inc_2020",
+    "slug": "kkr-1-800-contacts-inc-2020",
+    "title": "KKR investment in 1-800 Contacts, Inc.",
+    "target_company_id": "company_kkr_1_800_contacts_inc",
+    "announced_on": "2020",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Leading online destination for contact lenses.",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_accuris_2023",
+    "slug": "kkr-accuris-2023",
+    "title": "KKR investment in Accuris",
+    "target_company_id": "company_kkr_accuris",
+    "announced_on": "2023",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Aggregator of standards content and provider of related search and workflow tools",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_agiloft_2024",
+    "slug": "kkr-agiloft-2024",
+    "title": "KKR investment in Agiloft",
+    "target_company_id": "company_kkr_agiloft",
+    "announced_on": "2024",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Contract lifecycle management software platform to help organizations manage pre-signature through post-signature contract workflows.",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_aiwyn_inc_2024",
+    "slug": "kkr-aiwyn-inc-2024",
+    "title": "KKR investment in Aiwyn Inc",
+    "target_company_id": "company_kkr_aiwyn_inc",
+    "announced_on": "2024",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Aiwyn (est. 2020) offers a practice automation platform (“PracticeOS”), designed to streamline the full revenue lifecycle for accounting firms.",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_alchemer_2022",
+    "slug": "kkr-alchemer-2022",
+    "title": "KKR investment in Alchemer",
+    "target_company_id": "company_kkr_alchemer",
+    "announced_on": "2022",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "A leading software provider in the experience management software market",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_allyntra_2023",
+    "slug": "kkr-allyntra-2023",
+    "title": "KKR investment in Allyntra",
+    "target_company_id": "company_kkr_allyntra",
+    "announced_on": "2023",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Allyntra is a leading contract development and manufacturing organization of highly engineered precision components and assemblies, primarily for the medical device industry as well as the aerospace and industrial markets.",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_anchorage_digital_2021",
+    "slug": "kkr-anchorage-digital-2021",
+    "title": "KKR investment in Anchorage Digital",
+    "target_company_id": "company_kkr_anchorage_digital",
+    "announced_on": "2021",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Digital asset custodian and infrastructure provider for institutional investors",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_apex_analytix_2022",
+    "slug": "kkr-apex-analytix-2022",
+    "title": "KKR investment in Apex Analytix",
+    "target_company_id": "company_kkr_apex_analytix",
+    "announced_on": "2022",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "A leading player in the supply chain software, data and analytics market",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_argenta_2021",
+    "slug": "kkr-argenta-2021",
+    "title": "KKR investment in Argenta",
+    "target_company_id": "company_kkr_argenta",
+    "announced_on": "2021",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "A leading global animal health-focused pharmaceutical services platform.",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_ballast_2022",
+    "slug": "kkr-ballast-2022",
+    "title": "KKR investment in Ballast",
+    "target_company_id": "company_kkr_ballast",
+    "announced_on": "2022",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Biopharma company focused on developing novel oncology drugs",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_barracuda_networks_2022",
+    "slug": "kkr-barracuda-networks-2022",
+    "title": "KKR investment in Barracuda Networks",
+    "target_company_id": "company_kkr_barracuda_networks",
+    "announced_on": "2022",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Provider of cybersecurity and data protection software",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_beacon_pointe_advisors_holdings_llc_2021",
+    "slug": "kkr-beacon-pointe-advisors-holdings-llc-2021",
+    "title": "KKR investment in Beacon Pointe Advisors Holdings, LLC",
+    "target_company_id": "company_kkr_beacon_pointe_advisors_holdings_llc",
+    "announced_on": "2021",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Leading registered investment advisor",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_blue_sprig_2017",
+    "slug": "kkr-blue-sprig-2017",
+    "title": "KKR investment in Blue Sprig",
+    "target_company_id": "company_kkr_blue_sprig",
+    "announced_on": "2017",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "A health care services platform created by KKR that provides clinical services to children diagnosed with autism spectrum disorder",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_bmc_2018",
+    "slug": "kkr-bmc-2018",
+    "title": "KKR investment in BMC",
+    "target_company_id": "company_kkr_bmc",
+    "announced_on": "2018",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "BMC provides software that organizes IT solutions, which includes cloud computing, cyber security and data analytics.",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_bridgebio_pharma_2018",
+    "slug": "kkr-bridgebio-pharma-2018",
+    "title": "KKR investment in BridgeBio Pharma",
+    "target_company_id": "company_kkr_bridgebio_pharma",
+    "announced_on": "2018",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "A branded pharmaceuticals company led by experienced drug discoverers, developers, and innovators working to create medicines that target well-characterized genetic diseases",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_brightline_inc_2022",
+    "slug": "kkr-brightline-inc-2022",
+    "title": "KKR investment in Brightline, Inc.",
+    "target_company_id": "company_kkr_brightline_inc",
+    "announced_on": "2022",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "A leading national provider of virtual pediatric mental health services",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_brightspring_health_services_2017",
+    "slug": "kkr-brightspring-health-services-2017",
+    "title": "KKR investment in BrightSpring Health Services",
+    "target_company_id": "company_kkr_brightspring_health_services",
+    "announced_on": "2017",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "National provider of diversified home- and community-based health services to complex patient populations, including the elderly and individuals with intellectual and developmental disabilities, autism, neurological injuries, and other behavioral conditions",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_brightview_2013",
+    "slug": "kkr-brightview-2013",
+    "title": "KKR investment in BrightView",
+    "target_company_id": "company_kkr_brightview",
+    "announced_on": "2013",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "BrightView is a leading provider of commercial landscape maintenance and snow removal services in the U.S.",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_charter_next_generation_2021",
+    "slug": "kkr-charter-next-generation-2021",
+    "title": "KKR investment in Charter Next Generation",
+    "target_company_id": "company_kkr_charter_next_generation",
+    "announced_on": "2021",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "A leading, independent producer of specialty, high performance multi-layer, primary polyethylene films for Food, Consumer, Industrial, and Healthcare end markets",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_chase_corp_2023",
+    "slug": "kkr-chase-corp-2023",
+    "title": "KKR investment in Chase Corp",
+    "target_company_id": "company_kkr_chase_corp",
+    "announced_on": "2023",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Manufacture of protective materials for high reliability applications globally.",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_circor_2023",
+    "slug": "kkr-circor-2023",
+    "title": "KKR investment in CIRCOR",
+    "target_company_id": "company_kkr_circor",
+    "announced_on": "2023",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Global manufacturer of highly engineered flow control products for critical applications across industrial, aerospace, and defense end markets",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_clarify_health_solutions_2018",
+    "slug": "kkr-clarify-health-solutions-2018",
+    "title": "KKR investment in Clarify Health Solutions",
+    "target_company_id": "company_kkr_clarify_health_solutions",
+    "announced_on": "2018",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Health care analytics company that develops software to provide insights to providers, payers, and life sciences companies",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_cloudera_2021",
+    "slug": "kkr-cloudera-2021",
+    "title": "KKR investment in Cloudera",
+    "target_company_id": "company_kkr_cloudera",
+    "announced_on": "2021",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "A leading provider of enterprise-grade, hybrid data management software",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_coder_technologies_2026",
+    "slug": "kkr-coder-technologies-2026",
+    "title": "KKR investment in Coder Technologies",
+    "target_company_id": "company_kkr_coder_technologies",
+    "announced_on": "2026",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Coder is an open-source and self-hosted Cloud Development Environment (CDE) platform that enables enterprises to centrally provision and manage remote workspaces where software developers and AI agents build and run code.",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_cordis_2021",
+    "slug": "kkr-cordis-2021",
+    "title": "KKR investment in Cordis",
+    "target_company_id": "company_kkr_cordis",
+    "announced_on": "2021",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "A medical device company with a portfolio of cardiovascular and endovascular devices",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_cotiviti_2024",
+    "slug": "kkr-cotiviti-2024",
+    "title": "KKR investment in Cotiviti",
+    "target_company_id": "company_kkr_cotiviti",
+    "announced_on": "2024",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Provider of payment integrity and ancillary solutions to health plans.",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_covenant_physician_partners_2017",
+    "slug": "kkr-covenant-physician-partners-2017",
+    "title": "KKR investment in Covenant Physician Partners",
+    "target_company_id": "company_kkr_covenant_physician_partners",
+    "announced_on": "2017",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Covenant Physician Partners is a leading operator of ambulatory surgery centers, physician practices and ancillary services with a particular focus on gastroenterology and ophthalmology end-markets",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_dentalxchange_2025",
+    "slug": "kkr-dentalxchange-2025",
+    "title": "KKR investment in DentalXChange",
+    "target_company_id": "company_kkr_dentalxchange",
+    "announced_on": "2025",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "A leading provider of clearinghouse and other value-added solutions for the dental market.",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_ensono_holdings_llc_2021",
+    "slug": "kkr-ensono-holdings-llc-2021",
+    "title": "KKR investment in Ensono Holdings, LLC",
+    "target_company_id": "company_kkr_ensono_holdings_llc",
+    "announced_on": "2021",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Ensono is a Hybrid IT Managed Services provider that manages and optimizes its clients' IT infrastructure from the mainframe to the private and public cloud",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_ensora_health_2021",
+    "slug": "kkr-ensora-health-2021",
+    "title": "KKR investment in Ensora Health",
+    "target_company_id": "company_kkr_ensora_health",
+    "announced_on": "2021",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Ensora Health provides end-to-end purpose-built software solutions to streamline the full clinical, administrative, and reimbursement workflows of healthcare professionals in multiple end markets, including Mental and Behavioral Health, Applied Behavior Analysis, Substance Abuse Recovery, and Rehabilitative Therapy.",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_epic_games_2018",
+    "slug": "kkr-epic-games-2018",
+    "title": "KKR investment in Epic Games",
+    "target_company_id": "company_kkr_epic_games",
+    "announced_on": "2018",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "A leading publisher of interactive games and developer of software platform used for game development and high-end graphics rendering.",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_falcon_vision_2019",
+    "slug": "kkr-falcon-vision-2019",
+    "title": "KKR investment in Falcon Vision",
+    "target_company_id": "company_kkr_falcon_vision",
+    "announced_on": "2019",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "A branded pharmaceuticals / medical devices platform created by KKR that invests in and manages emerging assets in ophthalmology",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_fgs_global_2023",
+    "slug": "kkr-fgs-global-2023",
+    "title": "KKR investment in FGS Global",
+    "target_company_id": "company_kkr_fgs_global",
+    "announced_on": "2023",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "NY-based public relations and communication company",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_fortifi_2021",
+    "slug": "kkr-fortifi-2021",
+    "title": "KKR investment in Fortifi",
+    "target_company_id": "company_kkr_fortifi",
+    "announced_on": "2021",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Manufacturer of handheld automated tools and systems and associated aftermarket parts for the protein and other food processing markets",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_gamma_biosciences_2019",
+    "slug": "kkr-gamma-biosciences-2019",
+    "title": "KKR investment in Gamma Biosciences",
+    "target_company_id": "company_kkr_gamma_biosciences",
+    "announced_on": "2019",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "A life sciences tools platform created by KKR to build a portfolio of next-generation bioprocessing technologies",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_geode_health_2021",
+    "slug": "kkr-geode-health-2021",
+    "title": "KKR investment in Geode Health",
+    "target_company_id": "company_kkr_geode_health",
+    "announced_on": "2021",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "An outpatient mental health services platform for adults and children in the United States",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_ghsmart_2025",
+    "slug": "kkr-ghsmart-2025",
+    "title": "KKR investment in ghSMART",
+    "target_company_id": "company_kkr_ghsmart",
+    "announced_on": "2025",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "A leading leadership advisory firm, ghSMART serves as a trusted advisor to company C-Suites and boards on critical hiring decisions and helps clients get the most out of their talent through coaching and a variety of organizational optimization consulting services.",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_global_medical_response_2015",
+    "slug": "kkr-global-medical-response-2015",
+    "title": "KKR investment in Global Medical Response",
+    "target_company_id": "company_kkr_global_medical_response",
+    "announced_on": "2015",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Global Medical Response is a leading provider of medical transportation services formed by bringing together Air Medical Group Holdings (AMGH) and American Medical Response (AMR). The company delivers emergency medical and relocation services to patients in their time of need through a fleet of almost 500 air ambulances and 7,000 ground ambulances in the United States, the District of Columbia, and around the world.",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_graduation_alliance_2020",
+    "slug": "kkr-graduation-alliance-2020",
+    "title": "KKR investment in Graduation Alliance",
+    "target_company_id": "company_kkr_graduation_alliance",
+    "announced_on": "2020",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "impact_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Graduation Alliance works with students of all ages through partnerships with schools, districts, community colleges, workforce development agencies, employers and others dedicated to providing alternative pathways to high school graduation and career training. By supporting former high school dropouts to obtain a high school diploma and improving employment outcomes post-graduation, Graduation Alliance contributes to SDG 4 (Quality Education) and to SDG 8 (Decent Work and Economic Growth).",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_groundworks_2023",
+    "slug": "kkr-groundworks-2023",
+    "title": "KKR investment in Groundworks",
+    "target_company_id": "company_kkr_groundworks",
+    "announced_on": "2023",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Residential foundation repair and water management services platform offering critical, non-discretionary, and technical homeowner solutions",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_heartland_dental_2018",
+    "slug": "kkr-heartland-dental-2018",
+    "title": "KKR investment in Heartland Dental",
+    "target_company_id": "company_kkr_heartland_dental",
+    "announced_on": "2018",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Heartland is a dental practice management company with over 1,700 supported office locations across 38 states and the District of Columbia.",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_henry_schein_2025",
+    "slug": "kkr-henry-schein-2025",
+    "title": "KKR investment in Henry Schein",
+    "target_company_id": "company_kkr_henry_schein",
+    "announced_on": "2025",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Henry Schein is a leading provider of supplies, equipment, and technology solutions to dental offices and non-acute medical practices.",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_hometown_soccer_holdings_2026",
+    "slug": "kkr-hometown-soccer-holdings-2026",
+    "title": "KKR investment in Hometown Soccer Holdings",
+    "target_company_id": "company_kkr_hometown_soccer_holdings",
+    "announced_on": "2026",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Hometown Soccer Holdings is a partnership between KKR and Major League Soccer formed to centralize and scale the commercial operations of MLS NEXT Pro, launching clubs in targeted markets, developing purpose-built stadiums, and strengthening the league's fan experience and commercial capabilities.",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_impel_pharmaceuticals_2018",
+    "slug": "kkr-impel-pharmaceuticals-2018",
+    "title": "KKR investment in Impel Pharmaceuticals",
+    "target_company_id": "company_kkr_impel_pharmaceuticals",
+    "announced_on": "2018",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Late-stage biopharmaceutical company that optimizes drug delivery for central nervous system diseases using its proprietary nasal drug delivery technology",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_industrial_physics_2023",
+    "slug": "kkr-industrial-physics-2023",
+    "title": "KKR investment in Industrial Physics",
+    "target_company_id": "company_kkr_industrial_physics",
+    "announced_on": "2023",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Provider of test and measurement equipment for various applications, with a focus on paper & packaging, food and beverage, and diversified end markets.",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_internet_brands_2014",
+    "slug": "kkr-internet-brands-2014",
+    "title": "KKR investment in Internet Brands",
+    "target_company_id": "company_kkr_internet_brands",
+    "announced_on": "2014",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Internet Brands brings together a diversified portfolio of software, data services, hosting and marketing services, and websites in the auto, health, legal, and home/travel categories.",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_janney_montgomery_scott_2024",
+    "slug": "kkr-janney-montgomery-scott-2024",
+    "title": "KKR investment in Janney Montgomery Scott",
+    "target_company_id": "company_kkr_janney_montgomery_scott",
+    "announced_on": "2024",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "A leading hybrid RIA / broker-dealer that provides wealth management services to affluent clients",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_knowbe4_2019",
+    "slug": "kkr-knowbe4-2019",
+    "title": "KKR investment in KnowBe4",
+    "target_company_id": "company_kkr_knowbe4",
+    "announced_on": "2019",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "A market-leading software platform for cybersecurity awareness training that directly contributes to SDG 9 (Industry, Innovation and Infrastructure) and SDG 16 (Peace, Justice and Strong Institutions).",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_marmic_fire_and_safety_inc_2024",
+    "slug": "kkr-marmic-fire-and-safety-inc-2024",
+    "title": "KKR investment in Marmic Fire & Safety, Inc",
+    "target_company_id": "company_kkr_marmic_fire_and_safety_inc",
+    "announced_on": "2024",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "A leading provider of regulation-mandated, small-ticket fire equipment inspection, break-fix repair and installation services",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_monterra_energy_2015",
+    "slug": "kkr-monterra-energy-2015",
+    "title": "KKR investment in Monterra Energy",
+    "target_company_id": "company_kkr_monterra_energy",
+    "announced_on": "2015",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "A joint venture to pursue investments in midstream energy assets in Mexico",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_my_pizza_technologies_inc_2020",
+    "slug": "kkr-my-pizza-technologies-inc-2020",
+    "title": "KKR investment in My Pizza Technologies, Inc.",
+    "target_company_id": "company_kkr_my_pizza_technologies_inc",
+    "announced_on": "2020",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Platform that digitizes small and medium-sized pizza shops",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_nasuni_2024",
+    "slug": "kkr-nasuni-2024",
+    "title": "KKR investment in Nasuni",
+    "target_company_id": "company_kkr_nasuni",
+    "announced_on": "2024",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Nasuni provides a SaaS software orchestration layer that enables customers to interface with their hybrid cloud stored data.",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_neighborly_2021",
+    "slug": "kkr-neighborly-2021",
+    "title": "KKR investment in Neighborly",
+    "target_company_id": "company_kkr_neighborly",
+    "announced_on": "2021",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Franchisor of do-it-for-me (DIFM) services with a focus on repairing, maintaining, and enhancing consumers’ homes and properties",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_ness_digital_2022",
+    "slug": "kkr-ness-digital-2022",
+    "title": "KKR investment in Ness Digital",
+    "target_company_id": "company_kkr_ness_digital",
+    "announced_on": "2022",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Ness is a Digital Product Engineering (“DPE”) services provider specializing in building digital software products and platforms.",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_netspi_2021",
+    "slug": "kkr-netspi-2021",
+    "title": "KKR investment in NetSPI",
+    "target_company_id": "company_kkr_netspi",
+    "announced_on": "2021",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Penetration-testing and attack surface management cybersecurity platform.",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_nothing_bundt_cakes_2026",
+    "slug": "kkr-nothing-bundt-cakes-2026",
+    "title": "KKR investment in Nothing Bundt Cakes",
+    "target_company_id": "company_kkr_nothing_bundt_cakes",
+    "announced_on": "2026",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Nothing Bundt Cakes (“NBC” or the “Company”) is a franchised limited-service restaurant concept and the largest limited-service cake provider in the United States.",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_o9_solutions_2020",
+    "slug": "kkr-o9-solutions-2020",
+    "title": "KKR investment in o9 Solutions",
+    "target_company_id": "company_kkr_o9_solutions",
+    "announced_on": "2020",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Supply chain and integrated business planning software",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_ontic_technologies_2025",
+    "slug": "kkr-ontic-technologies-2025",
+    "title": "KKR investment in Ontic Technologies",
+    "target_company_id": "company_kkr_ontic_technologies",
+    "announced_on": "2025",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Ontic is used by physical security and/or global security operation center (GSOC) teams daily as a case management system and research tool to monitor, analyze, and report on physical threats concerning to an organization’s personnel or facilities (e.g., suspicious activists or former disgruntled employees that could be a threat to others, environmental risks such as wildfires near an office).",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_optiv_2017",
+    "slug": "kkr-optiv-2017",
+    "title": "KKR investment in Optiv",
+    "target_company_id": "company_kkr_optiv",
+    "announced_on": "2017",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Optiv is a market-leading provider of end-to-end cyber security solutions.",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_outsystems_2018",
+    "slug": "kkr-outsystems-2018",
+    "title": "KKR investment in OutSystems",
+    "target_company_id": "company_kkr_outsystems",
+    "announced_on": "2018",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "A leading low-code software application development platform",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_overdrive_2018",
+    "slug": "kkr-overdrive-2018",
+    "title": "KKR investment in OverDrive",
+    "target_company_id": "company_kkr_overdrive",
+    "announced_on": "2018",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Audio content and digital media distribution technology",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_petvet_2018",
+    "slug": "kkr-petvet-2018",
+    "title": "KKR investment in PetVet",
+    "target_company_id": "company_kkr_petvet",
+    "announced_on": "2018",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "PetVet is a leading acquirer and operator of general practice and specialty veterinary hospitals for companion animals.",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_playon_sports_2022",
+    "slug": "kkr-playon-sports-2022",
+    "title": "KKR investment in PlayOn! Sports",
+    "target_company_id": "company_kkr_playon_sports",
+    "announced_on": "2022",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "A high school sports media and technology platform helping enable schools sports and activities through technology based solutions",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_potter_global_technologies_2023",
+    "slug": "kkr-potter-global-technologies-2023",
+    "title": "KKR investment in Potter Global Technologies",
+    "target_company_id": "company_kkr_potter_global_technologies",
+    "announced_on": "2023",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "A St. Louis, Missouri based manufacturer of sprinkler monitoring devices, fire alarm systems, & corrosion solution.",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_qventus_inc_2024",
+    "slug": "kkr-qventus-inc-2024",
+    "title": "KKR investment in Qventus Inc",
+    "target_company_id": "company_kkr_qventus_inc",
+    "announced_on": "2024",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Qventus provides software for large health systems to optimize care operations workflows, which are processes that leverage clinical data (unlike purely back-office workflows such as payroll or billing) and involve a care support team (such as a care coordinator or case manager).",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_rainfocus_2021",
+    "slug": "kkr-rainfocus-2021",
+    "title": "KKR investment in RainFocus",
+    "target_company_id": "company_kkr_rainfocus",
+    "announced_on": "2021",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Event management platform used as an end-to-end solution to manage the entire process of setting up, running and analyzing events for marketing and event teams",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_reliaquest_llc_2025",
+    "slug": "kkr-reliaquest-llc-2025",
+    "title": "KKR investment in ReliaQuest LLC",
+    "target_company_id": "company_kkr_reliaquest_llc",
+    "announced_on": "2025",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Cyber security managed service and intelligence platform for global enterprises",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_reserv_2026",
+    "slug": "kkr-reserv-2026",
+    "title": "KKR investment in Reserv",
+    "target_company_id": "company_kkr_reserv",
+    "announced_on": "2026",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Reserv is the leading AI disruptor in the ~$21bn TPA market, which is almost entirely served by human driven services vendors.",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_resolian_2022",
+    "slug": "kkr-resolian-2022",
+    "title": "KKR investment in Resolian",
+    "target_company_id": "company_kkr_resolian",
+    "announced_on": "2022",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "A leading global bioanalysis platform",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_restaurant365_2023",
+    "slug": "kkr-restaurant365-2023",
+    "title": "KKR investment in Restaurant365",
+    "target_company_id": "company_kkr_restaurant365",
+    "announced_on": "2023",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Provider of accounting, operations management, and workforce management software to the restaurant industry",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_rvshare_2020",
+    "slug": "kkr-rvshare-2020",
+    "title": "KKR investment in RVShare",
+    "target_company_id": "company_kkr_rvshare",
+    "announced_on": "2020",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Online peer-to-peer marketplace for RV and motorhome rentals in the US",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_sapphiros_2021",
+    "slug": "kkr-sapphiros-2021",
+    "title": "KKR investment in Sapphiros",
+    "target_company_id": "company_kkr_sapphiros",
+    "announced_on": "2021",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Sapphiros is a newly formed platform created in partnership with Namal Nawana - an experienced medical device executive and the former CEO of both Smith & Nephew and Alere - to acquire and operate a portfolio of next-generation diagnostic technologies with strong growth potential",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_saviynt_2026",
+    "slug": "kkr-saviynt-2026",
+    "title": "KKR investment in Saviynt",
+    "target_company_id": "company_kkr_saviynt",
+    "announced_on": "2026",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Saviynt serves mid-market and large enterprises as a cloud-native Identity Governance & Administration (IGA) software that centralizes lifecycle management, access requests, compliance, and audits across hybrid IT environments, including human and nonhuman identities.",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_semperis_2022",
+    "slug": "kkr-semperis-2022",
+    "title": "KKR investment in Semperis",
+    "target_company_id": "company_kkr_semperis",
+    "announced_on": "2022",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Enterprise identity cyberscurity platform",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_simon_and_schuster_2023",
+    "slug": "kkr-simon-and-schuster-2023",
+    "title": "KKR investment in Simon & Schuster",
+    "target_company_id": "company_kkr_simon_and_schuster",
+    "announced_on": "2023",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Simon & Schuster is a leading international publisher dedicated to sharing a broad range of works that educate, entertain, and inspire readers of all ages.",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_skinspirit_2022",
+    "slug": "kkr-skinspirit-2022",
+    "title": "KKR investment in SkinSpirit",
+    "target_company_id": "company_kkr_skinspirit",
+    "announced_on": "2022",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "A leading premium-branded, non-invasive aesthetic dermatology platform in the U.S.",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_sleepme_inc_2016",
+    "slug": "kkr-sleepme-inc-2016",
+    "title": "KKR investment in Sleepme Inc.",
+    "target_company_id": "company_kkr_sleepme_inc",
+    "announced_on": "2016",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Direct to consumer wellness company optimizing sleep through innovative hardware and software technologies",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_supplyhouse_2025",
+    "slug": "kkr-supplyhouse-2025",
+    "title": "KKR investment in SupplyHouse",
+    "target_company_id": "company_kkr_supplyhouse",
+    "announced_on": "2025",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "SupplyHouse is a leading pure-play e-commerce distributor of HVAC, plumbing and electrical components, serving over 5 million customers throughout the U.S., primarily selling B2B to residential and commercial contractors engaged in break-fix repair work.",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_teaching_strategies_inc_2021",
+    "slug": "kkr-teaching-strategies-inc-2021",
+    "title": "KKR investment in Teaching Strategies Inc",
+    "target_company_id": "company_kkr_teaching_strategies_inc",
+    "announced_on": "2021",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Provider of curriculum, assessment and family engagement tools to the Early Childhood Education market",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_trilogy_medwaste_2017",
+    "slug": "kkr-trilogy-medwaste-2017",
+    "title": "KKR investment in Trilogy MedWaste",
+    "target_company_id": "company_kkr_trilogy_medwaste",
+    "announced_on": "2017",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Provider of medical waste management services",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_usi_insurance_services_llc_2017",
+    "slug": "kkr-usi-insurance-services-llc-2017",
+    "title": "KKR investment in USI Insurance Services LLC",
+    "target_company_id": "company_kkr_usi_insurance_services_llc",
+    "announced_on": "2017",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "USI is one of the largest private insurance brokers",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_varsity_brands_2024",
+    "slug": "kkr-varsity-brands-2024",
+    "title": "KKR investment in Varsity Brands",
+    "target_company_id": "company_kkr_varsity_brands",
+    "announced_on": "2024",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "platform_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "A platform comprised of two businesses with a mission of elevating the student experience through sport and spirit: BSN Sports (sports equipment distributor) and Varsity Spirit (cheer uniforms and events provider).",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_xoi_2025",
+    "slug": "kkr-xoi-2025",
+    "title": "KKR investment in Xoi",
+    "target_company_id": "company_kkr_xoi",
+    "announced_on": "2025",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "XOi provides a mobile field service software platform that allows skilled technicians to service assets more efficiently via structured data collection and verticalized repair and maintenance workflows.",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_zeus_health_2020",
+    "slug": "kkr-zeus-health-2020",
+    "title": "KKR investment in Zeus Health",
+    "target_company_id": "company_kkr_zeus_health",
+    "announced_on": "2020",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Platform to invest in and operate a portfolio of medical device assets",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_zinnia_corporate_holdings_llc_2019",
+    "slug": "kkr-zinnia-corporate-holdings-llc-2019",
+    "title": "KKR investment in Zinnia Corporate Holdings, LLC",
+    "target_company_id": "company_kkr_zinnia_corporate_holdings_llc",
+    "announced_on": "2019",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "Online insurance marketplace",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_kkr_zwift_inc_2020",
+    "slug": "kkr-zwift-inc-2020",
+    "title": "KKR investment in Zwift Inc.",
+    "target_company_id": "company_kkr_zwift_inc",
+    "announced_on": "2020",
+    "date_basis": "investment_year",
+    "completed_on": null,
+    "status": "completed",
+    "transaction_type": "growth_investment",
+    "buyer_firm_ids": [
+      "firm_kkr"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "A virtual cycling platform for training and racing at home",
+    "provider_roles": [],
+    "people_roles": [],
+    "evidence_tier": "official_portfolio_record",
+    "source_ids": [
+      "src_kkr_portfolio_directory_2026"
+    ],
+    "last_verified": "2026-10-10"
   }
 ]

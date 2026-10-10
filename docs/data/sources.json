@@ -1105,5 +1105,22 @@
       "firm operating responsibilities",
       "Boston location"
     ]
+  },
+  {
+    "id": "src_kkr_portfolio_directory_2026",
+    "title": "Portfolio",
+    "publisher": "KKR",
+    "url": "https://www.kkr.com/invest/portfolio",
+    "source_class": "official_portfolio_directory",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "portfolio company name",
+      "headquarters",
+      "asset class",
+      "industry",
+      "year of investment",
+      "company description"
+    ]
   }
 ]

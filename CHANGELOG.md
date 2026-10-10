@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.3.0 (2026-10-10)
+
+- Expanded the index to exactly 500 professional profiles and 100 private-equity investment records.
+- Added 364 U.S. professionals from KKR's official people directory, preserving the published title, team and office location.
+- Added 86 U.S. buyout, growth, health-care growth and impact investments from KKR's official portfolio directory.
+- Added separate evidence tiers for transaction announcements and official portfolio records.
+- Kept all adviser and individual deal-team fields empty on portfolio-directory records rather than inferring participation.
+- Added source-specific expansion loading, exact release-count checks and duplicate-name validation.
+
 ## 0.2.3 (2026-10-10)
 
 - Replaced the distorted atlas illustration with a geographic map built from U.S. Census Bureau cartographic boundaries.

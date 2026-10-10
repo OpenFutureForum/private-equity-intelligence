@@ -3,7 +3,7 @@
 Open-source intelligence on private-equity firms, dealmakers, transactions, portfolio operations, and the advisers and service providers supporting the private-capital ecosystem.
 
 **Publisher:** Open Future Forum  
-**Current release:** 0.2.3 National Edition
+**Current release:** 0.3.0 National Edition
 **Canonical website:** https://openfutureforum.github.io/private-equity-intelligence/
 
 ## What this project connects
@@ -19,9 +19,11 @@ The project is a public-source knowledge graph linking:
 
 The National Edition covers selected markets and transactions. Every person, market relationship and transaction attribution retains an explicit source trail.
 
-The current dataset contains 112 verified U.S. atlas profiles across 10 markets, plus separately labeled historical transaction participants.
+The current dataset contains 500 professional profiles and 100 private-equity investment records. Of the people records, 476 are current U.S. atlas profiles across 10 markets and 24 are separately labeled historical transaction participants.
 
-Atlas figures report records in this release, not the estimated size of a market. The 112 profile records comprise 47 explicit person-location biographies, 39 official office-directory matches and 26 clearly labeled firm-office associations. A firm can appear in more than one market.
+Atlas figures report records in this release, not the estimated size of a market. The 476 atlas records comprise 47 explicit person-location biographies, 403 official office-directory matches and 26 clearly labeled firm-office associations. A firm can appear in more than one market.
+
+The 100 investment records use two evidence levels. Fourteen records are based on transaction announcements or regulatory documents. Eighty-six records come from an official portfolio directory and establish only the investor, company, investment year and directory classification. They do not establish advisers, individual deal-team credit, purchase price or announcement date.
 
 ## Research lanes
 
@@ -32,7 +34,7 @@ Atlas figures report records in this release, not the estimated size of a market
 
 ## Architecture
 
-- `data/` contains the canonical JSON records.
+- `data/` contains the canonical JSON records and source-specific expansion files.
 - `scripts/validate.mjs` enforces evidence and privacy requirements.
 - `scripts/build.mjs` deterministically generates the public site and downloads.
 - `docs/` is the generated GitHub Pages artifact.

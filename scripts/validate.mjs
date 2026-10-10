@@ -1,11 +1,7 @@
-import { readFile } from 'node:fs/promises';
-import path from 'node:path';
-import { fileURLToPath } from 'node:url';
+import { loadData } from './data.mjs';
 
-const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-const load = async (name) => JSON.parse(await readFile(path.join(root, 'data', `${name}.json`), 'utf8'));
 const [companies, firms, people, providers, deals, sources, framework, markets] = await Promise.all([
-  load('companies'), load('firms'), load('people'), load('providers'), load('deals'), load('sources'), load('framework'), load('markets')
+  loadData('companies'), loadData('firms'), loadData('people'), loadData('providers'), loadData('deals'), loadData('sources'), loadData('framework'), loadData('markets')
 ]);
 
 const errors = [];
@@ -48,6 +44,8 @@ for (const deal of deals) {
   assert(datePattern.test(deal.announced_on), `deals/${deal.id}: invalid announcement date`);
   assert(deal.completed_on === null || datePattern.test(deal.completed_on), `deals/${deal.id}: invalid completion date`);
   assert(['completed','announced','cancelled'].includes(deal.status), `deals/${deal.id}: invalid status`);
+  assert(['announcement_date','investment_year'].includes(deal.date_basis ?? 'announcement_date'), `deals/${deal.id}: invalid date basis`);
+  assert(['transaction_announcement','official_portfolio_record'].includes(deal.evidence_tier ?? 'transaction_announcement'), `deals/${deal.id}: invalid evidence tier`);
   assert(Array.isArray(deal.source_ids) && deal.source_ids.length > 0, `deals/${deal.id}: at least one source is required`);
   for (const id of [...deal.buyer_firm_ids, ...deal.seller_firm_ids]) assert(firmIds.has(id), `deals/${deal.id}: unknown firm ${id}`);
   for (const role of deal.provider_roles) {
@@ -63,6 +61,10 @@ for (const deal of deals) {
     assert(sourceIds.has(role.source_id), `deals/${deal.id}: unknown people-role source ${role.source_id}`);
     assert(deal.source_ids.includes(role.source_id), `deals/${deal.id}: people-role source must be included on deal`);
     assert(role.attribution?.length > 15, `deals/${deal.id}: people role needs explicit attribution language`);
+  }
+  if (deal.evidence_tier === 'official_portfolio_record') {
+    assert(deal.date_basis === 'investment_year', `deals/${deal.id}: portfolio record must use investment-year dating`);
+    assert(deal.provider_roles.length === 0 && deal.people_roles.length === 0, `deals/${deal.id}: portfolio record must not infer deal participants`);
   }
 }
 
@@ -102,6 +104,11 @@ for (const provider of providers) {
 assert(framework.scoring_status === 'framework_only', 'framework: scoring must remain disabled in National Edition');
 assert(Array.isArray(framework.dimensions) && framework.dimensions.length >= 10, 'framework: expected at least ten dimensions');
 assert(framework.dimensions.every((d) => d.definition && d.evidence_prompts?.length >= 3), 'framework: every dimension needs a definition and three evidence prompts');
+
+assert(people.length === 500, `release target: expected exactly 500 people, found ${people.length}`);
+assert(deals.length === 100, `release target: expected exactly 100 deals, found ${deals.length}`);
+assert(new Set(people.map((person) => person.name.trim().toLowerCase())).size === people.length, 'people contains duplicate names');
+assert(deals.filter((deal) => deal.evidence_tier === 'official_portfolio_record').length === 86, 'release target: expected 86 official portfolio records');
 
 const raw = JSON.stringify({ companies, firms, people, providers, deals, sources, framework, markets }).toLowerCase();
 for (const forbidden of ['personal_email','home_address','private_phone','date_of_birth','family_details','password']) {
