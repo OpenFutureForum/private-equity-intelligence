@@ -16,9 +16,55 @@
     "seller_names": [],
     "enterprise_value": null,
     "investment_thesis": "An invitation-only executive network built around trusted peer exchange, membership relationships and knowledge access.",
+    "research_insights": [
+      {
+        "label": "Membership scale",
+        "value": "World 50 served more than 1,700 senior executives at major global organizations through invitation-only private peer communities at the time of the investment.",
+        "source_ids": [
+          "src_world50_mscp_2020"
+        ]
+      },
+      {
+        "label": "Retention signal",
+        "value": "MSCP highlighted World 50's high member retention and Net Promoter Score as evidence of the strength of the member experience.",
+        "source_ids": [
+          "src_world50_mscp_2020"
+        ]
+      },
+      {
+        "label": "Growth plan",
+        "value": "The ownership plan centered on broader networks, richer member experiences, geographic expansion, technology and acquisitions.",
+        "source_ids": [
+          "src_world50_mscp_2020"
+        ]
+      },
+      {
+        "label": "Management alignment",
+        "value": "Existing management retained leadership and rolled a substantial amount of transaction proceeds into the new ownership structure.",
+        "source_ids": [
+          "src_world50_mscp_2020"
+        ]
+      }
+    ],
     "provider_roles": [],
-    "people_roles": [],
+    "people_roles": [
+      {
+        "person_id": "person_adam_shaw",
+        "label": "official_transaction_spokesperson",
+        "organization": "Morgan Stanley Capital Partners",
+        "attribution": "Quoted on World 50's peer-to-peer platform, growth record and company culture.",
+        "source_id": "src_world50_mscp_2020"
+      },
+      {
+        "person_id": "person_david_wilkie",
+        "label": "official_transaction_spokesperson",
+        "organization": "World 50",
+        "attribution": "Quoted on broadening World 50's networks and enriching the member experience.",
+        "source_id": "src_world50_mscp_2020"
+      }
+    ],
     "source_ids": [
+      "src_world50_mscp_2020",
       "src_world50_continuation_2024"
     ],
     "last_verified": "2026-10-10"
@@ -971,6 +1017,280 @@
     "source_ids": [
       "src_apollo_emerald_questex_2026",
       "src_apollo_emerald_questex_leadership_2026"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_vistage_gridiron_2022",
+    "slug": "vistage-gridiron-2022",
+    "title": "Gridiron Capital agrees to acquire Vistage from Providence",
+    "target_company_id": "company_vistage",
+    "announced_on": "2022-06-08",
+    "date_basis": "announcement_date",
+    "completed_on": null,
+    "status": "announced",
+    "transaction_type": "sponsor_to_sponsor_buyout",
+    "buyer_firm_ids": [
+      "firm_gridiron"
+    ],
+    "seller_firm_ids": [
+      "firm_providence"
+    ],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": null,
+    "investment_thesis": "A scaled subscription membership platform combines confidential CEO peer groups, executive coaching and recurring relationships across 26 countries.",
+    "provider_roles": [
+      {
+        "provider_id": "provider_macquarie_capital",
+        "role": "financial adviser to Providence Equity Partners and Vistage",
+        "side": "seller",
+        "source_id": "src_vistage_gridiron_2022"
+      },
+      {
+        "provider_id": "provider_ropes_gray",
+        "role": "legal counsel to Providence Equity Partners and Vistage",
+        "side": "seller",
+        "source_id": "src_vistage_gridiron_2022"
+      },
+      {
+        "provider_id": "provider_stradling",
+        "role": "legal counsel to Providence Equity Partners and Vistage",
+        "side": "seller",
+        "source_id": "src_vistage_gridiron_2022"
+      },
+      {
+        "provider_id": "provider_truist_securities",
+        "role": "financial adviser to Gridiron Capital",
+        "side": "buyer",
+        "source_id": "src_vistage_gridiron_2022"
+      },
+      {
+        "provider_id": "provider_finn_dixon_herling",
+        "role": "legal counsel to Gridiron Capital",
+        "side": "buyer",
+        "source_id": "src_vistage_gridiron_2022"
+      }
+    ],
+    "people_roles": [
+      {
+        "person_id": "person_tom_burger",
+        "label": "official_transaction_spokesperson",
+        "organization": "Gridiron Capital",
+        "attribution": "Quoted on Gridiron's appreciation of the value Vistage provides to CEOs and executives.",
+        "source_id": "src_vistage_gridiron_2022"
+      },
+      {
+        "person_id": "person_will_hausberg",
+        "label": "official_transaction_spokesperson",
+        "organization": "Gridiron Capital",
+        "attribution": "Quoted on Gridiron's professional training and human-capital experience supporting the investment thesis.",
+        "source_id": "src_vistage_gridiron_2022"
+      },
+      {
+        "person_id": "person_david_phillips_providence",
+        "label": "official_transaction_spokesperson",
+        "organization": "Providence Equity Partners",
+        "attribution": "Quoted on membership growth and enhancement of Vistage programs during Providence ownership.",
+        "source_id": "src_vistage_gridiron_2022"
+      },
+      {
+        "person_id": "person_sam_reese",
+        "label": "official_transaction_spokesperson",
+        "organization": "Vistage Worldwide",
+        "attribution": "Identified as the Vistage chief executive leading the company into its next ownership chapter.",
+        "source_id": "src_vistage_gridiron_2022"
+      }
+    ],
+    "research_insights": [
+      {
+        "label": "Business model",
+        "value": "Subscription membership combines confidential peer groups with one-to-one coaching, creating recurring executive relationships rather than relying on stand-alone events.",
+        "source_ids": [
+          "src_vistage_gridiron_2022",
+          "src_gridiron_vistage_2022"
+        ]
+      },
+      {
+        "label": "Scale",
+        "value": "The announcement reported more than 27,000 members across 26 countries at the time of the transaction.",
+        "source_ids": [
+          "src_gridiron_vistage_2022"
+        ]
+      },
+      {
+        "label": "Ownership signal",
+        "value": "Management invested alongside Gridiron, aligning the operating team with the next phase of the platform's growth.",
+        "source_ids": [
+          "src_vistage_gridiron_2022"
+        ]
+      },
+      {
+        "label": "Sponsor thesis",
+        "value": "Gridiron linked the opportunity to its experience in professional training and human-capital management businesses.",
+        "source_ids": [
+          "src_vistage_gridiron_2022"
+        ]
+      }
+    ],
+    "evidence_tier": "transaction_announcement",
+    "source_ids": [
+      "src_vistage_gridiron_2022",
+      "src_gridiron_vistage_2022"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_evanta_ceb_2016",
+    "slug": "evanta-ceb-2016",
+    "title": "CEB acquires Evanta from Leeds Equity Partners",
+    "target_company_id": "company_evanta",
+    "announced_on": "2016-04-04",
+    "date_basis": "announcement_date",
+    "completed_on": "2016-04-29",
+    "status": "completed",
+    "transaction_type": "strategic_acquisition",
+    "buyer_firm_ids": [
+      "firm_ceb"
+    ],
+    "seller_firm_ids": [
+      "firm_leeds_equity"
+    ],
+    "buyer_names": [],
+    "seller_names": [],
+    "enterprise_value": {
+      "amount": 275000000,
+      "currency": "USD",
+      "display": "$275 million announced cash consideration"
+    },
+    "investment_thesis": "CEB added a C-suite peer-engagement and leadership-events platform that expanded its professional-development reach and created sponsorship and content-licensing opportunities.",
+    "provider_roles": [
+      {
+        "provider_id": "provider_centerview",
+        "role": "financial adviser to CEB in connection with the Evanta acquisition",
+        "side": "buyer",
+        "source_id": "src_gartner_ceb_proxy_2017"
+      }
+    ],
+    "people_roles": [],
+    "research_insights": [
+      {
+        "label": "Revenue model",
+        "value": "Evanta primarily generated revenue from event sponsorship fees, with seasonality concentrated in the second and fourth quarters.",
+        "source_ids": [
+          "src_ceb_evanta_10k_2016"
+        ]
+      },
+      {
+        "label": "Strategic fit",
+        "value": "CEB said the acquisition would expand its events and professional-development businesses and increase its addressable market through sponsorship and content licensing.",
+        "source_ids": [
+          "src_ceb_evanta_announcement_2016"
+        ]
+      },
+      {
+        "label": "Financing",
+        "value": "CEB increased its term loan facility by $150 million and its revolving facility by $100 million to help fund the acquisition.",
+        "source_ids": [
+          "src_ceb_evanta_10k_2016"
+        ]
+      },
+      {
+        "label": "Purchase accounting",
+        "value": "CEB reported $269.2 million of consideration net of acquired cash and recorded $237.2 million of goodwill.",
+        "source_ids": [
+          "src_ceb_evanta_10k_2016"
+        ]
+      }
+    ],
+    "evidence_tier": "transaction_announcement",
+    "source_ids": [
+      "src_ceb_evanta_announcement_2016",
+      "src_ceb_evanta_10k_2016",
+      "src_gartner_ceb_proxy_2017"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "deal_ceb_gartner_2017",
+    "slug": "ceb-gartner-2017",
+    "title": "Gartner acquires CEB",
+    "target_company_id": "company_ceb",
+    "announced_on": "2017-01-05",
+    "date_basis": "announcement_date",
+    "completed_on": "2017-04-05",
+    "status": "completed",
+    "transaction_type": "strategic_acquisition",
+    "buyer_firm_ids": [
+      "firm_gartner"
+    ],
+    "seller_firm_ids": [],
+    "buyer_names": [],
+    "seller_names": [
+      "Public shareholders"
+    ],
+    "enterprise_value": {
+      "amount": 2600000000,
+      "currency": "USD",
+      "display": "approximately $2.6 billion"
+    },
+    "investment_thesis": "The combination brought together subscription research, best-practice advisory, enterprise executive communities and an events portfolio that included Evanta.",
+    "provider_roles": [
+      {
+        "provider_id": "provider_centerview",
+        "role": "financial adviser and fairness-opinion provider to CEB",
+        "side": "seller",
+        "source_id": "src_gartner_ceb_proxy_2017"
+      },
+      {
+        "provider_id": "provider_goldman_sachs",
+        "role": "financial adviser to Gartner",
+        "side": "buyer",
+        "source_id": "src_gartner_ceb_proxy_2017"
+      },
+      {
+        "provider_id": "provider_evercore",
+        "role": "financial adviser to Gartner",
+        "side": "buyer",
+        "source_id": "src_gartner_ceb_proxy_2017"
+      }
+    ],
+    "people_roles": [],
+    "research_insights": [
+      {
+        "label": "Transaction structure",
+        "value": "Gartner agreed to pay CEB shareholders cash plus Gartner shares in a transaction valued at approximately $2.6 billion.",
+        "source_ids": [
+          "src_gartner_ceb_announcement_2017"
+        ]
+      },
+      {
+        "label": "Community adjacency",
+        "value": "CEB combined membership-based research and decision support with executive briefings, destination events and the Evanta C-suite community business.",
+        "source_ids": [
+          "src_gartner_ceb_proxy_2017"
+        ]
+      },
+      {
+        "label": "Scale strategy",
+        "value": "Gartner positioned the combination as a way to serve major enterprise functions with a broader research and advisory platform.",
+        "source_ids": [
+          "src_gartner_ceb_announcement_2017"
+        ]
+      },
+      {
+        "label": "Process evidence",
+        "value": "The joint proxy documents the negotiation process and identifies Centerview for CEB and Goldman Sachs and Evercore for Gartner.",
+        "source_ids": [
+          "src_gartner_ceb_proxy_2017"
+        ]
+      }
+    ],
+    "evidence_tier": "transaction_announcement",
+    "source_ids": [
+      "src_gartner_ceb_announcement_2017",
+      "src_gartner_ceb_completion_2017",
+      "src_gartner_ceb_proxy_2017"
     ],
     "last_verified": "2026-10-10"
   },

@@ -121,8 +121,8 @@ assert(framework.scoring_status === 'framework_only', 'framework: scoring must r
 assert(Array.isArray(framework.dimensions) && framework.dimensions.length >= 10, 'framework: expected at least ten dimensions');
 assert(framework.dimensions.every((d) => d.definition && d.evidence_prompts?.length >= 3), 'framework: every dimension needs a definition and three evidence prompts');
 
-assert(people.length === 667, `release target: expected exactly 667 people, found ${people.length}`);
-assert(deals.length === 100, `release target: expected exactly 100 deals, found ${deals.length}`);
+assert(people.length >= 667, `release target: expected at least 667 people, found ${people.length}`);
+assert(deals.length >= 100, `release target: expected at least 100 deals, found ${deals.length}`);
 assert(new Set(people.map((person) => person.name.trim().toLowerCase())).size === people.length, 'people contains duplicate names');
 assert(deals.filter((deal) => deal.evidence_tier === 'official_portfolio_record').length === 86, 'release target: expected 86 official portfolio records');
 

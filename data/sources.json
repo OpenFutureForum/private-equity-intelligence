@@ -1,5 +1,15 @@
 [
   {
+    "id": "src_world50_mscp_2020",
+    "title": "Morgan Stanley Capital Partners Completes Investment in World 50",
+    "publisher": "Morgan Stanley",
+    "url": "https://www.morganstanley.com/im/en-la/intermediary-investor/insights/press-release/ms-capital-partners-completes-investment-in-world-50.html",
+    "source_class": "official_transaction_announcement",
+    "published_date": "2020-02-05",
+    "accessed_date": "2026-10-10",
+    "supports": ["completed World 50 investment", "founder recapitalization context", "member scale", "member retention", "management rollover", "growth plan", "named transaction spokespeople"]
+  },
+  {
     "id": "src_world50_continuation_2024",
     "title": "Morgan Stanley Capital Partners Completes Sale of World 50 to New Continuation Fund Investment Vehicle",
     "publisher": "Morgan Stanley",

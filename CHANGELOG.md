@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.7.0 - 2026-10-10
+
+- Added a dedicated executive-community comparable-transactions research page.
+- Added detailed Vistage, Evanta and CEB transactions with primary-source evidence.
+- Added seven newly documented transaction advisers and four named deal participants.
+- Deepened the 2020 World 50 investment with membership, retention, growth and management-alignment findings.
+- Expanded the index to 103 deals, 671 people, 38 providers, 29 firms and 93 sources.
+
 ## 0.6.0 - 2026-10-10
 
 - Completed the first 50-record research cohort at the published 75-point threshold.

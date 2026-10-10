@@ -1,5 +1,23 @@
 [
   {
+    "id": "src_world50_mscp_2020",
+    "title": "Morgan Stanley Capital Partners Completes Investment in World 50",
+    "publisher": "Morgan Stanley",
+    "url": "https://www.morganstanley.com/im/en-la/intermediary-investor/insights/press-release/ms-capital-partners-completes-investment-in-world-50.html",
+    "source_class": "official_transaction_announcement",
+    "published_date": "2020-02-05",
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "completed World 50 investment",
+      "founder recapitalization context",
+      "member scale",
+      "member retention",
+      "management rollover",
+      "growth plan",
+      "named transaction spokespeople"
+    ]
+  },
+  {
     "id": "src_world50_continuation_2024",
     "title": "Morgan Stanley Capital Partners Completes Sale of World 50 to New Continuation Fund Investment Vehicle",
     "publisher": "Morgan Stanley",
@@ -1166,6 +1184,117 @@
       "revenue growth",
       "EBITDA growth",
       "organic and acquisitive growth plan"
+    ]
+  },
+  {
+    "id": "src_vistage_gridiron_2022",
+    "title": "Vistage Partners with Gridiron Capital to Accelerate Growth and Expansion Worldwide",
+    "publisher": "Vistage Worldwide",
+    "url": "https://vistage.com/press-center/press-release/vistage-partners-with-gridiron-capital-to-accelerate-growth-and-expansion-worldwide/",
+    "source_class": "official_transaction_announcement",
+    "published_date": "2022-06-08",
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "Gridiron acquisition from Providence",
+      "management investment",
+      "membership model",
+      "member count and geographic reach",
+      "expected closing",
+      "named advisers",
+      "named transaction spokespeople"
+    ]
+  },
+  {
+    "id": "src_gridiron_vistage_2022",
+    "title": "Vistage Partners with Gridiron Capital to Accelerate Growth and Expansion Worldwide",
+    "publisher": "Gridiron Capital",
+    "url": "https://gridironcapital.com/vistage-partners-with-gridiron-capital-to-accelerate-growth-and-expansion-worldwide/",
+    "source_class": "official_transaction_announcement",
+    "published_date": "2022-06-08",
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "Gridiron investment",
+      "Providence as seller",
+      "peer-advisory business description",
+      "financial terms undisclosed",
+      "transaction advisers"
+    ]
+  },
+  {
+    "id": "src_ceb_evanta_announcement_2016",
+    "title": "CEB to Acquire Evanta",
+    "publisher": "CEB filing with the U.S. Securities and Exchange Commission",
+    "url": "https://www.sec.gov/Archives/edgar/data/1066104/000119312516529621/d174601dex991.htm",
+    "source_class": "regulatory_filing",
+    "published_date": "2016-04-04",
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "CEB acquisition of Evanta",
+      "Leeds Equity ownership",
+      "$275 million announced cash consideration",
+      "executive-development and peer-engagement model",
+      "strategic rationale"
+    ]
+  },
+  {
+    "id": "src_ceb_evanta_10k_2016",
+    "title": "CEB 2016 Form 10-K",
+    "publisher": "U.S. Securities and Exchange Commission",
+    "url": "https://www.sec.gov/Archives/edgar/data/1066104/000156459017002920/ceb-10k_20161231.htm",
+    "source_class": "regulatory_filing",
+    "published_date": "2017-02-22",
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "Evanta completion date",
+      "final net consideration",
+      "debt financing",
+      "sponsorship revenue model",
+      "business description"
+    ]
+  },
+  {
+    "id": "src_gartner_ceb_announcement_2017",
+    "title": "Gartner to Acquire CEB for $2.6 Billion in Cash and Stock",
+    "publisher": "Gartner",
+    "url": "https://investor.gartner.com/news-releases/news-release-details/gartner-acquire-ceb-26-billion-cash-and-stock",
+    "source_class": "official_transaction_announcement",
+    "published_date": "2017-01-05",
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "Gartner agreement to acquire CEB",
+      "$2.6 billion transaction value",
+      "cash and stock structure",
+      "strategic rationale"
+    ]
+  },
+  {
+    "id": "src_gartner_ceb_completion_2017",
+    "title": "Gartner Completes Acquisition of CEB",
+    "publisher": "Gartner filing with the U.S. Securities and Exchange Commission",
+    "url": "https://www.sec.gov/Archives/edgar/data/749251/000093041317001425/c88055_ex99-2.htm",
+    "source_class": "regulatory_filing",
+    "published_date": "2017-04-06",
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "CEB acquisition completion",
+      "completion date",
+      "$2.6 billion transaction value"
+    ]
+  },
+  {
+    "id": "src_gartner_ceb_proxy_2017",
+    "title": "Gartner and CEB Joint Proxy Statement and Prospectus",
+    "publisher": "Gartner",
+    "url": "https://investor.gartner.com/static-files/25570e2d-7c3f-4065-badb-3d0864ec084c",
+    "source_class": "regulatory_filing",
+    "published_date": "2017-03-07",
+    "accessed_date": "2026-10-10",
+    "supports": [
+      "transaction process",
+      "Centerview advice to CEB",
+      "Goldman Sachs and Evercore advice to Gartner",
+      "CEB acquisition of Evanta context",
+      "financial analysis"
     ]
   },
   {

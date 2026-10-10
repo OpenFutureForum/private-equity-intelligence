@@ -410,5 +410,56 @@
       "src_apollo_emerald_questex_2026"
     ],
     "last_verified": "2026-10-10"
+  },
+  {
+    "id": "firm_gridiron",
+    "slug": "gridiron-capital",
+    "name": "Gridiron Capital",
+    "firm_type": "private_equity",
+    "website": "https://gridironcapital.com/",
+    "description": "Private-equity firm that acquired Vistage from Providence Equity Partners in partnership with Vistage management.",
+    "source_ids": [
+      "src_vistage_gridiron_2022",
+      "src_gridiron_vistage_2022"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "firm_leeds_equity",
+    "slug": "leeds-equity-partners",
+    "name": "Leeds Equity Partners",
+    "firm_type": "private_equity",
+    "website": "https://www.leedsequity.com/",
+    "description": "Private-equity firm identified as the principal owner that sold Evanta to CEB in 2016.",
+    "source_ids": [
+      "src_ceb_evanta_announcement_2016"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "firm_ceb",
+    "slug": "ceb",
+    "name": "CEB",
+    "firm_type": "strategic_acquirer",
+    "website": "https://www.gartner.com/en/about/acquisitions/history/ceb-message",
+    "description": "Public research and advisory company that acquired Evanta before being acquired by Gartner.",
+    "source_ids": [
+      "src_ceb_evanta_announcement_2016",
+      "src_gartner_ceb_announcement_2017"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "firm_gartner",
+    "slug": "gartner",
+    "name": "Gartner",
+    "firm_type": "strategic_acquirer",
+    "website": "https://www.gartner.com/",
+    "description": "Public research and advisory company that acquired CEB in 2017 and integrated its research and events operations.",
+    "source_ids": [
+      "src_gartner_ceb_announcement_2017",
+      "src_gartner_ceb_completion_2017"
+    ],
+    "last_verified": "2026-10-10"
   }
 ]

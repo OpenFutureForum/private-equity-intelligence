@@ -9,8 +9,8 @@ const load = async (name, folder = 'data') => folder === 'data'
 
 test('National Edition has meaningful depth', async () => {
   const [deals, people, providers, sources, markets] = await Promise.all([load('deals'), load('people'), load('providers'), load('sources'), load('markets')]);
-  assert.equal(deals.length, 100);
-  assert.equal(people.length, 667);
+  assert.ok(deals.length >= 100);
+  assert.ok(people.length >= 667);
   assert.ok(providers.length >= 31);
   assert.ok(sources.length >= 80);
   assert.equal(markets.length, 10);

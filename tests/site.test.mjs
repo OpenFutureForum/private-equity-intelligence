@@ -5,7 +5,7 @@ import { access, readFile, readdir } from 'node:fs/promises';
 const file = (name) => new URL(`../docs/${name}`, import.meta.url);
 
 test('essential pages and discovery files are generated', async () => {
-  for (const name of ['index.html','deals/index.html','atlas/index.html','atlas/new-york/index.html','people/index.html','providers/index.html','depth/index.html','methodology/index.html','data/markets.json','data/markets.csv','data/research-program.json','sitemap.xml','robots.txt','llms.txt','.nojekyll']) {
+  for (const name of ['index.html','deals/index.html','atlas/index.html','atlas/new-york/index.html','people/index.html','providers/index.html','depth/index.html','themes/executive-communities/index.html','methodology/index.html','data/markets.json','data/markets.csv','data/research-program.json','sitemap.xml','robots.txt','llms.txt','.nojekyll']) {
     await assert.doesNotReject(access(file(name)));
   }
 });
@@ -52,8 +52,8 @@ test('release pages expose the expanded people directory and 100-deal target', a
     readFile(file('deals/index.html'), 'utf8'),
     readFile(file('people/index.html'), 'utf8')
   ]);
-  assert.match(home, /<strong>100<\/strong><span>transactions<\/span>/);
-  assert.match(home, /<strong>667<\/strong><span>professional profiles<\/span>/);
+  assert.match(home, /<strong>103<\/strong><span>transactions<\/span>/);
+  assert.match(home, /<strong>671<\/strong><span>professional profiles<\/span>/);
   assert.match(deals, /86 official portfolio records/);
   assert.match(people, /<strong>476<\/strong><span>U\.S\. atlas<\/span>/);
   assert.match(people, /<strong>167<\/strong><span>PE ecosystem<\/span>/);

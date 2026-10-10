@@ -14,9 +14,18 @@
     "seller_names": [],
     "enterprise_value": null,
     "investment_thesis": "An invitation-only executive network built around trusted peer exchange, membership relationships and knowledge access.",
+    "research_insights": [
+      {"label":"Membership scale","value":"World 50 served more than 1,700 senior executives at major global organizations through invitation-only private peer communities at the time of the investment.","source_ids":["src_world50_mscp_2020"]},
+      {"label":"Retention signal","value":"MSCP highlighted World 50's high member retention and Net Promoter Score as evidence of the strength of the member experience.","source_ids":["src_world50_mscp_2020"]},
+      {"label":"Growth plan","value":"The ownership plan centered on broader networks, richer member experiences, geographic expansion, technology and acquisitions.","source_ids":["src_world50_mscp_2020"]},
+      {"label":"Management alignment","value":"Existing management retained leadership and rolled a substantial amount of transaction proceeds into the new ownership structure.","source_ids":["src_world50_mscp_2020"]}
+    ],
     "provider_roles": [],
-    "people_roles": [],
-    "source_ids": ["src_world50_continuation_2024"],
+    "people_roles": [
+      {"person_id":"person_adam_shaw","label":"official_transaction_spokesperson","organization":"Morgan Stanley Capital Partners","attribution":"Quoted on World 50's peer-to-peer platform, growth record and company culture.","source_id":"src_world50_mscp_2020"},
+      {"person_id":"person_david_wilkie","label":"official_transaction_spokesperson","organization":"World 50","attribution":"Quoted on broadening World 50's networks and enriching the member experience.","source_id":"src_world50_mscp_2020"}
+    ],
+    "source_ids": ["src_world50_mscp_2020", "src_world50_continuation_2024"],
     "last_verified": "2026-10-10"
   },
   {

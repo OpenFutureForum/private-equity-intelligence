@@ -2454,6 +2454,66 @@
     "last_verified": "2026-10-10"
   },
   {
+    "id": "person_tom_burger",
+    "slug": "tom-burger",
+    "name": "Tom Burger",
+    "profile_scope": [
+      "transaction_attribution"
+    ],
+    "current_title": "Co-Founder and Managing Partner",
+    "organization": "Gridiron Capital",
+    "summary": "Named Gridiron spokesperson explaining the firm's view of Vistage's value to CEOs and executives.",
+    "source_ids": [
+      "src_vistage_gridiron_2022"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_will_hausberg",
+    "slug": "will-hausberg",
+    "name": "Will Hausberg",
+    "profile_scope": [
+      "transaction_attribution"
+    ],
+    "current_title": "Senior Managing Director",
+    "organization": "Gridiron Capital",
+    "summary": "Named Gridiron spokesperson connecting Vistage to professional training and human-capital investment themes.",
+    "source_ids": [
+      "src_vistage_gridiron_2022"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_david_phillips_providence",
+    "slug": "david-phillips-providence",
+    "name": "David Phillips",
+    "profile_scope": [
+      "transaction_attribution"
+    ],
+    "current_title": "Senior Managing Director",
+    "organization": "Providence Equity Partners",
+    "summary": "Named Providence spokesperson describing membership growth and program development during its ownership of Vistage.",
+    "source_ids": [
+      "src_vistage_gridiron_2022"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "person_sam_reese",
+    "slug": "sam-reese",
+    "name": "Sam Reese",
+    "profile_scope": [
+      "transaction_attribution"
+    ],
+    "current_title": "Chief Executive Officer",
+    "organization": "Vistage Worldwide",
+    "summary": "Named Vistage chief executive at the time of the 2022 Gridiron transaction.",
+    "source_ids": [
+      "src_vistage_gridiron_2022"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
     "id": "person_kkr_alex_ward",
     "slug": "kkr-alex-ward",
     "name": "Alex Ward",

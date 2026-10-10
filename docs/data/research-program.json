@@ -7,7 +7,7 @@
     {
       "deal_id": "deal_world50_mscp_2020",
       "company_id": "company_world50",
-      "score": 85,
+      "score": 100,
       "status": "complete"
     },
     {
@@ -85,6 +85,24 @@
     {
       "deal_id": "deal_questex_apollo_2026",
       "company_id": "company_questex",
+      "score": 100,
+      "status": "complete"
+    },
+    {
+      "deal_id": "deal_vistage_gridiron_2022",
+      "company_id": "company_vistage",
+      "score": 100,
+      "status": "complete"
+    },
+    {
+      "deal_id": "deal_evanta_ceb_2016",
+      "company_id": "company_evanta",
+      "score": 100,
+      "status": "complete"
+    },
+    {
+      "deal_id": "deal_ceb_gartner_2017",
+      "company_id": "company_ceb",
       "score": 100,
       "status": "complete"
     },
@@ -283,24 +301,6 @@
     {
       "deal_id": "deal_kkr_outsystems_2018",
       "company_id": "company_kkr_outsystems",
-      "score": 80,
-      "status": "complete"
-    },
-    {
-      "deal_id": "deal_kkr_trilogy_medwaste_2017",
-      "company_id": "company_kkr_trilogy_medwaste",
-      "score": 80,
-      "status": "complete"
-    },
-    {
-      "deal_id": "deal_kkr_reserv_2026",
-      "company_id": "company_kkr_reserv",
-      "score": 80,
-      "status": "complete"
-    },
-    {
-      "deal_id": "deal_kkr_henry_schein_2025",
-      "company_id": "company_kkr_henry_schein",
       "score": 80,
       "status": "complete"
     }

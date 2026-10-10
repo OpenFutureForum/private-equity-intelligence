@@ -56,6 +56,24 @@
       "slug": "open-future-forum"
     },
     {
+      "id": "company_vistage",
+      "type": "company",
+      "name": "Vistage Worldwide",
+      "slug": "vistage-worldwide"
+    },
+    {
+      "id": "company_evanta",
+      "type": "company",
+      "name": "Evanta",
+      "slug": "evanta"
+    },
+    {
+      "id": "company_ceb",
+      "type": "company",
+      "name": "CEB",
+      "slug": "ceb"
+    },
+    {
       "id": "company_kkr_1_800_contacts_inc",
       "type": "company",
       "name": "1-800 Contacts, Inc.",
@@ -720,6 +738,30 @@
       "type": "firm",
       "name": "Apollo",
       "slug": "apollo"
+    },
+    {
+      "id": "firm_gridiron",
+      "type": "firm",
+      "name": "Gridiron Capital",
+      "slug": "gridiron-capital"
+    },
+    {
+      "id": "firm_leeds_equity",
+      "type": "firm",
+      "name": "Leeds Equity Partners",
+      "slug": "leeds-equity-partners"
+    },
+    {
+      "id": "firm_ceb",
+      "type": "firm",
+      "name": "CEB",
+      "slug": "ceb"
+    },
+    {
+      "id": "firm_gartner",
+      "type": "firm",
+      "name": "Gartner",
+      "slug": "gartner"
     },
     {
       "id": "person_holden_spaht",
@@ -1536,6 +1578,30 @@
       "type": "person",
       "name": "Jennifer A. Barbetta",
       "slug": "jennifer-barbetta"
+    },
+    {
+      "id": "person_tom_burger",
+      "type": "person",
+      "name": "Tom Burger",
+      "slug": "tom-burger"
+    },
+    {
+      "id": "person_will_hausberg",
+      "type": "person",
+      "name": "Will Hausberg",
+      "slug": "will-hausberg"
+    },
+    {
+      "id": "person_david_phillips_providence",
+      "type": "person",
+      "name": "David Phillips",
+      "slug": "david-phillips-providence"
+    },
+    {
+      "id": "person_sam_reese",
+      "type": "person",
+      "name": "Sam Reese",
+      "slug": "sam-reese"
     },
     {
       "id": "person_kkr_alex_ward",
@@ -4910,6 +4976,48 @@
       "slug": "sidley-austin"
     },
     {
+      "id": "provider_macquarie_capital",
+      "type": "provider",
+      "name": "Macquarie Capital",
+      "slug": "macquarie-capital"
+    },
+    {
+      "id": "provider_ropes_gray",
+      "type": "provider",
+      "name": "Ropes & Gray",
+      "slug": "ropes-gray"
+    },
+    {
+      "id": "provider_stradling",
+      "type": "provider",
+      "name": "Stradling Yocca Carlson & Rauth",
+      "slug": "stradling-yocca-carlson-rauth"
+    },
+    {
+      "id": "provider_truist_securities",
+      "type": "provider",
+      "name": "Truist Securities",
+      "slug": "truist-securities"
+    },
+    {
+      "id": "provider_finn_dixon_herling",
+      "type": "provider",
+      "name": "Finn Dixon & Herling",
+      "slug": "finn-dixon-herling"
+    },
+    {
+      "id": "provider_centerview",
+      "type": "provider",
+      "name": "Centerview Partners",
+      "slug": "centerview-partners"
+    },
+    {
+      "id": "provider_evercore",
+      "type": "provider",
+      "name": "Evercore",
+      "slug": "evercore"
+    },
+    {
       "id": "market_bay_area",
       "type": "market",
       "name": "San Francisco Bay Area",
@@ -5052,6 +5160,24 @@
       "type": "deal",
       "name": "Apollo Funds agree to acquire Questex",
       "slug": "questex-apollo-2026"
+    },
+    {
+      "id": "deal_vistage_gridiron_2022",
+      "type": "deal",
+      "name": "Gridiron Capital agrees to acquire Vistage from Providence",
+      "slug": "vistage-gridiron-2022"
+    },
+    {
+      "id": "deal_evanta_ceb_2016",
+      "type": "deal",
+      "name": "CEB acquires Evanta from Leeds Equity Partners",
+      "slug": "evanta-ceb-2016"
+    },
+    {
+      "id": "deal_ceb_gartner_2017",
+      "type": "deal",
+      "name": "Gartner acquires CEB",
+      "slug": "ceb-gartner-2017"
     },
     {
       "id": "deal_kkr_1_800_contacts_inc_2020",
@@ -5576,6 +5702,7 @@
       "to": "company_world50",
       "type": "targets",
       "source_ids": [
+        "src_world50_mscp_2020",
         "src_world50_continuation_2024"
       ]
     },
@@ -5584,7 +5711,26 @@
       "to": "deal_world50_mscp_2020",
       "type": "buyer",
       "source_ids": [
+        "src_world50_mscp_2020",
         "src_world50_continuation_2024"
+      ]
+    },
+    {
+      "from": "person_adam_shaw",
+      "to": "deal_world50_mscp_2020",
+      "type": "official_transaction_spokesperson",
+      "organization": "Morgan Stanley Capital Partners",
+      "source_ids": [
+        "src_world50_mscp_2020"
+      ]
+    },
+    {
+      "from": "person_david_wilkie",
+      "to": "deal_world50_mscp_2020",
+      "type": "official_transaction_spokesperson",
+      "organization": "World 50",
+      "source_ids": [
+        "src_world50_mscp_2020"
       ]
     },
     {
@@ -6544,6 +6690,209 @@
       "organization": "Questex",
       "source_ids": [
         "src_apollo_emerald_questex_2026"
+      ]
+    },
+    {
+      "from": "deal_vistage_gridiron_2022",
+      "to": "company_vistage",
+      "type": "targets",
+      "source_ids": [
+        "src_vistage_gridiron_2022",
+        "src_gridiron_vistage_2022"
+      ]
+    },
+    {
+      "from": "firm_gridiron",
+      "to": "deal_vistage_gridiron_2022",
+      "type": "buyer",
+      "source_ids": [
+        "src_vistage_gridiron_2022",
+        "src_gridiron_vistage_2022"
+      ]
+    },
+    {
+      "from": "firm_providence",
+      "to": "deal_vistage_gridiron_2022",
+      "type": "seller",
+      "source_ids": [
+        "src_vistage_gridiron_2022",
+        "src_gridiron_vistage_2022"
+      ]
+    },
+    {
+      "from": "provider_macquarie_capital",
+      "to": "deal_vistage_gridiron_2022",
+      "type": "provider",
+      "role": "financial adviser to Providence Equity Partners and Vistage",
+      "side": "seller",
+      "source_ids": [
+        "src_vistage_gridiron_2022"
+      ]
+    },
+    {
+      "from": "provider_ropes_gray",
+      "to": "deal_vistage_gridiron_2022",
+      "type": "provider",
+      "role": "legal counsel to Providence Equity Partners and Vistage",
+      "side": "seller",
+      "source_ids": [
+        "src_vistage_gridiron_2022"
+      ]
+    },
+    {
+      "from": "provider_stradling",
+      "to": "deal_vistage_gridiron_2022",
+      "type": "provider",
+      "role": "legal counsel to Providence Equity Partners and Vistage",
+      "side": "seller",
+      "source_ids": [
+        "src_vistage_gridiron_2022"
+      ]
+    },
+    {
+      "from": "provider_truist_securities",
+      "to": "deal_vistage_gridiron_2022",
+      "type": "provider",
+      "role": "financial adviser to Gridiron Capital",
+      "side": "buyer",
+      "source_ids": [
+        "src_vistage_gridiron_2022"
+      ]
+    },
+    {
+      "from": "provider_finn_dixon_herling",
+      "to": "deal_vistage_gridiron_2022",
+      "type": "provider",
+      "role": "legal counsel to Gridiron Capital",
+      "side": "buyer",
+      "source_ids": [
+        "src_vistage_gridiron_2022"
+      ]
+    },
+    {
+      "from": "person_tom_burger",
+      "to": "deal_vistage_gridiron_2022",
+      "type": "official_transaction_spokesperson",
+      "organization": "Gridiron Capital",
+      "source_ids": [
+        "src_vistage_gridiron_2022"
+      ]
+    },
+    {
+      "from": "person_will_hausberg",
+      "to": "deal_vistage_gridiron_2022",
+      "type": "official_transaction_spokesperson",
+      "organization": "Gridiron Capital",
+      "source_ids": [
+        "src_vistage_gridiron_2022"
+      ]
+    },
+    {
+      "from": "person_david_phillips_providence",
+      "to": "deal_vistage_gridiron_2022",
+      "type": "official_transaction_spokesperson",
+      "organization": "Providence Equity Partners",
+      "source_ids": [
+        "src_vistage_gridiron_2022"
+      ]
+    },
+    {
+      "from": "person_sam_reese",
+      "to": "deal_vistage_gridiron_2022",
+      "type": "official_transaction_spokesperson",
+      "organization": "Vistage Worldwide",
+      "source_ids": [
+        "src_vistage_gridiron_2022"
+      ]
+    },
+    {
+      "from": "deal_evanta_ceb_2016",
+      "to": "company_evanta",
+      "type": "targets",
+      "source_ids": [
+        "src_ceb_evanta_announcement_2016",
+        "src_ceb_evanta_10k_2016",
+        "src_gartner_ceb_proxy_2017"
+      ]
+    },
+    {
+      "from": "firm_ceb",
+      "to": "deal_evanta_ceb_2016",
+      "type": "buyer",
+      "source_ids": [
+        "src_ceb_evanta_announcement_2016",
+        "src_ceb_evanta_10k_2016",
+        "src_gartner_ceb_proxy_2017"
+      ]
+    },
+    {
+      "from": "firm_leeds_equity",
+      "to": "deal_evanta_ceb_2016",
+      "type": "seller",
+      "source_ids": [
+        "src_ceb_evanta_announcement_2016",
+        "src_ceb_evanta_10k_2016",
+        "src_gartner_ceb_proxy_2017"
+      ]
+    },
+    {
+      "from": "provider_centerview",
+      "to": "deal_evanta_ceb_2016",
+      "type": "provider",
+      "role": "financial adviser to CEB in connection with the Evanta acquisition",
+      "side": "buyer",
+      "source_ids": [
+        "src_gartner_ceb_proxy_2017"
+      ]
+    },
+    {
+      "from": "deal_ceb_gartner_2017",
+      "to": "company_ceb",
+      "type": "targets",
+      "source_ids": [
+        "src_gartner_ceb_announcement_2017",
+        "src_gartner_ceb_completion_2017",
+        "src_gartner_ceb_proxy_2017"
+      ]
+    },
+    {
+      "from": "firm_gartner",
+      "to": "deal_ceb_gartner_2017",
+      "type": "buyer",
+      "source_ids": [
+        "src_gartner_ceb_announcement_2017",
+        "src_gartner_ceb_completion_2017",
+        "src_gartner_ceb_proxy_2017"
+      ]
+    },
+    {
+      "from": "provider_centerview",
+      "to": "deal_ceb_gartner_2017",
+      "type": "provider",
+      "role": "financial adviser and fairness-opinion provider to CEB",
+      "side": "seller",
+      "source_ids": [
+        "src_gartner_ceb_proxy_2017"
+      ]
+    },
+    {
+      "from": "provider_goldman_sachs",
+      "to": "deal_ceb_gartner_2017",
+      "type": "provider",
+      "role": "financial adviser to Gartner",
+      "side": "buyer",
+      "source_ids": [
+        "src_gartner_ceb_proxy_2017"
+      ]
+    },
+    {
+      "from": "provider_evercore",
+      "to": "deal_ceb_gartner_2017",
+      "type": "provider",
+      "role": "financial adviser to Gartner",
+      "side": "buyer",
+      "source_ids": [
+        "src_gartner_ceb_proxy_2017"
       ]
     },
     {

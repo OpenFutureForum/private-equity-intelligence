@@ -173,6 +173,67 @@
     "last_verified": "2026-10-10"
   },
   {
+    "id": "company_vistage",
+    "slug": "vistage-worldwide",
+    "name": "Vistage Worldwide",
+    "company_type": "executive_peer_network",
+    "headquarters": "San Diego, California, United States",
+    "website": "https://www.vistage.com/",
+    "description": "Subscription-based CEO membership organization combining confidential peer advisory groups with one-to-one executive coaching.",
+    "relationship_archetypes": [
+      "executive community",
+      "peer advisory",
+      "executive coaching",
+      "subscription membership"
+    ],
+    "source_ids": [
+      "src_vistage_gridiron_2022",
+      "src_gridiron_vistage_2022"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_evanta",
+    "slug": "evanta",
+    "name": "Evanta",
+    "company_type": "executive_peer_network",
+    "headquarters": "Portland, Oregon, United States",
+    "website": "https://www.evanta.com/",
+    "description": "C-suite executive development and collaboration platform built around peer engagement, networking, leadership training and sponsored events.",
+    "relationship_archetypes": [
+      "executive community",
+      "peer network",
+      "leadership events",
+      "sponsorship revenue"
+    ],
+    "source_ids": [
+      "src_ceb_evanta_announcement_2016",
+      "src_ceb_evanta_10k_2016"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
+    "id": "company_ceb",
+    "slug": "ceb",
+    "name": "CEB",
+    "company_type": "research_and_advisory",
+    "headquarters": "Arlington, Virginia, United States",
+    "website": "https://www.gartner.com/en/about/acquisitions/history/ceb-message",
+    "description": "Membership-based research, best-practice insight, talent management and executive events platform serving major enterprise functions.",
+    "relationship_archetypes": [
+      "membership research",
+      "executive community",
+      "advisory",
+      "events"
+    ],
+    "source_ids": [
+      "src_gartner_ceb_announcement_2017",
+      "src_gartner_ceb_completion_2017",
+      "src_gartner_ceb_proxy_2017"
+    ],
+    "last_verified": "2026-10-10"
+  },
+  {
     "id": "company_kkr_1_800_contacts_inc",
     "slug": "kkr-1-800-contacts-inc",
     "name": "1-800 Contacts, Inc.",
