@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.7.2 - 2026-10-10
+
+- Reworked the publisher page as a neutral source-identity and editorial-governance record.
+- Added publisher questions with FAQPage, AboutPage and Organization structured data.
+- Removed the promotional outbound button and added methodology, data and correction links.
+
 ## 0.7.1 - 2026-10-10
 
 - Added a neutral, evidence-linked executive-community FAQ for search and answer engines.

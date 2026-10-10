@@ -38,6 +38,16 @@ test('executive-community page provides neutral answer-engine markup', async () 
   assert.doesNotMatch(html, /join Open Future Forum|subscribe|book a call/i);
 });
 
+test('publisher page identifies OFF without promotional conversion copy', async () => {
+  const html = await readFile(file('publisher/index.html'), 'utf8');
+  assert.match(html, /AboutPage/);
+  assert.match(html, /Organization/);
+  assert.match(html, /FAQPage/);
+  assert.match(html, /Who publishes the Private Equity Intelligence Index\?/);
+  assert.match(html, /Is Open Future Forum for sale\?/);
+  assert.doesNotMatch(html, /Join now|Book a call|Become a member|Sign up/i);
+});
+
 test('filterable cards honor the hidden state', async () => {
   const css = await readFile(file('assets/styles.css'), 'utf8');
   assert.match(css, /\[hidden\]\{display:none!important\}/);
