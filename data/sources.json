@@ -788,5 +788,45 @@
     "published_date": null,
     "accessed_date": "2026-10-10",
     "supports": ["current title", "firm operating responsibilities", "Boston location"]
+  },
+  {
+    "id": "src_informa_tarsus_announcement_2023",
+    "title": "Informa further strengthens leadership in B2B market through acquisition of Tarsus",
+    "publisher": "Informa",
+    "url": "https://www.informa.com/globalassets/documents/investor-relations/2023/informa-announces-the-acquisition-of-tarsus.pdf",
+    "source_class": "official_transaction_announcement",
+    "published_date": "2023-03-09",
+    "accessed_date": "2026-10-10",
+    "supports": ["transaction value", "funding mix", "valuation multiple", "audience scale", "operating synergies", "named transaction spokesperson"]
+  },
+  {
+    "id": "src_informa_annual_report_2023_tarsus",
+    "title": "Informa 2023 Full Year Results",
+    "publisher": "Informa",
+    "url": "https://www.informa.com/globalassets/documents/investor-relations/2024/informa-full-year-2023-results.pdf",
+    "source_class": "annual_report",
+    "published_date": "2024-03-07",
+    "accessed_date": "2026-10-10",
+    "supports": ["Tarsus completion date", "consideration structure", "debt repayment"]
+  },
+  {
+    "id": "src_onex_emerald_portfolio_2026",
+    "title": "Emerald portfolio record",
+    "publisher": "Onex",
+    "url": "https://onex.com/portfolio/OP-OpCo-Emerald",
+    "source_class": "official_portfolio_record",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": ["Onex ownership period", "investment platform", "sector", "headquarters"]
+  },
+  {
+    "id": "src_pei_bridgepoint_reinvestment_2023_web",
+    "title": "PEI Group secures further funding from Bridgepoint",
+    "publisher": "PEI Group",
+    "url": "https://www.pei.group/news/pei-group-secures-further-funding-from-bridgepoint/",
+    "source_class": "official_company_announcement",
+    "published_date": "2023-12-20",
+    "accessed_date": "2026-10-10",
+    "supports": ["reinvestment", "fund transition", "revenue growth", "EBITDA growth", "organic and acquisitive growth plan"]
   }
 ]

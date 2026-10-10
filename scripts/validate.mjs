@@ -62,6 +62,14 @@ for (const deal of deals) {
     assert(deal.source_ids.includes(role.source_id), `deals/${deal.id}: people-role source must be included on deal`);
     assert(role.attribution?.length > 15, `deals/${deal.id}: people role needs explicit attribution language`);
   }
+  for (const insight of deal.research_insights ?? []) {
+    assert(insight.label && insight.value?.length > 20, `deals/${deal.id}: incomplete research insight`);
+    assert(Array.isArray(insight.source_ids) && insight.source_ids.length > 0, `deals/${deal.id}: research insight needs a source`);
+    for (const sourceId of insight.source_ids) {
+      assert(sourceIds.has(sourceId), `deals/${deal.id}: unknown research-insight source ${sourceId}`);
+      assert(deal.source_ids.includes(sourceId), `deals/${deal.id}: research-insight source must be included on deal`);
+    }
+  }
   if (deal.evidence_tier === 'official_portfolio_record') {
     assert(deal.date_basis === 'investment_year', `deals/${deal.id}: portfolio record must use investment-year dating`);
     assert(deal.provider_roles.length === 0 && deal.people_roles.length === 0, `deals/${deal.id}: portfolio record must not infer deal participants`);

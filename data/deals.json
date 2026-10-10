@@ -225,7 +225,7 @@
     "title": "Charterhouse agrees sale of Tarsus to Informa",
     "target_company_id": "company_tarsus",
     "announced_on": "2023-03-09",
-    "completed_on": null,
+    "completed_on": "2023-04-17",
     "status": "completed",
     "transaction_type": "sponsor_exit_to_strategic",
     "buyer_firm_ids": ["firm_informa"],
@@ -233,10 +233,18 @@
     "buyer_names": [],
     "seller_names": [],
     "enterprise_value": {"amount":940000000,"currency":"USD","display":"$940 million"},
-    "investment_thesis": "Strategic combination of complementary international B2B events portfolios.",
+    "investment_thesis": "Strategic combination of complementary international B2B events portfolios, specialist audiences and first-party data.",
     "provider_roles": [],
-    "people_roles": [],
-    "source_ids": ["src_tarsus_exit_2023"],
+    "people_roles": [
+      {"person_id":"person_robert_leeming","label":"official_transaction_spokesperson","organization":"Charterhouse Capital Partners","attribution":"Named and quoted in Informa's official transaction announcement as the Charterhouse partner responsible for the investment.","source_id":"src_informa_tarsus_announcement_2023"}
+    ],
+    "research_insights": [
+      {"label":"Audience scale","value":"The top ten Tarsus brands reached approximately 515,000 attendees and more than 8,350 exhibitors.","source_ids":["src_informa_tarsus_announcement_2023"]},
+      {"label":"Transaction economics","value":"The $940 million initial enterprise value represented approximately 9.9 times post-synergy EBITDA for 2023 and 2024, falling below 9 times for 2024 and 2025.","source_ids":["src_informa_tarsus_announcement_2023"]},
+      {"label":"Value creation plan","value":"Informa identified more than $20 million of annual operating synergies plus cross-marketing, digital expansion, new launches and integration of Tarsus audience data into IIRIS.","source_ids":["src_informa_tarsus_announcement_2023"]},
+      {"label":"Funding and closing","value":"Consideration combined cash with $210 million of Informa shares. Informa's results record completion on 17 April 2023 and repayment of £443.9 million of acquired debt.","source_ids":["src_informa_tarsus_announcement_2023","src_informa_annual_report_2023_tarsus"]}
+    ],
+    "source_ids": ["src_tarsus_exit_2023","src_informa_tarsus_announcement_2023","src_informa_annual_report_2023_tarsus"],
     "last_verified": "2026-10-10"
   },
   {
@@ -269,7 +277,7 @@
     "slug": "pei-group-bridgepoint-follow-on-2023",
     "title": "Bridgepoint provides further funding to PEI Group",
     "target_company_id": "company_pei",
-    "announced_on": "2023-12",
+    "announced_on": "2023-12-19",
     "completed_on": null,
     "status": "completed",
     "transaction_type": "follow_on_investment",
@@ -278,10 +286,15 @@
     "buyer_names": [],
     "seller_names": [],
     "enterprise_value": null,
-    "investment_thesis": "Continued expansion of a data, subscription, events and community platform serving private markets.",
+    "investment_thesis": "A fund-to-fund reinvestment supporting the next stage of organic and acquisition-led growth in private-markets data, insights and events.",
     "provider_roles": [],
     "people_roles": [],
-    "source_ids": ["src_pei_followon_2023"],
+    "research_insights": [
+      {"label":"Fund transition","value":"Bridgepoint moved the investment from its small mid-cap BDC strategy to the larger Bridgepoint Europe VII buyout fund, alongside reinvestment by existing investors and management.","source_ids":["src_pei_followon_2023","src_pei_bridgepoint_reinvestment_2023_web"]},
+      {"label":"Operating growth","value":"PEI reported that revenue tripled and EBITDA quadrupled during the first five years of Bridgepoint ownership.","source_ids":["src_pei_followon_2023","src_pei_bridgepoint_reinvestment_2023_web"]},
+      {"label":"Use of capital","value":"The new investment was designated for both organic development and acquisitions.","source_ids":["src_pei_followon_2023","src_pei_bridgepoint_reinvestment_2023_web"]}
+    ],
+    "source_ids": ["src_pei_followon_2023","src_pei_bridgepoint_reinvestment_2023_web"],
     "last_verified": "2026-10-10"
   },
   {
@@ -289,8 +302,8 @@
     "slug": "nielsen-expositions-onex-2013",
     "title": "Onex acquires Nielsen Expositions, later rebranded Emerald",
     "target_company_id": "company_emerald",
-    "announced_on": "2013",
-    "completed_on": "2013",
+    "announced_on": "2013-05-04",
+    "completed_on": "2013-06-17",
     "status": "completed",
     "transaction_type": "corporate_carve_out",
     "buyer_firm_ids": ["firm_onex"],
@@ -298,10 +311,16 @@
     "buyer_names": [],
     "seller_names": ["Nielsen Holdings"],
     "enterprise_value": {"amount":948700000,"currency":"USD","display":"$948.7 million purchase price"},
-    "investment_thesis": "Carve-out of a portfolio of business-to-business trade shows and conferences serving industry communities.",
+    "investment_thesis": "A corporate carve-out created a standalone U.S. B2B events platform with room for organic expansion and add-on acquisitions.",
     "provider_roles": [],
     "people_roles": [],
-    "source_ids": ["src_emerald_sec_2017"],
+    "research_insights": [
+      {"label":"Carve-out structure","value":"An Onex affiliate acquired all shares of Nielsen Business Media Holding Company from Nielsen and renamed the standalone platform Emerald Expositions.","source_ids":["src_emerald_sec_2017"]},
+      {"label":"Transaction economics","value":"The documented purchase price was $948.7 million. Nielsen separately described total cash consideration of $950 million subject to closing adjustments.","source_ids":["src_emerald_sec_2017"]},
+      {"label":"Buy-and-build record","value":"By the 2017 registration statement, Emerald reported 13 strategic acquisitions after the carve-out, including the $335 million acquisition of GLM.","source_ids":["src_emerald_sec_2017"]},
+      {"label":"Ownership period","value":"Onex records its investment period as June 2013 through May 2026 under the Onex Partners platform.","source_ids":["src_onex_emerald_portfolio_2026"]}
+    ],
+    "source_ids": ["src_emerald_sec_2017","src_onex_emerald_portfolio_2026"],
     "last_verified": "2026-10-10"
   },
   {

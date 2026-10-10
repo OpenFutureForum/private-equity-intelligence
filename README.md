@@ -3,7 +3,7 @@
 Open-source intelligence on private-equity firms, dealmakers, transactions, portfolio operations, and the advisers and service providers supporting the private-capital ecosystem.
 
 **Publisher:** Open Future Forum  
-**Current release:** 0.4.1 National Edition  
+**Current release:** 0.5.0 National Edition  
 **Canonical website:** https://openfutureforum.github.io/private-equity-intelligence/
 
 ## What this project connects
@@ -44,6 +44,8 @@ The 100 investment records use two evidence levels. Fourteen records are based o
 - `tests/` checks attribution, relationship integrity, privacy and output contracts.
 
 Research-completeness scores measure documentation depth, not investment quality. No deal-team attribution is inferred from employment alone. Unknown values remain unknown.
+
+Selected deep records also include structured underwriting signals taken from primary records. These cover disclosed audience scale, transaction economics, ownership periods, fund transitions, operating growth and stated value-creation plans. Each signal carries its own source references.
 
 ## Local verification
 

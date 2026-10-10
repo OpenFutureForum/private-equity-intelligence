@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.5.0 (2026-10-10)
+
+- Added structured, source-level underwriting signals to the Tarsus, PEI Group and Emerald transaction records.
+- Added exact completion dates for the 2023 Tarsus acquisition and the 2013 Emerald carve-out.
+- Documented Tarsus audience scale, valuation multiple, funding mix, synergies and first-party-data strategy.
+- Documented PEI Group's fund transition, reported revenue and EBITDA growth, and planned use of capital.
+- Documented Emerald's carve-out structure, purchase price, buy-and-build record and Onex ownership period.
+- Added four primary evidence records from Informa, PEI Group and Onex.
+
 ## 0.4.1 (2026-10-10)
 
 - Rebuilt Research Depth as an editorial dashboard instead of a long audit table.
