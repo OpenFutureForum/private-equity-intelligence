@@ -185,7 +185,8 @@
     ],
     "source_ids": [
       "src_alpine_bayarea_2026",
-      "src_alpine_leadership_2024"
+      "src_alpine_leadership_2024",
+      "src_alpine_people"
     ],
     "last_verified": "2026-10-10"
   },
@@ -252,7 +253,17 @@
     ],
     "source_ids": [
       "src_ta_about",
-      "src_ta_offices"
+      "src_ta_offices",
+      "src_ta_tony_marsh",
+      "src_ta_brian_conway",
+      "src_ta_kevin_masse",
+      "src_ta_michelle_ra",
+      "src_ta_gabriel_weissmann",
+      "src_ta_chris_hong",
+      "src_ta_hunter_fortney",
+      "src_ta_daniel_winschuh",
+      "src_ta_mitchell_pitkin",
+      "src_ta_jennifer_barbetta"
     ],
     "last_verified": "2026-10-10"
   },
@@ -284,6 +295,7 @@
     ],
     "source_ids": [
       "src_mdp_home",
+      "src_mdp_team",
       "src_mdp_vahe_dombalagian"
     ],
     "last_verified": "2026-10-10"
@@ -300,7 +312,8 @@
     ],
     "source_ids": [
       "src_ares_kevin_cox",
-      "src_ares_shakun_khanna"
+      "src_ares_shakun_khanna",
+      "src_ares_andrew_jurkowski"
     ],
     "last_verified": "2026-10-10"
   },
@@ -316,6 +329,7 @@
     ],
     "source_ids": [
       "src_platinum_about",
+      "src_platinum_people",
       "src_platinum_johnny_lopez",
       "src_platinum_mark_barnhill"
     ],
@@ -352,7 +366,11 @@
       "src_carlyle_vipul_amin",
       "src_carlyle_jeremy_anderson",
       "src_carlyle_chioma_achebe",
-      "src_carlyle_brian_bernasek"
+      "src_carlyle_brian_bernasek",
+      "src_carlyle_rob_sears",
+      "src_carlyle_scott_hughes",
+      "src_carlyle_bruce_rosenblum",
+      "src_carlyle_arjun_shah"
     ],
     "last_verified": "2026-10-10"
   },

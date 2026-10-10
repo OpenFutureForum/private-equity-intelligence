@@ -608,5 +608,185 @@
     "published_date": "2026-06-24",
     "accessed_date": "2026-10-10",
     "supports": ["planned combined-company leadership", "Paul Miller attribution", "Shahid Bosan attribution"]
+  },
+  {
+    "id": "src_mdp_team",
+    "title": "Our Team",
+    "publisher": "Madison Dearborn Partners",
+    "url": "https://www.mdcp.com/team.asp",
+    "source_class": "official_professional_biography_directory",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": ["current professional names", "current professional titles", "single Chicago office"]
+  },
+  {
+    "id": "src_alpine_people",
+    "title": "Our People",
+    "publisher": "Alpine Investors",
+    "url": "https://alpineinvestors.com/teams/",
+    "source_class": "official_professional_biography_directory",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": ["current leadership names", "current leadership titles"]
+  },
+  {
+    "id": "src_platinum_people",
+    "title": "Our People",
+    "publisher": "Platinum Equity",
+    "url": "https://www.platinumequity.com/our-people/",
+    "source_class": "official_professional_biography_directory",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": ["current professional names", "current professional titles", "Los Angeles locations", "professional responsibilities"]
+  },
+  {
+    "id": "src_ares_andrew_jurkowski",
+    "title": "Andrew Jurkowski",
+    "publisher": "Ares Management",
+    "url": "https://www.aresmgmt.com/about-ares-management-corporation/our-team/andrew-jurkowski",
+    "source_class": "official_professional_biography",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": ["current title", "private-equity responsibilities", "Los Angeles location"]
+  },
+  {
+    "id": "src_carlyle_rob_sears",
+    "title": "Rob Sears",
+    "publisher": "Carlyle",
+    "url": "https://www.carlyle.com/about-carlyle/team/rob-sears",
+    "source_class": "official_professional_biography",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": ["current title", "global private-equity technology responsibilities", "Washington location"]
+  },
+  {
+    "id": "src_carlyle_scott_hughes",
+    "title": "Scott Hughes",
+    "publisher": "Carlyle",
+    "url": "https://www.carlyle.com/about-carlyle/team/scott-hughes",
+    "source_class": "official_professional_biography",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": ["current title", "Americas corporate private-equity responsibilities", "Washington location"]
+  },
+  {
+    "id": "src_carlyle_bruce_rosenblum",
+    "title": "Bruce E. Rosenblum",
+    "publisher": "Carlyle",
+    "url": "https://www.carlyle.com/about-carlyle/team/bruce-e-rosenblum?language_content_entity=en",
+    "source_class": "official_professional_biography",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": ["current title", "U.S. buyout background", "Washington location"]
+  },
+  {
+    "id": "src_carlyle_arjun_shah",
+    "title": "Arjun Shah",
+    "publisher": "Carlyle",
+    "url": "https://www.carlyle.com/about-carlyle/team/arjun-shah",
+    "source_class": "official_professional_biography",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": ["current title", "buyout and growth-equity responsibilities", "Washington location"]
+  },
+  {
+    "id": "src_ta_tony_marsh",
+    "title": "Tony Marsh",
+    "publisher": "TA",
+    "url": "https://www.ta.com/team/tony-marsh/",
+    "source_class": "official_professional_biography",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": ["current title", "capital-markets responsibilities", "Austin location"]
+  },
+  {
+    "id": "src_ta_brian_conway",
+    "title": "Brian J. Conway",
+    "publisher": "TA",
+    "url": "https://www.ta.com/team/brian-j-conway/",
+    "source_class": "official_professional_biography",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": ["current title", "private-equity experience", "Boston location"]
+  },
+  {
+    "id": "src_ta_kevin_masse",
+    "title": "Kevin L. Masse",
+    "publisher": "TA",
+    "url": "https://www.ta.com/team/kevin-l-masse/",
+    "source_class": "official_professional_biography",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": ["current title", "portfolio value-creation responsibilities", "Boston location"]
+  },
+  {
+    "id": "src_ta_michelle_ra",
+    "title": "Michelle Ra",
+    "publisher": "TA",
+    "url": "https://www.ta.com/team/michelle-ra/",
+    "source_class": "official_professional_biography",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": ["current title", "investment responsibilities", "Boston location"]
+  },
+  {
+    "id": "src_ta_gabriel_weissmann",
+    "title": "Gabriel I. Weissmann",
+    "publisher": "TA",
+    "url": "https://www.ta.com/team/gabriel-i-weissmann/",
+    "source_class": "official_professional_biography",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": ["current title", "investment responsibilities", "Boston location"]
+  },
+  {
+    "id": "src_ta_chris_hong",
+    "title": "Chris Hong",
+    "publisher": "TA",
+    "url": "https://www.ta.com/team/chris-hong/",
+    "source_class": "official_professional_biography",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": ["current title", "software investment responsibilities", "Boston location"]
+  },
+  {
+    "id": "src_ta_hunter_fortney",
+    "title": "Hunter Fortney",
+    "publisher": "TA",
+    "url": "https://www.ta.com/team/hunter-fortney/",
+    "source_class": "official_professional_biography",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": ["current title", "business and financial-services investment responsibilities", "Boston location"]
+  },
+  {
+    "id": "src_ta_daniel_winschuh",
+    "title": "Daniel F. Winschuh",
+    "publisher": "TA",
+    "url": "https://www.ta.com/team/daniel-f-winschuh/",
+    "source_class": "official_professional_biography",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": ["current title", "financial-services investment responsibilities", "Boston location"]
+  },
+  {
+    "id": "src_ta_mitchell_pitkin",
+    "title": "Mitchell J. Pitkin",
+    "publisher": "TA",
+    "url": "https://www.ta.com/team/mitchell-j-pitkin/",
+    "source_class": "official_professional_biography",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": ["current title", "capital-markets responsibilities", "Boston location"]
+  },
+  {
+    "id": "src_ta_jennifer_barbetta",
+    "title": "Jennifer A. Barbetta",
+    "publisher": "TA",
+    "url": "https://www.ta.com/team/jennifer-a-barbetta/",
+    "source_class": "official_professional_biography",
+    "published_date": null,
+    "accessed_date": "2026-10-10",
+    "supports": ["current title", "firm operating responsibilities", "Boston location"]
   }
 ]

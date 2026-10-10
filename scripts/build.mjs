@@ -77,7 +77,7 @@ function layout({ title, description, pagePath = '', eyebrow = '', body, schema 
   <a class="skip-link" href="#main">Skip to content</a>
   <header class="site-header"><div class="shell header-inner">${nav}</div></header>
   <main id="main">${eyebrow ? `<div class="shell page-kicker">${esc(eyebrow)}</div>` : ''}${body}</main>
-  <footer><div class="shell footer-grid"><div><div class="footer-title">Private Equity Intelligence Index</div><p>Source-backed research from Open Future Forum.</p></div><div><a href="${base}atlas/">U.S. Atlas</a><a href="${base}methodology/">Methodology</a><a href="${base}sources/">Sources</a><a href="${base}corrections/">Corrections</a></div><div><a href="${base}publisher/">Publisher</a><a href="${base}privacy/">Privacy</a><a href="https://github.com/OpenFutureForum/private-equity-intelligence">GitHub ↗</a></div></div><div class="shell footer-floor"><span>National Edition · v0.2.0</span><span>Data verified through 10 October 2026</span></div></footer>
+  <footer><div class="shell footer-grid"><div><div class="footer-title">Private Equity Intelligence Index</div><p>Source-backed research from Open Future Forum.</p></div><div><a href="${base}atlas/">U.S. Atlas</a><a href="${base}methodology/">Methodology</a><a href="${base}sources/">Sources</a><a href="${base}corrections/">Corrections</a></div><div><a href="${base}publisher/">Publisher</a><a href="${base}privacy/">Privacy</a><a href="https://github.com/OpenFutureForum/private-equity-intelligence">GitHub ↗</a></div></div><div class="shell footer-floor"><span>National Edition · v0.2.1</span><span>Data verified through 10 October 2026</span></div></footer>
   <script src="${base}assets/app.js" defer></script>
 </body></html>`;
 }

@@ -626,6 +626,402 @@
       "slug": "paul-miller"
     },
     {
+      "id": "person_evan_cottington",
+      "type": "person",
+      "name": "Evan Cottington",
+      "slug": "evan-cottington"
+    },
+    {
+      "id": "person_lance_curtis",
+      "type": "person",
+      "name": "Lance Curtis",
+      "slug": "lance-curtis"
+    },
+    {
+      "id": "person_bobby_exler",
+      "type": "person",
+      "name": "Bobby Exler",
+      "slug": "bobby-exler"
+    },
+    {
+      "id": "person_jim_fleming",
+      "type": "person",
+      "name": "Jim Fleming",
+      "slug": "jim-fleming"
+    },
+    {
+      "id": "person_charley_geiger",
+      "type": "person",
+      "name": "Charley Geiger",
+      "slug": "charley-geiger"
+    },
+    {
+      "id": "person_mujteba_haidri",
+      "type": "person",
+      "name": "Mujteba Haidri",
+      "slug": "mujteba-haidri"
+    },
+    {
+      "id": "person_tom_pitera",
+      "type": "person",
+      "name": "Tom Pitera",
+      "slug": "tom-pitera"
+    },
+    {
+      "id": "person_jonathan_pressnell",
+      "type": "person",
+      "name": "Jonathan Pressnell",
+      "slug": "jonathan-pressnell"
+    },
+    {
+      "id": "person_jeff_robich",
+      "type": "person",
+      "name": "Jeff Robich",
+      "slug": "jeff-robich"
+    },
+    {
+      "id": "person_rick_soukup",
+      "type": "person",
+      "name": "Rick Soukup",
+      "slug": "rick-soukup"
+    },
+    {
+      "id": "person_julie_stacey",
+      "type": "person",
+      "name": "Julie Stacey",
+      "slug": "julie-stacey"
+    },
+    {
+      "id": "person_scott_stone",
+      "type": "person",
+      "name": "Scott Stone",
+      "slug": "scott-stone"
+    },
+    {
+      "id": "person_gabe_trank",
+      "type": "person",
+      "name": "Gabe Trank",
+      "slug": "gabe-trank"
+    },
+    {
+      "id": "person_sean_ward",
+      "type": "person",
+      "name": "Sean Ward",
+      "slug": "sean-ward"
+    },
+    {
+      "id": "person_alex_weinstein",
+      "type": "person",
+      "name": "Alex Weinstein",
+      "slug": "alex-weinstein"
+    },
+    {
+      "id": "person_jake_white",
+      "type": "person",
+      "name": "Jake White",
+      "slug": "jake-white"
+    },
+    {
+      "id": "person_sarah_wild",
+      "type": "person",
+      "name": "Sarah Wild",
+      "slug": "sarah-wild"
+    },
+    {
+      "id": "person_brendan_barrett",
+      "type": "person",
+      "name": "Brendan T. Barrett",
+      "slug": "brendan-barrett"
+    },
+    {
+      "id": "person_elizabeth_betten",
+      "type": "person",
+      "name": "Elizabeth Q. Betten",
+      "slug": "elizabeth-betten"
+    },
+    {
+      "id": "person_joshua_damon",
+      "type": "person",
+      "name": "Joshua M. Damon",
+      "slug": "joshua-damon"
+    },
+    {
+      "id": "person_matthew_denison",
+      "type": "person",
+      "name": "Matthew M. Denison",
+      "slug": "matthew-denison"
+    },
+    {
+      "id": "person_michael_dolce",
+      "type": "person",
+      "name": "Michael J. Dolce",
+      "slug": "michael-dolce"
+    },
+    {
+      "id": "person_alex_fisher",
+      "type": "person",
+      "name": "Alex S. Fisher",
+      "slug": "alex-fisher"
+    },
+    {
+      "id": "person_scott_grace",
+      "type": "person",
+      "name": "Scott Grace",
+      "slug": "scott-grace"
+    },
+    {
+      "id": "person_john_knutsen",
+      "type": "person",
+      "name": "John Eric Knutsen",
+      "slug": "john-knutsen"
+    },
+    {
+      "id": "person_brandon_levitan",
+      "type": "person",
+      "name": "Brandon Levitan",
+      "slug": "brandon-levitan"
+    },
+    {
+      "id": "person_matthew_raino",
+      "type": "person",
+      "name": "Matthew W. Raino",
+      "slug": "matthew-raino"
+    },
+    {
+      "id": "person_tanner_scott",
+      "type": "person",
+      "name": "Tanner Scott",
+      "slug": "tanner-scott"
+    },
+    {
+      "id": "person_jason_shideler",
+      "type": "person",
+      "name": "Jason Shideler",
+      "slug": "jason-shideler"
+    },
+    {
+      "id": "person_annie_terry",
+      "type": "person",
+      "name": "Annie S. Terry",
+      "slug": "annie-terry"
+    },
+    {
+      "id": "person_rob_sears",
+      "type": "person",
+      "name": "Rob Sears",
+      "slug": "rob-sears"
+    },
+    {
+      "id": "person_scott_hughes",
+      "type": "person",
+      "name": "Scott Hughes",
+      "slug": "scott-hughes"
+    },
+    {
+      "id": "person_bruce_rosenblum",
+      "type": "person",
+      "name": "Bruce E. Rosenblum",
+      "slug": "bruce-rosenblum"
+    },
+    {
+      "id": "person_arjun_shah",
+      "type": "person",
+      "name": "Arjun Shah",
+      "slug": "arjun-shah"
+    },
+    {
+      "id": "person_andrew_jurkowski",
+      "type": "person",
+      "name": "Andrew Jurkowski",
+      "slug": "andrew-jurkowski"
+    },
+    {
+      "id": "person_jacob_kotzubei",
+      "type": "person",
+      "name": "Jacob Kotzubei",
+      "slug": "jacob-kotzubei"
+    },
+    {
+      "id": "person_bob_wymbs",
+      "type": "person",
+      "name": "Bob Wymbs",
+      "slug": "bob-wymbs"
+    },
+    {
+      "id": "person_brandon_crawley",
+      "type": "person",
+      "name": "Brandon Crawley",
+      "slug": "brandon-crawley"
+    },
+    {
+      "id": "person_jonathan_lee",
+      "type": "person",
+      "name": "Jonathan Lee",
+      "slug": "jonathan-lee"
+    },
+    {
+      "id": "person_geoff_anfuso",
+      "type": "person",
+      "name": "Geoff Anfuso",
+      "slug": "geoff-anfuso"
+    },
+    {
+      "id": "person_dave_aroesty",
+      "type": "person",
+      "name": "Dave Aroesty",
+      "slug": "dave-aroesty"
+    },
+    {
+      "id": "person_david_arrabito",
+      "type": "person",
+      "name": "David Arrabito",
+      "slug": "david-arrabito"
+    },
+    {
+      "id": "person_daniel_barnhill",
+      "type": "person",
+      "name": "Daniel Barnhill",
+      "slug": "daniel-barnhill"
+    },
+    {
+      "id": "person_wayne_bush",
+      "type": "person",
+      "name": "Wayne Bush",
+      "slug": "wayne-bush"
+    },
+    {
+      "id": "person_matthew_louie",
+      "type": "person",
+      "name": "Matthew Louie",
+      "slug": "matthew-louie"
+    },
+    {
+      "id": "person_billy_maguy",
+      "type": "person",
+      "name": "Billy Maguy",
+      "slug": "billy-maguy"
+    },
+    {
+      "id": "person_dan_sanner",
+      "type": "person",
+      "name": "Dan Sanner",
+      "slug": "dan-sanner"
+    },
+    {
+      "id": "person_mark_strauch",
+      "type": "person",
+      "name": "Mark Strauch",
+      "slug": "mark-strauch"
+    },
+    {
+      "id": "person_april_smith",
+      "type": "person",
+      "name": "April Smith",
+      "slug": "april-smith"
+    },
+    {
+      "id": "person_daniel_cohen",
+      "type": "person",
+      "name": "Daniel Cohen",
+      "slug": "daniel-cohen"
+    },
+    {
+      "id": "person_haley_van_cleve",
+      "type": "person",
+      "name": "Haley Van Cleve",
+      "slug": "haley-van-cleve"
+    },
+    {
+      "id": "person_jacob_zodikoff",
+      "type": "person",
+      "name": "Jacob Zodikoff",
+      "slug": "jacob-zodikoff"
+    },
+    {
+      "id": "person_jake_brodsky",
+      "type": "person",
+      "name": "Jake Brodsky",
+      "slug": "jake-brodsky"
+    },
+    {
+      "id": "person_john_wanglin",
+      "type": "person",
+      "name": "John Wanglin",
+      "slug": "john-wanglin"
+    },
+    {
+      "id": "person_matt_moore",
+      "type": "person",
+      "name": "Matt Moore",
+      "slug": "matt-moore"
+    },
+    {
+      "id": "person_tony_marsh",
+      "type": "person",
+      "name": "Tony Marsh",
+      "slug": "tony-marsh"
+    },
+    {
+      "id": "person_matt_white",
+      "type": "person",
+      "name": "Matt White",
+      "slug": "matt-white"
+    },
+    {
+      "id": "person_brian_conway",
+      "type": "person",
+      "name": "Brian J. Conway",
+      "slug": "brian-conway"
+    },
+    {
+      "id": "person_kevin_masse",
+      "type": "person",
+      "name": "Kevin L. Masse",
+      "slug": "kevin-masse"
+    },
+    {
+      "id": "person_michelle_ra",
+      "type": "person",
+      "name": "Michelle Ra",
+      "slug": "michelle-ra"
+    },
+    {
+      "id": "person_gabriel_weissmann",
+      "type": "person",
+      "name": "Gabriel I. Weissmann",
+      "slug": "gabriel-weissmann"
+    },
+    {
+      "id": "person_chris_hong",
+      "type": "person",
+      "name": "Chris Hong",
+      "slug": "chris-hong"
+    },
+    {
+      "id": "person_hunter_fortney",
+      "type": "person",
+      "name": "Hunter Fortney",
+      "slug": "hunter-fortney"
+    },
+    {
+      "id": "person_daniel_winschuh",
+      "type": "person",
+      "name": "Daniel F. Winschuh",
+      "slug": "daniel-winschuh"
+    },
+    {
+      "id": "person_mitchell_pitkin",
+      "type": "person",
+      "name": "Mitchell J. Pitkin",
+      "slug": "mitchell-pitkin"
+    },
+    {
+      "id": "person_jennifer_barbetta",
+      "type": "person",
+      "name": "Jennifer A. Barbetta",
+      "slug": "jennifer-barbetta"
+    },
+    {
       "id": "provider_baird",
       "type": "provider",
       "name": "Baird",
@@ -2331,6 +2727,623 @@
       ]
     },
     {
+      "from": "person_evan_cottington",
+      "to": "market_cleveland",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_office_filter",
+      "source_ids": [
+        "src_blue_point_team"
+      ]
+    },
+    {
+      "from": "person_lance_curtis",
+      "to": "market_cleveland",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_office_filter",
+      "source_ids": [
+        "src_blue_point_team"
+      ]
+    },
+    {
+      "from": "person_bobby_exler",
+      "to": "market_cleveland",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_office_filter",
+      "source_ids": [
+        "src_blue_point_team"
+      ]
+    },
+    {
+      "from": "person_jim_fleming",
+      "to": "market_cleveland",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_office_filter",
+      "source_ids": [
+        "src_blue_point_team"
+      ]
+    },
+    {
+      "from": "person_charley_geiger",
+      "to": "market_cleveland",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_office_filter",
+      "source_ids": [
+        "src_blue_point_team"
+      ]
+    },
+    {
+      "from": "person_mujteba_haidri",
+      "to": "market_charlotte",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_office_filter",
+      "source_ids": [
+        "src_blue_point_team"
+      ]
+    },
+    {
+      "from": "person_tom_pitera",
+      "to": "market_cleveland",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_office_filter",
+      "source_ids": [
+        "src_blue_point_team"
+      ]
+    },
+    {
+      "from": "person_jonathan_pressnell",
+      "to": "market_cleveland",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_office_filter",
+      "source_ids": [
+        "src_blue_point_team"
+      ]
+    },
+    {
+      "from": "person_jeff_robich",
+      "to": "market_cleveland",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_office_filter",
+      "source_ids": [
+        "src_blue_point_team"
+      ]
+    },
+    {
+      "from": "person_rick_soukup",
+      "to": "market_cleveland",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_office_filter",
+      "source_ids": [
+        "src_blue_point_team"
+      ]
+    },
+    {
+      "from": "person_julie_stacey",
+      "to": "market_cleveland",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_office_filter",
+      "source_ids": [
+        "src_blue_point_team"
+      ]
+    },
+    {
+      "from": "person_scott_stone",
+      "to": "market_charlotte",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_office_filter",
+      "source_ids": [
+        "src_blue_point_team"
+      ]
+    },
+    {
+      "from": "person_gabe_trank",
+      "to": "market_charlotte",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_office_filter",
+      "source_ids": [
+        "src_blue_point_team"
+      ]
+    },
+    {
+      "from": "person_sean_ward",
+      "to": "market_cleveland",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_office_filter",
+      "source_ids": [
+        "src_blue_point_team"
+      ]
+    },
+    {
+      "from": "person_alex_weinstein",
+      "to": "market_charlotte",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_office_filter",
+      "source_ids": [
+        "src_blue_point_team"
+      ]
+    },
+    {
+      "from": "person_jake_white",
+      "to": "market_cleveland",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_office_filter",
+      "source_ids": [
+        "src_blue_point_team"
+      ]
+    },
+    {
+      "from": "person_sarah_wild",
+      "to": "market_charlotte",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_office_filter",
+      "source_ids": [
+        "src_blue_point_team"
+      ]
+    },
+    {
+      "from": "person_brendan_barrett",
+      "to": "market_chicago",
+      "type": "located_in_market",
+      "evidence_mode": "firm_office_association",
+      "source_ids": [
+        "src_mdp_team",
+        "src_mdp_home"
+      ]
+    },
+    {
+      "from": "person_elizabeth_betten",
+      "to": "market_chicago",
+      "type": "located_in_market",
+      "evidence_mode": "firm_office_association",
+      "source_ids": [
+        "src_mdp_team",
+        "src_mdp_home"
+      ]
+    },
+    {
+      "from": "person_joshua_damon",
+      "to": "market_chicago",
+      "type": "located_in_market",
+      "evidence_mode": "firm_office_association",
+      "source_ids": [
+        "src_mdp_team",
+        "src_mdp_home"
+      ]
+    },
+    {
+      "from": "person_matthew_denison",
+      "to": "market_chicago",
+      "type": "located_in_market",
+      "evidence_mode": "firm_office_association",
+      "source_ids": [
+        "src_mdp_team",
+        "src_mdp_home"
+      ]
+    },
+    {
+      "from": "person_michael_dolce",
+      "to": "market_chicago",
+      "type": "located_in_market",
+      "evidence_mode": "firm_office_association",
+      "source_ids": [
+        "src_mdp_team",
+        "src_mdp_home"
+      ]
+    },
+    {
+      "from": "person_alex_fisher",
+      "to": "market_chicago",
+      "type": "located_in_market",
+      "evidence_mode": "firm_office_association",
+      "source_ids": [
+        "src_mdp_team",
+        "src_mdp_home"
+      ]
+    },
+    {
+      "from": "person_scott_grace",
+      "to": "market_chicago",
+      "type": "located_in_market",
+      "evidence_mode": "firm_office_association",
+      "source_ids": [
+        "src_mdp_team",
+        "src_mdp_home"
+      ]
+    },
+    {
+      "from": "person_john_knutsen",
+      "to": "market_chicago",
+      "type": "located_in_market",
+      "evidence_mode": "firm_office_association",
+      "source_ids": [
+        "src_mdp_team",
+        "src_mdp_home"
+      ]
+    },
+    {
+      "from": "person_brandon_levitan",
+      "to": "market_chicago",
+      "type": "located_in_market",
+      "evidence_mode": "firm_office_association",
+      "source_ids": [
+        "src_mdp_team",
+        "src_mdp_home"
+      ]
+    },
+    {
+      "from": "person_matthew_raino",
+      "to": "market_chicago",
+      "type": "located_in_market",
+      "evidence_mode": "firm_office_association",
+      "source_ids": [
+        "src_mdp_team",
+        "src_mdp_home"
+      ]
+    },
+    {
+      "from": "person_tanner_scott",
+      "to": "market_chicago",
+      "type": "located_in_market",
+      "evidence_mode": "firm_office_association",
+      "source_ids": [
+        "src_mdp_team",
+        "src_mdp_home"
+      ]
+    },
+    {
+      "from": "person_jason_shideler",
+      "to": "market_chicago",
+      "type": "located_in_market",
+      "evidence_mode": "firm_office_association",
+      "source_ids": [
+        "src_mdp_team",
+        "src_mdp_home"
+      ]
+    },
+    {
+      "from": "person_annie_terry",
+      "to": "market_chicago",
+      "type": "located_in_market",
+      "evidence_mode": "firm_office_association",
+      "source_ids": [
+        "src_mdp_team",
+        "src_mdp_home"
+      ]
+    },
+    {
+      "from": "person_rob_sears",
+      "to": "market_washington_dc",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_carlyle_rob_sears"
+      ]
+    },
+    {
+      "from": "person_scott_hughes",
+      "to": "market_washington_dc",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_carlyle_scott_hughes"
+      ]
+    },
+    {
+      "from": "person_bruce_rosenblum",
+      "to": "market_washington_dc",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_carlyle_bruce_rosenblum"
+      ]
+    },
+    {
+      "from": "person_arjun_shah",
+      "to": "market_washington_dc",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_carlyle_arjun_shah"
+      ]
+    },
+    {
+      "from": "person_andrew_jurkowski",
+      "to": "market_los_angeles",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_ares_andrew_jurkowski"
+      ]
+    },
+    {
+      "from": "person_jacob_kotzubei",
+      "to": "market_los_angeles",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_office_filter",
+      "source_ids": [
+        "src_platinum_people"
+      ]
+    },
+    {
+      "from": "person_bob_wymbs",
+      "to": "market_los_angeles",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_office_filter",
+      "source_ids": [
+        "src_platinum_people"
+      ]
+    },
+    {
+      "from": "person_brandon_crawley",
+      "to": "market_los_angeles",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_office_filter",
+      "source_ids": [
+        "src_platinum_people"
+      ]
+    },
+    {
+      "from": "person_jonathan_lee",
+      "to": "market_los_angeles",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_office_filter",
+      "source_ids": [
+        "src_platinum_people"
+      ]
+    },
+    {
+      "from": "person_geoff_anfuso",
+      "to": "market_los_angeles",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_office_filter",
+      "source_ids": [
+        "src_platinum_people"
+      ]
+    },
+    {
+      "from": "person_dave_aroesty",
+      "to": "market_los_angeles",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_office_filter",
+      "source_ids": [
+        "src_platinum_people"
+      ]
+    },
+    {
+      "from": "person_david_arrabito",
+      "to": "market_los_angeles",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_office_filter",
+      "source_ids": [
+        "src_platinum_people"
+      ]
+    },
+    {
+      "from": "person_daniel_barnhill",
+      "to": "market_los_angeles",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_office_filter",
+      "source_ids": [
+        "src_platinum_people"
+      ]
+    },
+    {
+      "from": "person_wayne_bush",
+      "to": "market_los_angeles",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_office_filter",
+      "source_ids": [
+        "src_platinum_people"
+      ]
+    },
+    {
+      "from": "person_matthew_louie",
+      "to": "market_los_angeles",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_office_filter",
+      "source_ids": [
+        "src_platinum_people"
+      ]
+    },
+    {
+      "from": "person_billy_maguy",
+      "to": "market_bay_area",
+      "type": "located_in_market",
+      "evidence_mode": "firm_office_association",
+      "source_ids": [
+        "src_alpine_people",
+        "src_alpine_bayarea_2026"
+      ]
+    },
+    {
+      "from": "person_dan_sanner",
+      "to": "market_bay_area",
+      "type": "located_in_market",
+      "evidence_mode": "firm_office_association",
+      "source_ids": [
+        "src_alpine_people",
+        "src_alpine_bayarea_2026"
+      ]
+    },
+    {
+      "from": "person_mark_strauch",
+      "to": "market_bay_area",
+      "type": "located_in_market",
+      "evidence_mode": "firm_office_association",
+      "source_ids": [
+        "src_alpine_people",
+        "src_alpine_bayarea_2026"
+      ]
+    },
+    {
+      "from": "person_april_smith",
+      "to": "market_bay_area",
+      "type": "located_in_market",
+      "evidence_mode": "firm_office_association",
+      "source_ids": [
+        "src_alpine_people",
+        "src_alpine_bayarea_2026"
+      ]
+    },
+    {
+      "from": "person_daniel_cohen",
+      "to": "market_bay_area",
+      "type": "located_in_market",
+      "evidence_mode": "firm_office_association",
+      "source_ids": [
+        "src_alpine_people",
+        "src_alpine_bayarea_2026"
+      ]
+    },
+    {
+      "from": "person_haley_van_cleve",
+      "to": "market_bay_area",
+      "type": "located_in_market",
+      "evidence_mode": "firm_office_association",
+      "source_ids": [
+        "src_alpine_people",
+        "src_alpine_bayarea_2026"
+      ]
+    },
+    {
+      "from": "person_jacob_zodikoff",
+      "to": "market_bay_area",
+      "type": "located_in_market",
+      "evidence_mode": "firm_office_association",
+      "source_ids": [
+        "src_alpine_people",
+        "src_alpine_bayarea_2026"
+      ]
+    },
+    {
+      "from": "person_jake_brodsky",
+      "to": "market_bay_area",
+      "type": "located_in_market",
+      "evidence_mode": "firm_office_association",
+      "source_ids": [
+        "src_alpine_people",
+        "src_alpine_bayarea_2026"
+      ]
+    },
+    {
+      "from": "person_john_wanglin",
+      "to": "market_bay_area",
+      "type": "located_in_market",
+      "evidence_mode": "firm_office_association",
+      "source_ids": [
+        "src_alpine_people",
+        "src_alpine_bayarea_2026"
+      ]
+    },
+    {
+      "from": "person_matt_moore",
+      "to": "market_bay_area",
+      "type": "located_in_market",
+      "evidence_mode": "firm_office_association",
+      "source_ids": [
+        "src_alpine_people",
+        "src_alpine_bayarea_2026"
+      ]
+    },
+    {
+      "from": "person_tony_marsh",
+      "to": "market_austin",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_ta_tony_marsh"
+      ]
+    },
+    {
+      "from": "person_matt_white",
+      "to": "market_fort_worth",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_tpg_tpop_team"
+      ]
+    },
+    {
+      "from": "person_brian_conway",
+      "to": "market_boston",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_ta_brian_conway"
+      ]
+    },
+    {
+      "from": "person_kevin_masse",
+      "to": "market_boston",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_ta_kevin_masse"
+      ]
+    },
+    {
+      "from": "person_michelle_ra",
+      "to": "market_boston",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_ta_michelle_ra"
+      ]
+    },
+    {
+      "from": "person_gabriel_weissmann",
+      "to": "market_boston",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_ta_gabriel_weissmann"
+      ]
+    },
+    {
+      "from": "person_chris_hong",
+      "to": "market_boston",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_ta_chris_hong"
+      ]
+    },
+    {
+      "from": "person_hunter_fortney",
+      "to": "market_boston",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_ta_hunter_fortney"
+      ]
+    },
+    {
+      "from": "person_daniel_winschuh",
+      "to": "market_boston",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_ta_daniel_winschuh"
+      ]
+    },
+    {
+      "from": "person_mitchell_pitkin",
+      "to": "market_boston",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_ta_mitchell_pitkin"
+      ]
+    },
+    {
+      "from": "person_jennifer_barbetta",
+      "to": "market_boston",
+      "type": "located_in_market",
+      "evidence_mode": "explicit_person_bio",
+      "source_ids": [
+        "src_ta_jennifer_barbetta"
+      ]
+    },
+    {
       "from": "firm_hf",
       "to": "market_bay_area",
       "type": "present_in_market",
@@ -2382,7 +3395,8 @@
       "type": "present_in_market",
       "source_ids": [
         "src_alpine_bayarea_2026",
-        "src_alpine_leadership_2024"
+        "src_alpine_leadership_2024",
+        "src_alpine_people"
       ]
     },
     {
@@ -2417,7 +3431,17 @@
       "type": "present_in_market",
       "source_ids": [
         "src_ta_about",
-        "src_ta_offices"
+        "src_ta_offices",
+        "src_ta_tony_marsh",
+        "src_ta_brian_conway",
+        "src_ta_kevin_masse",
+        "src_ta_michelle_ra",
+        "src_ta_gabriel_weissmann",
+        "src_ta_chris_hong",
+        "src_ta_hunter_fortney",
+        "src_ta_daniel_winschuh",
+        "src_ta_mitchell_pitkin",
+        "src_ta_jennifer_barbetta"
       ]
     },
     {
@@ -2426,7 +3450,17 @@
       "type": "present_in_market",
       "source_ids": [
         "src_ta_about",
-        "src_ta_offices"
+        "src_ta_offices",
+        "src_ta_tony_marsh",
+        "src_ta_brian_conway",
+        "src_ta_kevin_masse",
+        "src_ta_michelle_ra",
+        "src_ta_gabriel_weissmann",
+        "src_ta_chris_hong",
+        "src_ta_hunter_fortney",
+        "src_ta_daniel_winschuh",
+        "src_ta_mitchell_pitkin",
+        "src_ta_jennifer_barbetta"
       ]
     },
     {
@@ -2435,7 +3469,17 @@
       "type": "present_in_market",
       "source_ids": [
         "src_ta_about",
-        "src_ta_offices"
+        "src_ta_offices",
+        "src_ta_tony_marsh",
+        "src_ta_brian_conway",
+        "src_ta_kevin_masse",
+        "src_ta_michelle_ra",
+        "src_ta_gabriel_weissmann",
+        "src_ta_chris_hong",
+        "src_ta_hunter_fortney",
+        "src_ta_daniel_winschuh",
+        "src_ta_mitchell_pitkin",
+        "src_ta_jennifer_barbetta"
       ]
     },
     {
@@ -2453,6 +3497,7 @@
       "type": "present_in_market",
       "source_ids": [
         "src_mdp_home",
+        "src_mdp_team",
         "src_mdp_vahe_dombalagian"
       ]
     },
@@ -2462,7 +3507,8 @@
       "type": "present_in_market",
       "source_ids": [
         "src_ares_kevin_cox",
-        "src_ares_shakun_khanna"
+        "src_ares_shakun_khanna",
+        "src_ares_andrew_jurkowski"
       ]
     },
     {
@@ -2471,6 +3517,7 @@
       "type": "present_in_market",
       "source_ids": [
         "src_platinum_about",
+        "src_platinum_people",
         "src_platinum_johnny_lopez",
         "src_platinum_mark_barnhill"
       ]
@@ -2500,7 +3547,11 @@
         "src_carlyle_vipul_amin",
         "src_carlyle_jeremy_anderson",
         "src_carlyle_chioma_achebe",
-        "src_carlyle_brian_bernasek"
+        "src_carlyle_brian_bernasek",
+        "src_carlyle_rob_sears",
+        "src_carlyle_scott_hughes",
+        "src_carlyle_bruce_rosenblum",
+        "src_carlyle_arjun_shah"
       ]
     },
     {

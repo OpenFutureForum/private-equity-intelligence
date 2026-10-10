@@ -75,6 +75,7 @@ for (const person of people) {
     assert(person.market_id && marketIds.has(person.market_id), `people/${person.id}: U.S. atlas profile needs a valid market`);
     assert(person.location, `people/${person.id}: U.S. atlas profile needs a location statement`);
     assert(allowedLocationEvidence.has(person.location_evidence), `people/${person.id}: invalid location evidence`);
+    if (person.location_evidence === 'firm_office_association') assert(/associat|not asserted/i.test(person.location), `people/${person.id}: firm-office location must be visibly qualified`);
     assert(person.current_firm_id && person.current_title, `people/${person.id}: U.S. atlas profile needs a verified current role`);
   }
   if (person.profile_scope.includes('transaction_attribution')) {

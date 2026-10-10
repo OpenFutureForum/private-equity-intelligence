@@ -19,3 +19,8 @@ test('home page exposes core research lanes and metadata', async () => {
   assert.match(html, /application\/ld\+json/);
   assert.match(html, /canonical/);
 });
+
+test('filterable cards honor the hidden state', async () => {
+  const css = await readFile(file('assets/styles.css'), 'utf8');
+  assert.match(css, /\[hidden\]\{display:none!important\}/);
+});

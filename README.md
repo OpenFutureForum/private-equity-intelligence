@@ -3,7 +3,7 @@
 Open-source intelligence on private-equity firms, dealmakers, transactions, portfolio operations, and the advisers and service providers supporting the private-capital ecosystem.
 
 **Publisher:** Open Future Forum  
-**Current release:** 0.2.0 National Edition
+**Current release:** 0.2.1 National Edition
 **Canonical website:** https://openfutureforum.github.io/private-equity-intelligence/
 
 ## What this project connects
@@ -18,6 +18,8 @@ The project is a source-backed knowledge graph linking:
 - public evidence supporting each material claim.
 
 The index is intentionally curated. The National Edition expands geographic coverage without turning the project into a shallow directory: every person, market relationship and transaction attribution retains an explicit evidence trail.
+
+The current dataset contains 112 source-backed U.S. atlas profiles across 10 markets, plus separately labeled historical transaction participants.
 
 ## Research lanes
 

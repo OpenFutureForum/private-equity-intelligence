@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.2.1 — 2026-10-10
+
+- Added 66 source-backed U.S. private-equity professional profiles, bringing the current atlas to 112 people.
+- Deepened coverage in the San Francisco Bay Area, Los Angeles, Austin, Fort Worth, Chicago, Cleveland, Charlotte, Washington and Boston.
+- Added current investing, operating, capital-markets, portfolio, legal, finance and investor-relations leaders while preserving location-confidence labels.
+- Expanded the official-source register and person-to-market knowledge graph relationships.
+
 ## 0.2.0 — 2026-10-10
 
 - Expanded the regional people atlas into a national map spanning 10 U.S. private-equity hubs.
