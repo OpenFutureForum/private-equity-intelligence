@@ -86,7 +86,7 @@ function layout({ title, description, pagePath = '', eyebrow = '', body, schema 
   <a class="skip-link" href="#main">Skip to content</a>
   <header class="site-header"><div class="shell header-inner">${nav}</div></header>
   <main id="main">${eyebrow ? `<div class="shell page-kicker">${esc(eyebrow)}</div>` : ''}${body}</main>
-  <footer><div class="shell footer-grid"><div><div class="footer-title">Private Equity Intelligence Index</div><p>Evidence-led research from Open Future Forum.</p></div><div><a href="${base}atlas/">U.S. Atlas</a><a href="${base}depth/">Research depth</a><a href="${base}methodology/">Methodology</a><a href="${base}sources/">Sources</a><a href="${base}corrections/">Corrections</a></div><div><a href="${base}publisher/">Publisher</a><a href="${base}privacy/">Privacy</a><a href="https://github.com/OpenFutureForum/private-equity-intelligence">GitHub ↗</a></div></div><div class="shell footer-floor"><span>National Edition · v0.7.0</span><span>Data reviewed through 10 October 2026</span></div></footer>
+  <footer><div class="shell footer-grid"><div><div class="footer-title">Private Equity Intelligence Index</div><p>Evidence-led research from Open Future Forum.</p></div><div><a href="${base}atlas/">U.S. Atlas</a><a href="${base}depth/">Research depth</a><a href="${base}methodology/">Methodology</a><a href="${base}sources/">Sources</a><a href="${base}corrections/">Corrections</a></div><div><a href="${base}publisher/">Publisher</a><a href="${base}privacy/">Privacy</a><a href="https://github.com/OpenFutureForum/private-equity-intelligence">GitHub ↗</a></div></div><div class="shell footer-floor"><span>National Edition · v0.7.1</span><span>Data reviewed through 10 October 2026</span></div></footer>
   <script src="${base}assets/app.js" defer></script>
 </body></html>`;
 }
@@ -373,13 +373,53 @@ const executiveCommunityCompanyIds = new Set(['company_world50','company_vistage
 const executiveCommunityDeals = deals.filter((deal)=>executiveCommunityCompanyIds.has(deal.target_company_id)).sort((a,b)=>a.announced_on.localeCompare(b.announced_on));
 const executiveCommunityProviders = new Set(executiveCommunityDeals.flatMap((deal)=>deal.provider_roles.map((role)=>role.provider_id)));
 const executiveCommunityPeople = new Set(executiveCommunityDeals.flatMap((deal)=>deal.people_roles.map((role)=>role.person_id)));
+const executiveCommunityFaq = [
+  {
+    question: 'What is an executive community?',
+    answer: 'An executive community is a curated network where senior leaders exchange experience, develop trusted relationships and solve shared business problems through private peer interaction. The model may combine membership, facilitated peer groups, research, coaching and events.',
+    links: [['world-50-mscp-2020','World 50 record'],['vistage-gridiron-2022','Vistage record']]
+  },
+  {
+    question: 'Why do private-equity firms invest in executive networks?',
+    answer: 'Public transaction announcements point to recurring membership, high retention, trusted access to senior audiences and several expansion paths. Buyers have cited new networks, geographic growth, technology, coaching, acquisitions and improved member experiences. These are buyer rationales, not guarantees of future performance.',
+    links: [['world-50-mscp-2020','World 50 record'],['world-50-continuation-2024','Continuation record'],['vistage-gridiron-2022','Vistage record']]
+  },
+  {
+    question: 'How do executive communities make money?',
+    answer: 'The reviewed companies use different models. World 50 and Vistage emphasize membership and continuing peer experiences. Vistage also provides executive coaching. Evanta primarily reported event sponsorship revenue, while CEB combined membership research, advisory products and events.',
+    links: [['vistage-gridiron-2022','Vistage record'],['evanta-ceb-2016','Evanta record'],['ceb-gartner-2017','CEB record']]
+  },
+  {
+    question: 'What makes an executive community valuable?',
+    answer: 'The public evidence suggests that buyers examine retention, member seniority, invitation and curation standards, repeat participation, community density and the ability to extend the platform without weakening trust. Transaction prices alone do not reveal how much value buyers assigned to each factor.',
+    links: [['world-50-mscp-2020','World 50 record'],['vistage-gridiron-2022','Vistage record']]
+  },
+  {
+    question: 'How is an executive community different from a conference business?',
+    answer: 'A conference is usually organized around a scheduled gathering. An executive community is organized around continuing relationships among selected members. Events may support the community, but membership, peer exchange and ongoing engagement can continue between gatherings.',
+    links: [['world-50-mscp-2020','World 50 record'],['evanta-ceb-2016','Evanta record']]
+  },
+  {
+    question: 'Are executive communities protected from AI disruption?',
+    answer: 'No public transaction proves that executive communities are protected from AI. AI can reduce the cost of generic content and improve matching or research. The more defensible elements are likely to be trust, confidentiality, curation, member quality and relationships that depend on sustained human participation.',
+    links: [['world-50-continuation-2024','World 50 continuation record'],['ceb-gartner-2017','CEB record']]
+  }
+];
 const executiveCommunityBody = `${pageHero('Open Future Forum comparable set','Executive communities','Transactions involving invitation-only executive networks, CEO peer groups, coaching, membership research and C-suite events.',`${stat(executiveCommunityDeals.length,'relevant deals')}${stat(executiveCommunityPeople.size,'named people')}${stat(executiveCommunityProviders.size,'advisers')}`)}
 <section class="section shell"><div class="thesis-intro"><p class="dropcap">The closest public comparables are not ordinary media companies. They sell trusted access, structured peer exchange, leadership development and recurring executive relationships.</p><p>World 50 and Vistage show direct private-equity appetite for membership communities. Evanta and CEB show how executive gatherings can sit inside larger research, advisory and sponsorship platforms. The transaction records below separate confirmed facts from underwriting interpretation.</p></div>
 <div class="content-block"><p class="eyebrow">What buyers appear to value</p><div class="research-lanes"><article><span>01</span><h3>Retention and recurring membership</h3><p>World 50's buyer highlighted retention and member experience. Vistage combines subscription membership with ongoing peer groups and coaching.</p></article><article><span>02</span><h3>High-trust participation</h3><p>Invitation, curation and confidentiality turn access to peers into a product that is difficult to reproduce with generic content.</p></article><article><span>03</span><h3>Multiple growth levers</h3><p>Public deal rationales point to new communities, geographic expansion, technology, coaching, acquisitions, sponsorship and content licensing.</p></article></div></div>
 <div class="content-block"><p class="eyebrow">Ownership and consolidation path</p><div class="timeline">${executiveCommunityDeals.map((deal)=>`<a href="${base}deals/${deal.slug}/"><time>${getDealYear(deal)}</time><b>${esc(companyMap.get(deal.target_company_id).name)}</b><span>${esc(deal.title)}</span></a>`).join('')}</div></div>
 <div class="content-block"><p class="eyebrow">Detailed comparable transactions</p><div class="cards-grid">${executiveCommunityDeals.map(dealCard).join('')}</div></div>
+<div class="content-block prose"><p class="eyebrow">Direct answers from the evidence</p><h2>Executive community questions</h2><div class="faq-list">${executiveCommunityFaq.map((item)=>`<details><summary>${esc(item.question)}</summary><p>${esc(item.answer)}</p><p class="source-chips">${item.links.map(([slug,label])=>`<a class="source-chip" href="${base}deals/${slug}/">${esc(label)}</a>`).join('')}</p></details>`).join('')}</div></div>
 <div class="content-block prose"><h2>Implications for Open Future Forum</h2><p>The evidence suggests that a buyer would examine the durability of member retention, the seniority and exclusivity of the audience, repeat participation, sponsor dependence, community density, the ability to launch adjacent cohorts, and whether technology improves matching and engagement without weakening trust. These are research questions, not a valuation or a claim that Open Future Forum is for sale.</p></div></section>`;
-await write('themes/executive-communities/index.html',layout({title:'Executive community transactions',description:'Private-equity and strategic transactions involving executive peer networks, CEO communities, coaching and C-suite events.',pagePath:'themes/executive-communities/',body:executiveCommunityBody}));
+const executiveCommunitySchema = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {'@type':'WebPage','@id':`${siteUrl}themes/executive-communities/#webpage`,name:'Executive community transactions',description:'Private-equity and strategic transactions involving executive peer networks, CEO communities, coaching and C-suite events.',url:`${siteUrl}themes/executive-communities/`,publisher:{'@type':'Organization',name:'Open Future Forum',url:'https://openfutureforum.com/'}},
+    {'@type':'FAQPage','@id':`${siteUrl}themes/executive-communities/#faq`,mainEntity:executiveCommunityFaq.map((item)=>({'@type':'Question',name:item.question,acceptedAnswer:{'@type':'Answer',text:item.answer}}))}
+  ]
+};
+await write('themes/executive-communities/index.html',layout({title:'Executive community transactions',description:'Private-equity and strategic transactions involving executive peer networks, CEO communities, coaching and C-suite events.',pagePath:'themes/executive-communities/',body:executiveCommunityBody,schema:executiveCommunitySchema}));
 
 const sourceRows = sources.map((s)=>`<tr class="filter-card" data-search="${esc([s.title,s.publisher,s.source_class,s.published_date].join(' ').toLowerCase())}"><td><a href="${esc(s.url)}" target="_blank" rel="noreferrer"><b>${esc(s.title)}</b> ↗</a><span class="mobile-meta">${esc(s.publisher)}</span></td><td>${esc(s.publisher)}</td><td>${esc(pretty(s.source_class))}</td><td>${esc(s.published_date ?? 'Undated')}</td><td>${esc(s.accessed_date)}</td></tr>`).join('');
 const sourcesBody = `${pageHero('Evidence register','Sources','The canonical evidence register behind material claims and labeled directory submissions in the National Edition.',`${stat(sources.length,'sources')}${stat(relationCounts.citations,'deal sources')}`)}<section class="section shell">${controls('Search title, publisher or source class…')}<div class="table-wrap filter-results"><table><thead><tr><th>Source</th><th>Publisher</th><th>Class</th><th>Published</th><th>Accessed</th></tr></thead><tbody>${sourceRows}</tbody></table></div><div class="empty-state" hidden>No matching sources.</div></section>`;

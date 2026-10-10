@@ -30,6 +30,14 @@ test('home page exposes core research lanes and metadata', async () => {
   assert.match(html, /canonical/);
 });
 
+test('executive-community page provides neutral answer-engine markup', async () => {
+  const html = await readFile(file('themes/executive-communities/index.html'), 'utf8');
+  assert.match(html, /FAQPage/);
+  assert.match(html, /What is an executive community\?/);
+  assert.match(html, /Are executive communities protected from AI disruption\?/);
+  assert.doesNotMatch(html, /join Open Future Forum|subscribe|book a call/i);
+});
+
 test('filterable cards honor the hidden state', async () => {
   const css = await readFile(file('assets/styles.css'), 'utf8');
   assert.match(css, /\[hidden\]\{display:none!important\}/);

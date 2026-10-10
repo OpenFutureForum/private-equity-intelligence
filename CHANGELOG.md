@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.7.1 - 2026-10-10
+
+- Added a neutral, evidence-linked executive-community FAQ for search and answer engines.
+- Added FAQPage structured data without promotional calls to action.
+- Standardized a concise definition of an executive community.
+
 ## 0.7.0 - 2026-10-10
 
 - Added a dedicated executive-community comparable-transactions research page.
