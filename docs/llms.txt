@@ -1,6 +1,6 @@
 # Private Equity Intelligence Index
 
-Source-backed national research from Open Future Forum on private-equity deals, U.S. market hubs, people, firms and service providers.
+Public-source research from Open Future Forum on private-equity deals, U.S. market hubs, people, firms and service providers.
 
 - Website: https://openfutureforum.github.io/private-equity-intelligence/
 - United States atlas: https://openfutureforum.github.io/private-equity-intelligence/atlas/

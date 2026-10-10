@@ -1,6 +1,6 @@
 {
   "name": "Relationship-Economy Underwriting Framework",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "scoring_status": "framework_only",
   "notice": "The National Edition publishes questions and evidence prompts, not company scores.",
   "dimensions": [
@@ -33,7 +33,7 @@
       "name": "Community density",
       "category": "network",
       "risk_direction": "higher_can_be_defensive",
-      "definition": "How frequently and meaningfully do members interact across the network?",
+      "definition": "How often do members interact across the network, and how useful are those interactions?",
       "evidence_prompts": [
         "Repeat attendance",
         "Interactions per member",
@@ -45,7 +45,7 @@
       "name": "Trust dependency",
       "category": "network",
       "risk_direction": "higher_can_be_defensive",
-      "definition": "Does candor, confidentiality or reputation materially affect the product's value?",
+      "definition": "How much do candor, confidentiality and reputation affect the product's value?",
       "evidence_prompts": [
         "Confidentiality mechanisms",
         "Referral-led growth",

@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { access, readFile } from 'node:fs/promises';
+import { access, readFile, readdir } from 'node:fs/promises';
 
 const file = (name) => new URL(`../docs/${name}`, import.meta.url);
 
@@ -23,4 +23,22 @@ test('home page exposes core research lanes and metadata', async () => {
 test('filterable cards honor the hidden state', async () => {
   const css = await readFile(file('assets/styles.css'), 'utf8');
   assert.match(css, /\[hidden\]\{display:none!important\}/);
+});
+
+test('generated copy contains no em dashes or en dashes', async () => {
+  const collect = async (directory) => {
+    const entries = await readdir(directory, { withFileTypes: true });
+    const files = await Promise.all(entries.map((entry) => {
+      const child = new URL(`${entry.name}${entry.isDirectory() ? '/' : ''}`, directory);
+      return entry.isDirectory() ? collect(child) : [child];
+    }));
+    return files.flat();
+  };
+
+  const docs = new URL('../docs/', import.meta.url);
+  const textFiles = (await collect(docs)).filter((entry) => /\.(?:html|json|csv|txt|xml)$/.test(entry.pathname));
+  for (const entry of textFiles) {
+    const contents = await readFile(entry, 'utf8');
+    assert.doesNotMatch(contents, /[\u2013\u2014]/, `${entry.pathname} contains an em dash or en dash`);
+  }
 });

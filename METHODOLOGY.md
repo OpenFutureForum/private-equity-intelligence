@@ -38,7 +38,7 @@ Only the first three are displayed as confirmed transaction participation. Worki
 
 A person enters the U.S. atlas only when a source supports an explicit location, an official office-directory match, or a record clearly labeled `firm_office_association`. The latter means the firm has a verified office in the market and the person has a verified current role, but the source does not establish that the person personally works from that office.
 
-The current market layer covers the San Francisco Bay Area, Los Angeles, Austin, Fort Worth, Chicago, Cleveland, Charlotte, Washington, New York and Boston. These are curated entry points, not an exhaustive census of U.S. private equity. Missing people, firms and cities remain not-yet-verified.
+The current market layer covers the San Francisco Bay Area, Los Angeles, Austin, Fort Worth, Chicago, Cleveland, Charlotte, Washington, New York and Boston. These are selected research markets, not a census of U.S. private equity. Missing people, firms and cities have not been verified.
 
 ## Relationship-economy framework
 
@@ -48,7 +48,7 @@ The project evaluates the characteristics of relationship-driven businesses with
 - trust dependency;
 - access scarcity;
 - recurring revenue;
-- community density;
+- community participation;
 - proprietary data generation;
 - in-person experience value;
 - content-automation exposure;
@@ -64,7 +64,7 @@ The first edition publishes the framework and evidence prompts, not company scor
 - **Verified:** directly supported by a source.
 - **Derived:** reproducibly calculated from verified data.
 - **Editorial:** publisher interpretation, labeled visibly.
-- **Unknown:** not established by the reviewed public sources.
+- **Unknown:** not established by the public sources reviewed for this release.
 
 Absence of a person, adviser or value does not show that none existed; it means the project has not verified it.
 

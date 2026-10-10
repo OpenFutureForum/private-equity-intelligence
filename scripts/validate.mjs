@@ -107,6 +107,7 @@ for (const forbidden of ['personal_email','home_address','private_phone','date_o
   assert(!raw.includes(forbidden), `privacy: forbidden field or content ${forbidden}`);
 }
 assert(!/[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}/i.test(raw), 'privacy: dataset must not contain email addresses');
+assert(!/[\u2013\u2014]/.test(raw), 'editorial: dataset must not contain em dashes or en dashes');
 
 if (errors.length) {
   console.error(`Validation failed with ${errors.length} error${errors.length === 1 ? '' : 's'}:`);
