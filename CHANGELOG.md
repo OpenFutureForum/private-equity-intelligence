@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.4.0 (2026-10-10)
+
+- Added a public Research Depth dashboard with transparent completeness scores and a prioritized research queue.
+- Added ownership timelines to company dossiers.
+- Added observed strategy, transaction-side, market, people and provider signals to firm profiles.
+- Added completeness meters and missing-evidence signals to deal records.
+- Kept completeness scoring separate from company quality, investment merit and the unpublished thesis framework.
+
 ## 0.3.1 (2026-10-10)
 
 - Processed all 168 rows in a supplied PE ecosystem list and merged one duplicate into 167 unique professional profiles.

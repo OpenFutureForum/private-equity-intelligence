@@ -3,7 +3,7 @@
 Open-source intelligence on private-equity firms, dealmakers, transactions, portfolio operations, and the advisers and service providers supporting the private-capital ecosystem.
 
 **Publisher:** Open Future Forum  
-**Current release:** 0.3.1 National Edition
+**Current release:** 0.4.0 National Edition  
 **Canonical website:** https://openfutureforum.github.io/private-equity-intelligence/
 
 ## What this project connects
@@ -33,6 +33,7 @@ The 100 investment records use two evidence levels. Fourteen records are based o
 2. **Deal Teams:** disclosed buyers, sellers, investors, advisers, lenders and named transaction professionals.
 3. **United States PE Atlas:** professionals and firms across the San Francisco Bay Area, Los Angeles, Austin, Fort Worth, Chicago, Cleveland, Charlotte, Washington, New York and Boston.
 4. **PE Services Ecosystem:** firms publicly documented on transactions plus a clearly labeled directory of professionals who sell to or support private equity.
+5. **Research Depth:** transparent record-completeness scores, ownership histories and a public queue of evidence gaps.
 
 ## Architecture
 
@@ -42,7 +43,7 @@ The 100 investment records use two evidence levels. Fourteen records are based o
 - `docs/` is the generated GitHub Pages artifact.
 - `tests/` checks attribution, relationship integrity, privacy and output contracts.
 
-No rank, score or deal-team attribution is inferred from employment alone. Unknown values remain unknown.
+Research-completeness scores measure documentation depth, not investment quality. No deal-team attribution is inferred from employment alone. Unknown values remain unknown.
 
 ## Local verification
 
